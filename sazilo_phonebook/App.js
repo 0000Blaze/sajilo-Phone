@@ -1,7 +1,9 @@
 import { StatusBar } from "expo-status-bar";
-import { Button, StyleSheet, TextInput, View, Text } from "react-native";
+import { Button, StyleSheet, TextInput, View, Text,Dimensions } from "react-native";
 import { useState, useEffect } from "react";
 import * as Location from "expo-location";
+import FirstPage from "./src/Screens/FirstPage";
+import SecondPage from "./src/Screens/SecondPage";
 
 export default function App() {
   const [location, setLocation] = useState();
@@ -45,7 +47,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <TextInput
+      {/* <TextInput
         placeholder="Address"
         value={address}
         onChangeText={setAddress}
@@ -54,16 +56,20 @@ export default function App() {
       <Text></Text>
       <Text></Text>
       <Button title="Get Current Location" onPress={reverseGeocode} />
-      <StatusBar style="auto" />
+      <StatusBar style="auto" /> */}
+      <FirstPage/>
+      {/* <SecondPage/> */}
     </View>
   );
 }
-
+const windowWidth = Dimensions.get('window').width;
+const windowHeight = Dimensions.get('window').height;
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
+    flex: 1,  
+    height:windowHeight,
+    width:windowWidth,
     backgroundColor: "#fff",
     alignItems: "center",
-    justifyContent: "center",
   },
 });
