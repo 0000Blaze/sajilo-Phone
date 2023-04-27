@@ -1,5 +1,12 @@
 import { StatusBar } from "expo-status-bar";
-import { Button, StyleSheet, TextInput, View, Text,Dimensions } from "react-native";
+import {
+  Button,
+  StyleSheet,
+  TextInput,
+  View,
+  Text,
+  Dimensions,
+} from "react-native";
 import { useState, useEffect } from "react";
 import * as Location from "expo-location";
 import FirstPage from "./src/Screens/FirstPage";
@@ -7,6 +14,7 @@ import SecondPage from "./src/Screens/SecondPage";
 
 export default function App() {
   const [location, setLocation] = useState();
+  const [pageTransition, setPageSecond] = useState(false);
   const [address, setAddress] = useState();
   // const [currentLocaton, setCurrentLocation] = useState();
 
@@ -40,8 +48,8 @@ export default function App() {
       latitude: location.coords.latitude,
     });
 
-    console.log("Reverse Geocoded:");
-    console.log(reverseGeocodedAddress);
+    // console.log("Reverse Geocoded:");
+    // console.log(reverseGeocodedAddress);
     // setCurrentLocation(reverseGeocodedAddress[0]);
   };
 
@@ -57,18 +65,21 @@ export default function App() {
       <Text></Text>
       <Button title="Get Current Location" onPress={reverseGeocode} />
       <StatusBar style="auto" /> */}
-      <FirstPage/>
-      {/* <SecondPage/> */}
+      {pageTransition ? (
+        <SecondPage setPageSecond={setPageSecond} />
+      ) : (
+        <FirstPage setPageSecond={setPageSecond} />
+      )}
     </View>
   );
 }
-const windowWidth = Dimensions.get('window').width;
-const windowHeight = Dimensions.get('window').height;
+const windowWidth = Dimensions.get("window").width;
+const windowHeight = Dimensions.get("window").height;
 const styles = StyleSheet.create({
   container: {
-    flex: 1,  
-    height:windowHeight,
-    width:windowWidth,
+    flex: 1,
+    height: windowHeight,
+    width: windowWidth,
     backgroundColor: "#fff",
     alignItems: "center",
   },
