@@ -11,33 +11,52 @@ import {
   TouchableOpacity,
 } from "react-native";
 
+const contacts = [
+  { name: "Tejan Khanal", phone: "+9779841312349", post: "Mayor" },
+  { name: "Kedarbabu Basnet", phone: "+9779862605188", post: "Deputy Mayor" },
+  {
+    name: "Balram Lamshal",
+    phone: "+9779852823111",
+    post: "Chief Executive Officer",
+  },
+  {
+    name: "Sushma Acharya",
+    phone: "+9779852843333",
+    post: "Information Officer",
+  },
+  { name: "Rakesh Maharjan", phone: "+9779849460147", post: "Sajilo Phone" },
+];
+
 export default function SecondPage({ setPageSecond }) {
-  const makePhoneCall = () => {
+  const makePhoneCall = (phone) => {
     if (Platform.OS === "android") {
-      Linking.openURL(`tel:${9849460147}`);
+      Linking.openURL(`tel:${phone}`);
     } else {
-      Linking.openURL(`telprompt:${9849460147}`);
+      Linking.openURL(`telprompt:${phone}`);
     }
   };
+
   return (
     <View style={styles.container}>
-      <Text>SecondPage</Text>
+      <Text>Search : </Text>
       <View style={styles.searchBox}>
         <TextInput style={styles.searchInput} />
       </View>
+      <Text></Text>
+      <Text>Siddhicharan Municipality , Okhaldhunga</Text>
       <View style={styles.contactList}>
-        <View style={styles.contact}>
-          <Text> Name: Rakesh Maharjan</Text>
-          <TouchableOpacity onPress={() => makePhoneCall()}>
-            <Image source={require("../../assets/button/phone.png")} />
-          </TouchableOpacity>
-        </View>
+        {contacts.map((contact, index) => (
+          <View style={styles.contact} key={index}>
+            <Text>
+              {contact.name} | {contact.post}
+            </Text>
+            <TouchableOpacity onPress={() => makePhoneCall(contact.phone)}>
+              <Image source={require("../../assets/button/phone.png")} />
+            </TouchableOpacity>
+          </View>
+        ))}
         <View style={styles.navStyles}>
-          <TouchableOpacity
-            onPress={() => {
-              setPageSecond(false);
-            }}
-          >
+          <TouchableOpacity onPress={() => setPageSecond(false)}>
             <Image source={require("../../assets/button/home-icon.png")} />
           </TouchableOpacity>
           <Image source={require("../../assets/button/search-icon.png")} />
