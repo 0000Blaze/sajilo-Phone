@@ -10,6 +10,7 @@ import {
   Linking,
   TouchableOpacity,
 } from "react-native";
+import * as FileSystem from "expo-file-system";
 
 const contacts = [
   { name: "Tejan Khanal", phone: "+9779841312349", post: "Mayor" },
@@ -46,20 +47,23 @@ export default function SecondPage({ setPageSecond }) {
       <Text>Siddhicharan Municipality , Okhaldhunga</Text>
       <View style={styles.contactList}>
         {contacts.map((contact, index) => (
-          <View style={styles.contact} key={index}>
-            <Text>
-              {contact.name} | {contact.post}
-            </Text>
-            <TouchableOpacity onPress={() => makePhoneCall(contact.phone)}>
+          <TouchableOpacity onPress={() => makePhoneCall(contact.phone)}>
+            <View style={styles.contact} key={index}>
+              <Text>
+                {contact.name} | {contact.post}
+              </Text>
+
               <Image source={require("../../assets/button/phone.png")} />
-            </TouchableOpacity>
-          </View>
+            </View>
+          </TouchableOpacity>
         ))}
         <View style={styles.navStyles}>
           <TouchableOpacity onPress={() => setPageSecond(false)}>
             <Image source={require("../../assets/button/home-icon.png")} />
           </TouchableOpacity>
-          <Image source={require("../../assets/button/search-icon.png")} />
+          <TouchableOpacity>
+            <Image source={require("../../assets/button/search-icon.png")} />
+          </TouchableOpacity>
           <Image source={require("../../assets/button/fav-icon.png")} />
           <Image source={require("../../assets/button/profile-icon.png")} />
         </View>
