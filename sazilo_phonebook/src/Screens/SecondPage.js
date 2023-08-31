@@ -10,7 +10,8 @@ import {
   Linking,
   TouchableOpacity,
 } from "react-native";
-import * as FileSystem from "expo-file-system";
+// import * as FileSystem from "expo-file-system";
+import haversine_distance from '../Functions/Haversine';
 
 const contacts = [
   { name: "Tejan Khanal", phone: "+9779841312349", post: "Mayor" },
@@ -27,6 +28,22 @@ const contacts = [
   },
   { name: "Rakesh Maharjan", phone: "+9779849460147", post: "Sajilo Phone" },
 ];
+
+const DistanceCalculator = () => {
+  const lat1 = 27.7172;
+  const lon1 = 85.3240;
+  const lat2 = 28.3949;
+  const lon2 = 84.1240;
+
+  const distance = haversine_distance(lat1, lon1, lat2, lon2);
+  console.log(distance.toFixed(2))
+
+  // return (
+  //   <View>
+  //     <Text>The distance between the two points is {distance.toFixed(2)} kilometers</Text>
+  //   </View>
+  // );
+};
 
 export default function SecondPage({ setPageSecond }) {
   const makePhoneCall = (phone) => {
@@ -61,7 +78,7 @@ export default function SecondPage({ setPageSecond }) {
           <TouchableOpacity onPress={() => setPageSecond(false)}>
             <Image source={require("../../assets/button/home-icon.png")} />
           </TouchableOpacity>
-          <TouchableOpacity>
+          <TouchableOpacity onPress={() => DistanceCalculator()}>
             <Image source={require("../../assets/button/search-icon.png")} />
           </TouchableOpacity>
           <Image source={require("../../assets/button/fav-icon.png")} />

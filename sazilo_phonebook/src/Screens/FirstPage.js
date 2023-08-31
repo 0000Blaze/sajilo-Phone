@@ -26,6 +26,16 @@ export default function FirstPage({ setPageSecond }) {
           <Image source={require("../../assets/button/ambulance.png")} />
         </TouchableOpacity>
       </View>
+      <View style={styles.categoryContainer}>
+        <TouchableOpacity
+          style={styles.category}
+          onPress={() => {
+            setPageSecond(true);
+          }}
+        >
+          <Image source={require("../../assets/button/ambulance.png")} />
+        </TouchableOpacity>
+      </View>
       <View style={styles.navStyles}>
         <Image source={require("../../assets/button/home-icon.png")} />
         <Image source={require("../../assets/button/search-icon.png")} />
