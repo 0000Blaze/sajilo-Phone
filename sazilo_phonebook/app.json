@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "sazilo_phonebook",
-    "slug": "sazilo_phonebook",
+    "name": "sajilophone",
+    "slug": "sajilophone",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -10,9 +10,6 @@
       "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
-    },
-    "updates": {
-      "fallbackToCacheTimeout": 0
     },
     "assetBundlePatterns": [
       "**/*"
@@ -23,17 +20,11 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      },
-      "package": "eas.sajilo.phonebook"
+        "backgroundColor": "#ffffff"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "5b1a350f-bfb8-40be-a3ea-fd6706a79cc6"
-      }
     }
   }
 }
