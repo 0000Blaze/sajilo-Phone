@@ -1,21 +1,75 @@
-import { View, Text, TouchableOpacity } from "react-native";
-import { Header, Icon } from "@rneui/themed";
-import { useNavigation } from "@react-navigation/native";
-function HeaderWidget({ title }) {
-  const navigation = useNavigation();
+import * as React from "react";
+import { Appbar } from "react-native-paper";
+import { Platform, ImageBackground, View, Text } from "react-native";
+import { StatusBar } from "expo-status-bar";
+import { Icon } from "@rneui/base";
+// const MORE_ICON = Platform.OS === "ios" ? "dots-horizontal" : "dots-vertical";
+import image from "../../assets/images/header.jpg";
+const HeaderWidget = ({ children, navigation }) => {
   return (
-    <Header
-      leftComponent={
-        <TouchableOpacity onPress={() => navigation.openDrawer()}>
-          <Icon name="menu" color="white" />
-        </TouchableOpacity>
-      }
-      rightComponent={{ icon: "person", color: "#fff" }}
-      centerComponent={{
-        text: "SajiloPhone",
-        style: { fontSize: 20, color: "white", fontWeight: 800 },
+    <View
+      style={{
+        borderColor: "#012169",
+        borderBottomWidth: 0.5,
       }}
-    />
+    >
+      <ImageBackground source={image} resizeMode="cover">
+        <Appbar.Header
+          style={{
+            backgroundColor: "transparent",
+            height: 100,
+            alignItems: "flex-start",
+            flexDirection: "column",
+            paddingTop: 10,
+            paddingLeft: 20,
+          }}
+        >
+          <StatusBar backgroundColor="transparent" />
+          <View
+            style={{
+              flexDirection: "row",
+              height: "auto",
+              maxWidth: 110,
+              marginBottom: 15,
+            }}
+            //profile
+          >
+            <Icon
+              name="account-circle"
+              color="#012169"
+              // style={{ backgroundColor: "skyblue" }}
+              onPress={() => {
+                navigation.navigate("Profile");
+              }}
+            />
+            <Text
+              style={{
+                color: "#012169",
+                marginLeft: 5,
+                fontSize: 18,
+                textAlign: "center",
+                fontWeight: "bold",
+                textTransform: "capitalize",
+              }}
+            >
+              welcome
+            </Text>
+          </View>
+          <View
+            style={{
+              flexDirection: "row",
+              gap: 10,
+              width: "100%",
+            }}
+          >
+            {children}
+          </View>
+          {/* <Appbar.Action icon="magnify" color="white" onPress={() => {}} />
+  <Appbar.Action icon={MORE_ICON} color="white" onPress={() => {}} /> */}
+        </Appbar.Header>
+      </ImageBackground>
+    </View>
   );
-}
+};
+
 export default HeaderWidget;

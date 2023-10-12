@@ -1,66 +1,67 @@
+import "react-native-gesture-handler";
 import { Icon } from "@rneui/themed";
 
-import { createDrawerNavigator } from "@react-navigation/drawer";
 import { NavigationContainer } from "@react-navigation/native";
 import Home from "./src/Screens/Home";
 import Login from "./src/Screens/Login";
+import Register from "./src/Screens/Registration";
 import Fav from "./src/Screens/Fav";
 import Search from "./src/Screens/Search";
+import Profile from "./src/Screens/Profile";
 
-import { StatusBar } from "react-native";
 import { createMaterialBottomTabNavigator } from "@react-navigation/material-bottom-tabs";
+import { createStackNavigator } from "@react-navigation/stack";
 
-const Drawer = createDrawerNavigator();
+const Stack = createStackNavigator();
 const Tab = createMaterialBottomTabNavigator();
+
 export default function App() {
   return (
     <>
       <NavigationContainer>
-        <Tab.Navigator>
-          <Tab.Screen
-            name="Home"
-            component={DrawerSection}
-            options={{ headerShown: false }}
-            Icon
-          />
-          <Tab.Screen
-            name="Search"
-            component={Search}
-            options={{
-              headerShown: false,
-              tabBarIcon: () => {
-                <Icon name="home" />;
-              },
-            }}
-          />
-          <Tab.Screen
-            name="Fav"
-            component={Fav}
+        <Stack.Navigator>
+          <Stack.Screen
+            name="HomeScreen"
+            component={HomeScreen}
             options={{ headerShown: false }}
           />
-        </Tab.Navigator>
+          <Stack.Screen name="Login" component={Login} />
+          <Stack.Screen name="Register" component={Register} />
+          <Stack.Screen name="Profile" component={Profile} />
+          <Stack.Screen name="Search" component={Search} />
+        </Stack.Navigator>
       </NavigationContainer>
     </>
   );
 }
 
-function DrawerSection() {
+function HomeScreen() {
   return (
-    <>
-      <Drawer.Navigator initialRouteName="HomeScreen">
-        <Drawer.Screen
-          name="HomeScreen"
-          component={Home}
-          options={{ headerShown: false }}
-        />
-        <Drawer.Screen
-          name="SignIn"
-          component={Login}
-          options={{ headerShown: false }}
-        />
-      </Drawer.Navigator>
-
-      <StatusBar hidden={true} />
-    </>
+    <Tab.Navigator initialRouteName="Home">
+      <Tab.Screen
+        name="Home"
+        component={Home}
+        options={{
+          headerShown: true,
+          tabBarIcon: ({ color }) => (
+            <Icon name="home-outline" type="material-community" />
+          ),
+        }}
+      />
+      <Tab.Screen
+        name="Search"
+        component={Search}
+        options={{
+          tabBarIcon: ({ color }) => <Icon name="search" />,
+        }}
+      />
+      <Tab.Screen
+        name="Favourites"
+        component={Fav}
+        options={{
+          tabBarIcon: ({ color }) => <Icon name="hearto" type="ant-design" />,
+        }}
+      />
+    </Tab.Navigator>
   );
 }

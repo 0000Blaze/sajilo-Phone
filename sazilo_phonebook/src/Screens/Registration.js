@@ -2,7 +2,10 @@ import { TextInput, Button } from "react-native-paper";
 import { View, Text, TouchableOpacity, Image } from "react-native";
 
 import { Icon } from "@rneui/base";
-function Registration() {
+
+import ButtonWidget from "../components/ButtonWidget";
+
+function Registration({ navigation }) {
   return (
     <View
       style={{
@@ -28,7 +31,7 @@ function Registration() {
           Registration
         </Text>
         <Image
-          source={require("../../assets/adaptive-icon.png")}
+          source={require("../../assets/images/logo.png")}
           style={{ height: 100, width: 100 }}
         />
       </View>
@@ -37,14 +40,18 @@ function Registration() {
         inputMode="numeric"
         right={<TextInput.Icon icon="phone" />}
       />
-      <RegistrationButton title="Register" mode="contained" />
-      <Button
+      <ButtonWidget
+        mode="outlined"
+        onPress={() => {
+          console.log("register");
+          navigation.navigate("Register");
+        }}
+        text="Next Step"
+        style={{ paddingVertical: 5, marginVertical: 50 }}
         icon={({ color }) => (
           <Icon name="arrow-right" size={16} color={color} />
         )}
-      >
-        Next Step
-      </Button>
+      />
     </View>
   );
 }

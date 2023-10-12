@@ -14,6 +14,7 @@ const SearchBox = () => {
       placeholder="Search"
       onChangeText={onChangeSearch}
       value={searchQuery}
+      style={{ borderRadius: 10 }}
     />
   );
 };

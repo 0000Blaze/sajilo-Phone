@@ -1,48 +1,89 @@
 import { TextInput, Button } from "react-native-paper";
-import { View, Text, TouchableOpacity, Image } from "react-native";
+import {
+  View,
+  Text,
+  TouchableOpacity,
+  Image,
+  ImageBackground,
+  Alert,
+} from "react-native";
 
-import { Icon } from "@rneui/base";
-function Login() {
+import ButtonWidget from "../components/ButtonWidget";
+
+import image from "../../assets/images/header.jpg";
+
+function Login({ navigation }) {
   return (
-    <View
-      style={{
-        marginHorizontal: 20,
-        flexDirection: "column",
-      }}
-    >
-      <View
-        style={{
-          fontSize: 40,
-          fontWeight: 700,
-          marginVertical: 50,
-          alignItems: "center",
-        }}
-      >
-        <Text
+    <ImageBackground source={image} resizeMode="cover">
+      <View style={{ marginHorizontal: 10 }}>
+        <View
           style={{
             fontSize: 40,
             fontWeight: 700,
-            marginVertical: 50,
+            alignItems: "center",
           }}
         >
-          Login
-        </Text>
-        <Image
-          source={require("../../assets/adaptive-icon.png")}
-          style={{ height: 100, width: 100 }}
-        />
+          <Text
+            style={{
+              fontSize: 40,
+              fontWeight: 700,
+            }}
+          >
+            Login
+          </Text>
+          <Image
+            source={require("../../assets/images/logo.png")}
+            style={{ height: 100, width: 100 }}
+          />
+        </View>
+        <View style={{ height: "100%" }}>
+          <TextInput
+            label="Phone Number"
+            inputMode="numeric"
+            color="white"
+            outlineColor="#012169"
+            error={false}
+          />
+
+          <ButtonWidget
+            mode="contained"
+            onPress={() => {
+              navigation.navigate("Home");
+              return Alert.alert(
+                "Congratulations!!! ",
+                "You are Logged In",
+                [
+                  {
+                    text: "Cancel",
+                    // onPress: () => Alert.alert("Cancel Pressed"),
+                    style: "cancel",
+                  },
+                ],
+                {
+                  cancelable: true,
+                  onDismiss: () =>
+                    Alert.alert(
+                      "This alert was dismissed by tapping outside of the alert dialog."
+                    ),
+                }
+              );
+            }}
+            text="login"
+            style={{ marginVertical: 15, paddingVertical: 5 }}
+          />
+          <ButtonWidget
+            mode="outlined"
+            onPress={() => {
+              console.log("register");
+              navigation.navigate("Register");
+            }}
+            text="register"
+            style={{ paddingVertical: 5 }}
+          />
+        </View>
       </View>
-      <TextInput label="PhoneNumber" inputMode="numeric" />
-      <LoginButton title="login" />
-      <LoginButton title="Register" mode="contained" />
-    </View>
+    </ImageBackground>
   );
 }
-function LoginButton({ title, mode }) {
-  return (
-    <TouchableOpacity style={{ marginTop: 30 }}>
-      <Button mode={mode} onClick>{title}</Button>
-    </TouchableOpacity>
-  );
-}
+
 export default Login;
