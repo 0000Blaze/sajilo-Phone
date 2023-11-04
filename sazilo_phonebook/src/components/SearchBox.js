@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Searchbar } from "react-native-paper";
 
-const SearchBox = () => {
+const SearchBox = ({ text,placeholder }) => {
   const [searchQuery, setSearchQuery] = useState("");
 
   const onChangeSearch = (query) => {
@@ -11,7 +11,7 @@ const SearchBox = () => {
 
   return (
     <Searchbar
-      placeholder="Search"
+      placeholder={placeholder}
       onChangeText={onChangeSearch}
       value={searchQuery}
       style={{ borderRadius: 10 }}

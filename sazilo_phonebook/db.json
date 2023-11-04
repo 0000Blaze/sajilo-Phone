@@ -1,0 +1,5992 @@
+[
+    {
+      "id": 1,
+      "Faculty Name": "शैलुङ गा.पा.",
+      "Faculty Phone no.": 9854045615,
+      "District": "Dolakha",
+      "State Government": "शैलुङ गा.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुजन श्रेष्ठ",
+      "Worker Contact": 9880504916
+    },
+    {
+      "id": 2,
+      "Faculty Name": "दोलखा सामुदायिक अस्पताल",
+      "Faculty Phone no.": 9845045147,
+      "District": "Dolakha",
+      "State Government": "भिमेश्वर न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "शहदेव भण्डारी",
+      "Worker Contact": 9863323233
+    },
+    {
+      "id": 3,
+      "Faculty Name": "प्रा.स्व.के. चरिकोट",
+      "Faculty Phone no.": 9845045147,
+      "District": "Dolakha",
+      "State Government": "भिमेश्वर न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "राम बहादुर थापा",
+      "Worker Contact": 9864234103
+    },
+    {
+      "id": 4,
+      "Faculty Name": "नागरिक समाज",
+      "Faculty Phone no.": 9845045147,
+      "District": "Dolakha",
+      "State Government": "भिमेश्वर न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "हित मान थामी",
+      "Worker Contact": 9844060419
+    },
+    {
+      "id": 5,
+      "Faculty Name": "च्छो-रोल्पा अस्पताल",
+      "Faculty Phone no.": 9845045147,
+      "District": "Dolakha",
+      "State Government": "भिमेश्वर न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "नारायण सुबेदी",
+      "Worker Contact": 9861569486
+    },
+    {
+      "id": 6,
+      "Faculty Name": "गौरिशंखर गा.पा.",
+      "Faculty Phone no.": 9851006009,
+      "District": "Dolakha",
+      "State Government": "गौरिशंखर गा.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुरज सुरेल",
+      "Worker Contact": 9840664206
+    },
+    {
+      "id": 7,
+      "Faculty Name": "गौरिशंखर गा.पा.",
+      "Faculty Phone no.": 9851006009,
+      "District": "Dolakha",
+      "State Government": "गौरिशंखर गा.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "वासुदेव खत्री",
+      "Worker Contact": 9869529802
+    },
+    {
+      "id": 8,
+      "Faculty Name": "जिरी अस्पताल",
+      "Faculty Phone no.": 9854045380,
+      "District": "Dolakha",
+      "State Government": "जिरी न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "गोपाल जिरेल",
+      "Worker Contact": 9841578370
+    },
+    {
+      "id": 9,
+      "Faculty Name": "जिरी अस्पताल",
+      "Faculty Phone no.": 9854045380,
+      "District": "Dolakha",
+      "State Government": "जिरी न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "लीला बहादुर जिरेल",
+      "Worker Contact": 9869550736
+    },
+    {
+      "id": 10,
+      "Faculty Name": "किर्ने स्वास्थ्य केन्द्र",
+      "Faculty Phone no.": 9844427923,
+      "District": "Dolakha",
+      "State Government": "तामाकोशी गा.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "दिपक सुबेदी",
+      "Worker Contact": 9849449888
+    },
+    {
+      "id": 11,
+      "Faculty Name": "तामाकोशी गा.पा.",
+      "Faculty Phone no.": 9844427923,
+      "District": "Dolakha",
+      "State Government": "तामाकोशी गा.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "भक्त बहादुर कार्की",
+      "Worker Contact": 9841391529
+    },
+    {
+      "id": 12,
+      "Faculty Name": "बिगु गा.पा.",
+      "Faculty Phone no.": 9864111227,
+      "District": "Dolakha",
+      "State Government": "बिगु गा.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "रविन्द्र उप्रेती",
+      "Worker Contact": 9864174741
+    },
+    {
+      "id": 13,
+      "Faculty Name": "बिगु गा.पा.",
+      "Faculty Phone no.": 9864111227,
+      "District": "Dolakha",
+      "State Government": "बिगु गा.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "बिमल बुढाथोकी",
+      "Worker Contact": 9851117410
+    },
+    {
+      "id": 14,
+      "Faculty Name": "मेलुङ गा.पा.",
+      "Faculty Phone no.": 9860493309,
+      "District": "Dolakha",
+      "State Government": "मेलुङ गा.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "बासु गनिका",
+      "Worker Contact": 9840916063
+    },
+    {
+      "id": 15,
+      "Faculty Name": "मेलुङ गा.पा.",
+      "Faculty Phone no.": 9860493309,
+      "District": "Dolakha",
+      "State Government": "मेलुङ गा.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "बिरबल लामा",
+      "Worker Contact": 9848538330
+    },
+    {
+      "id": 16,
+      "Faculty Name": "गजेन्द्र स्मृती फाउण्देशन",
+      "Faculty Phone no.": 9854045004,
+      "District": "Dolakha",
+      "State Government": "कालिन्चोक गा.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "महेन्द्र श्रेष्ठ",
+      "Worker Contact": 9848832801
+    },
+    {
+      "id": 17,
+      "Faculty Name": "सिंगटी प्रा.स्व.के.",
+      "Faculty Phone no.": 9854045004,
+      "District": "Dolakha",
+      "State Government": "कालिन्चोक गा.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "कृती बहादुर थामी",
+      "Worker Contact": 9860922661
+    },
+    {
+      "id": 18,
+      "Faculty Name": "कालिन्चोक गा.पा.",
+      "Faculty Phone no.": 9854045004,
+      "District": "Dolakha",
+      "State Government": "कालिन्चोक गा.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "कुमार थामी",
+      "Worker Contact": 9814820672
+    },
+    {
+      "id": 19,
+      "Faculty Name": "बैतेश्वर गा.पा.",
+      "Faculty Phone no.": 9864001271,
+      "District": "Dolakha",
+      "State Government": "बैतेश्वर गा.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "नारायण दहाल",
+      "Worker Contact": 9869538281
+    },
+    {
+      "id": 20,
+      "Faculty Name": "बैतेश्वर गा.पा.",
+      "Faculty Phone no.": 9864001271,
+      "District": "Dolakha",
+      "State Government": "बैतेश्वर गा.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "राम बहादुर दहाल",
+      "Worker Contact": 9861321547
+    },
+    {
+      "id": 21,
+      "Faculty Name": "रामेछाप अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Ramechhap",
+      "State Government": "रामेछाप नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "नर बहादुर तामाङ",
+      "Worker Contact": 9744016340
+    },
+    {
+      "id": 22,
+      "Faculty Name": "रामेछाप अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Ramechhap",
+      "State Government": "रामेछाप नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "नर बहादुर तामाङ",
+      "Worker Contact": 9844388473
+    },
+    {
+      "id": 23,
+      "Faculty Name": "सारथी युवा क्लब",
+      "Faculty Phone no.": 9840179090,
+      "District": "Ramechhap",
+      "State Government": "रामेछाप नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "कृष्ण बहादुर कार्की",
+      "Worker Contact": 9744059794
+    },
+    {
+      "id": 24,
+      "Faculty Name": "स्वास्थ्य चौकी साँघुटार",
+      "Faculty Phone no.": "",
+      "District": "Ramechhap",
+      "State Government": "रामेछाप नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "तिर्थ ब. बि.क.",
+      "Worker Contact": 9860441125
+    },
+    {
+      "id": 25,
+      "Faculty Name": "स्वास्थ्य चौकी साँघुटार",
+      "Faculty Phone no.": "",
+      "District": "Ramechhap",
+      "State Government": "रामेछाप नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुमन खत्री",
+      "Worker Contact": 9861993651
+    },
+    {
+      "id": 26,
+      "Faculty Name": "स्वास्थ्य चौकी साँघुटार",
+      "Faculty Phone no.": "",
+      "District": "Ramechhap",
+      "State Government": "रामेछाप नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "विर बहादुर मगर",
+      "Worker Contact": 984170719
+    },
+    {
+      "id": 27,
+      "Faculty Name": "स्वास्थ्य चौकी साँघुटार",
+      "Faculty Phone no.": "",
+      "District": "Ramechhap",
+      "State Government": "रामेछाप नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "राजकुमार कार्की",
+      "Worker Contact": 9840668258
+    },
+    {
+      "id": 28,
+      "Faculty Name": "रिष्ठे आधारभुत स्वास्थ्य सेवा केन्द्र",
+      "Faculty Phone no.": 9869226024,
+      "District": "Ramechhap",
+      "State Government": "दोरम्बा गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "मेघनाथ ढुंगेल",
+      "Worker Contact": 9849441982
+    },
+    {
+      "id": 29,
+      "Faculty Name": "नेपालि काँग्रेस दोरम्बा गाउँ कमिटी",
+      "Faculty Phone no.": 9843502632,
+      "District": "Ramechhap",
+      "State Government": "दोरम्बा गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "सागर लामा",
+      "Worker Contact": 9843332368
+    },
+    {
+      "id": 30,
+      "Faculty Name": "खाडादेवी गाउँपालिका",
+      "Faculty Phone no.": "",
+      "District": "Ramechhap",
+      "State Government": "दोरम्बा गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "देव बहादुर तामाङ",
+      "Worker Contact": 9849050142
+    },
+    {
+      "id": 31,
+      "Faculty Name": "उमाकुण्ड ५ प्रिति",
+      "Faculty Phone no.": "",
+      "District": "Ramechhap",
+      "State Government": "उमाकुण्ड गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "राजन सुनुवार",
+      "Worker Contact": 9813862830
+    },
+    {
+      "id": 32,
+      "Faculty Name": "उमाकुण्ड २ बाम्ती",
+      "Faculty Phone no.": "",
+      "District": "Ramechhap",
+      "State Government": "उमाकुण्ड गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "दिपक गजमेर",
+      "Worker Contact": 9745166712
+    },
+    {
+      "id": 33,
+      "Faculty Name": "उमाकुण्ड ४ प्रिति",
+      "Faculty Phone no.": "",
+      "District": "Ramechhap",
+      "State Government": "उमाकुण्ड गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुवर्णराज लामिछाने",
+      "Worker Contact": 9846771064
+    },
+    {
+      "id": 34,
+      "Faculty Name": "उमाकुण्ड १ गुम्देल",
+      "Faculty Phone no.": "",
+      "District": "Ramechhap",
+      "State Government": "उमाकुण्ड गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुकमान तामाङ",
+      "Worker Contact": 9864334077
+    },
+    {
+      "id": 35,
+      "Faculty Name": "स्वास्थ्य चौकी गुन्सी",
+      "Faculty Phone no.": "",
+      "District": "Ramechhap",
+      "State Government": "सुनापति गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "चन्द्रलाल चौलागाई",
+      "Worker Contact": 9849434370
+    },
+    {
+      "id": 36,
+      "Faculty Name": "भ्वाँसा च्यारीटी अस्पताल",
+      "Faculty Phone no.": 9841982800,
+      "District": "Ramechhap",
+      "State Government": "सुनापति गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "राम तामाङ",
+      "Worker Contact": 9823526828
+    },
+    {
+      "id": 37,
+      "Faculty Name": "सहिद गोविन्द प्रतिष्ठान",
+      "Faculty Phone no.": "",
+      "District": "Ramechhap",
+      "State Government": "सुनापति गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "राजकुमार पाण्डे",
+      "Worker Contact": 9869398729
+    },
+    {
+      "id": 38,
+      "Faculty Name": "गाउँपालिका",
+      "Faculty Phone no.": 9854040019,
+      "District": "Ramechhap",
+      "State Government": "लिखुतामाकोशी गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "बाबुलाल तामाङ",
+      "Worker Contact": 9861186979
+    },
+    {
+      "id": 39,
+      "Faculty Name": "गाउँपालिका",
+      "Faculty Phone no.": 9854040019,
+      "District": "Ramechhap",
+      "State Government": "लिखुतामाकोशी गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "जीवन तामाङ",
+      "Worker Contact": 9860269279
+    },
+    {
+      "id": 40,
+      "Faculty Name": "गाउँपालिका",
+      "Faculty Phone no.": 984585908,
+      "District": "Ramechhap",
+      "State Government": "गोकुलगंगा गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "कर्णबहादुर कार्की",
+      "Worker Contact": 9848934550
+    },
+    {
+      "id": 41,
+      "Faculty Name": "गाउँपालिका",
+      "Faculty Phone no.": 986498090,
+      "District": "Ramechhap",
+      "State Government": "गोकुलगंगा गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "डवल बहादुर कार्की",
+      "Worker Contact": 9843744537
+    },
+    {
+      "id": 42,
+      "Faculty Name": "गाउँपालिका",
+      "Faculty Phone no.": 9844232392,
+      "District": "Ramechhap",
+      "State Government": "गोकुलगंगा गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "शेरबहादुर कार्की",
+      "Worker Contact": 9846597192
+    },
+    {
+      "id": 43,
+      "Faculty Name": "गाउँपालिका",
+      "Faculty Phone no.": 9843019348,
+      "District": "Ramechhap",
+      "State Government": "गोकुलगंगा गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "लिला बहादुर कार्की",
+      "Worker Contact": 9744071222
+    },
+    {
+      "id": 44,
+      "Faculty Name": "गाउँपालिका",
+      "Faculty Phone no.": 9844131273,
+      "District": "Ramechhap",
+      "State Government": "गोकुलगंगा गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुजन तामाङ",
+      "Worker Contact": 984239279
+    },
+    {
+      "id": 45,
+      "Faculty Name": "मन्थली नगरपालिका",
+      "Faculty Phone no.": "",
+      "District": "Ramechhap",
+      "State Government": "मन्थली नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "अर्जुन खड्का",
+      "Worker Contact": 9861593715
+    },
+    {
+      "id": 46,
+      "Faculty Name": "नेपाल रेडक्रस सोसाईटी म.न.पा.-१",
+      "Faculty Phone no.": "",
+      "District": "Ramechhap",
+      "State Government": "मन्थली नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "हरि थापा",
+      "Worker Contact": 9864007280
+    },
+    {
+      "id": 47,
+      "Faculty Name": "तामाकोसी सेवा समिति म.न.पा.-१",
+      "Faculty Phone no.": "",
+      "District": "Ramechhap",
+      "State Government": "मन्थली नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "निमा तमाङ",
+      "Worker Contact": 9844242136
+    },
+    {
+      "id": 48,
+      "Faculty Name": "रामेछाप सामुदायिक अस्पताल म.न.पा.-१",
+      "Faculty Phone no.": "",
+      "District": "Ramechhap",
+      "State Government": "मन्थली नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "लोक बहादुर बस्नेत",
+      "Worker Contact": 9844044005
+    },
+    {
+      "id": 49,
+      "Faculty Name": "गेलु प्रा.स्वा.के.   म.न.पा.-११",
+      "Faculty Phone no.": "",
+      "District": "Ramechhap",
+      "State Government": "मन्थली नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "तुलषि मगर",
+      "Worker Contact": 9861377232
+    },
+    {
+      "id": 50,
+      "Faculty Name": "गेलु चनखु एम्बुलेन्स सेवा समिति",
+      "Faculty Phone no.": "",
+      "District": "Ramechhap",
+      "State Government": "मन्थली नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुबास खड्का",
+      "Worker Contact": 9869147126
+    },
+    {
+      "id": 51,
+      "Faculty Name": "फुलासी स्वास्थ्य चौकी म.न.पा.-१३",
+      "Faculty Phone no.": "",
+      "District": "Ramechhap",
+      "State Government": "मन्थली नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "प्रेम बहादुर तमाङ",
+      "Worker Contact": 9744078567
+    },
+    {
+      "id": 52,
+      "Faculty Name": "हेलम्बु गाउपालिका",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "हेलम्बु गा. पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "राज सुनार",
+      "Worker Contact": 9843841839
+    },
+    {
+      "id": 53,
+      "Faculty Name": "हिल नेपाल",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "हेलम्बु गा. पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "दिपक भण्डारी",
+      "Worker Contact": 9860002421
+    },
+    {
+      "id": 54,
+      "Faculty Name": "महिला सहकारी",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "पाँचपोखरी थांगपालधाप",
+      "Province": "Bagmati-3",
+      "Worker Name": "पूर्ण थिंग",
+      "Worker Contact": 9813481523
+    },
+    {
+      "id": 55,
+      "Faculty Name": "प्रा. स्वा. के.",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "मेलम्ची न. पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "लक्ष्मण माझी",
+      "Worker Contact": 9843391182
+    },
+    {
+      "id": 56,
+      "Faculty Name": "ने. रे. सो.",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "मेलम्ची न. पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "राजु दुलाल",
+      "Worker Contact": 9869413143
+    },
+    {
+      "id": 57,
+      "Faculty Name": "हाइड्रो एम्बुलेन्स",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "मेलम्ची न. पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुरज भुजेल",
+      "Worker Contact": 9843530246
+    },
+    {
+      "id": 58,
+      "Faculty Name": "मेलम्ची हस्पिटल",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "मेलम्ची न. पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "इनोज भट्ट",
+      "Worker Contact": 9841795341
+    },
+    {
+      "id": 59,
+      "Faculty Name": "पिप्ले एम्बुलेन्स",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "मेलम्ची न. पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "राजन राउत",
+      "Worker Contact": 9866804445
+    },
+    {
+      "id": 60,
+      "Faculty Name": "सि. एम. सि.",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "मेलम्ची न. पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "सन्तोष दुलाल",
+      "Worker Contact": 9810299549
+    },
+    {
+      "id": 61,
+      "Faculty Name": "कापिलेश्वोर महादेव समिति",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "बलेफी गा. पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "रुद्र बहादुर कार्की",
+      "Worker Contact": 9841006928
+    },
+    {
+      "id": 62,
+      "Faculty Name": "खाडीचौर ऋण तथा बचत संस्था",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "बलेफी गा. पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "निरज नेपाल",
+      "Worker Contact": 9866284343
+    },
+    {
+      "id": 63,
+      "Faculty Name": "ने. रे. सो.",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "बलेफी गा. पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "बिकाश श्रेष्ठ",
+      "Worker Contact": 9869413144
+    },
+    {
+      "id": 64,
+      "Faculty Name": "जुगल गाउपलिका",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "जुगल गा. पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "मोहन  थापा",
+      "Worker Contact": 9843964922
+    },
+    {
+      "id": 65,
+      "Faculty Name": "इन्द्रावती गा. पा.",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "इन्द्रावती गा. पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "चुन बहादुर मगर",
+      "Worker Contact": 9861171289
+    },
+    {
+      "id": 66,
+      "Faculty Name": "युवा क्लब",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "इन्द्रावती गा. पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "विक्रम दनुवार",
+      "Worker Contact": 9803818186
+    },
+    {
+      "id": 67,
+      "Faculty Name": "बाडेगाउँ स्वा. केन्द्र",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "इन्द्रावती गा. पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "बिनोद कोइराला",
+      "Worker Contact": 9849840808
+    },
+    {
+      "id": 68,
+      "Faculty Name": "ने. रे. सो.",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "बाह्रबिसे न. पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "प्रकाश चौलागाई",
+      "Worker Contact": 9869413145
+    },
+    {
+      "id": 69,
+      "Faculty Name": "उद्योग बाणिज्य संघ",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "बाह्रबिसे न. पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "धुर्ब तमाङ्",
+      "Worker Contact": 9851015113
+    },
+    {
+      "id": 70,
+      "Faculty Name": "क्रीस्टोन हस्पिटल",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "बाह्रबिसे न. पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "मान बहादुर बस्नेत",
+      "Worker Contact": 9841873250
+    },
+    {
+      "id": 71,
+      "Faculty Name": "गाउपलिका",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "लिशंखुपाखर गा. पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "हिरा थापा",
+      "Worker Contact": 9801133870
+    },
+    {
+      "id": 72,
+      "Faculty Name": "साँगाचोक बचत सहकारी",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "चौतारा साँगाचोकगढी न. पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "भर बहादुर गिरि",
+      "Worker Contact": 9741247344
+    },
+    {
+      "id": 73,
+      "Faculty Name": "सिन्धु उपकार बचत समूह",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "चौतारा साँगाचोकगढी न. पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "दिलिप  घले",
+      "Worker Contact": 9741391880
+    },
+    {
+      "id": 74,
+      "Faculty Name": "चौतारा एम्बुलेन्स सेवा समिति",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "चौतारा साँगाचोकगढी न. पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "रामकुमार श्रेष्ठ",
+      "Worker Contact": 9741002558
+    },
+    {
+      "id": 75,
+      "Faculty Name": "इर्खु स्वा. चौ.",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "चौतारा साँगाचोकगढी न. पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "समिर ठकुरी",
+      "Worker Contact": 9828712517
+    },
+    {
+      "id": 76,
+      "Faculty Name": "मेलचौर सामुदायिक स्वा. के.",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "चौतारा साँगाचोकगढी न. पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "कुमार घोरासैनी",
+      "Worker Contact": 9849610757
+    },
+    {
+      "id": 77,
+      "Faculty Name": "आलोपालो सहकारी लि.",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "चौतारा साँगाचोकगढी न. पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "प्रेम प्रसाद चौलागाईं",
+      "Worker Contact": 9845986600
+    },
+    {
+      "id": 78,
+      "Faculty Name": "बनदेवी पोलिक्लिनिक",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "चौतारा साँगाचोकगढी न. पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "सन्तोष श्रेष्ठ",
+      "Worker Contact": 9810070525
+    },
+    {
+      "id": 79,
+      "Faculty Name": "फुलपिंगकट्टी हे. पो.",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "भोटेकोशी गा. पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "तेम्बा छिरिंग शेर्पा",
+      "Worker Contact": 9614483382
+    },
+    {
+      "id": 80,
+      "Faculty Name": "भोटेकोशी गा. पा.",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "भोटेकोशी गा. पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "अनिल तामाङ्ग",
+      "Worker Contact": 9865993510
+    },
+    {
+      "id": 81,
+      "Faculty Name": "भोटेकोशी गा. पा.",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "भोटेकोशी गा. पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "रुपेश खत्री",
+      "Worker Contact": 9866262383
+    },
+    {
+      "id": 82,
+      "Faculty Name": "देवीस्थान  हे. पो.",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "सुनकोशी गा. पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "सोनाम तमांग",
+      "Worker Contact": 9843974441
+    },
+    {
+      "id": 83,
+      "Faculty Name": "उतरगंगा गापा",
+      "Faculty Phone no.": "",
+      "District": "Rasuwa",
+      "State Government": "उतरगया",
+      "Province": "Bagmati-3",
+      "Worker Name": "शंकर प्रसाद पौडेल",
+      "Worker Contact": 9840345849
+    },
+    {
+      "id": 84,
+      "Faculty Name": "कालिका गा.पा",
+      "Faculty Phone no.": "",
+      "District": "Rasuwa",
+      "State Government": "कालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "थलराज न्यौपाने",
+      "Worker Contact": 9841249373
+    },
+    {
+      "id": 85,
+      "Faculty Name": "कालिका गा.पा",
+      "Faculty Phone no.": "",
+      "District": "Rasuwa",
+      "State Government": "कालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "नारायण लामिछाने",
+      "Worker Contact": 98696538694
+    },
+    {
+      "id": 86,
+      "Faculty Name": "युव कुमारी न्यौपाने स्मृती प्रतिष्ठान",
+      "Faculty Phone no.": "",
+      "District": "Rasuwa",
+      "State Government": "कालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "ठाकुर न्यौपाने",
+      "Worker Contact": 9841087816
+    },
+    {
+      "id": 87,
+      "Faculty Name": "रसुवा अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Rasuwa",
+      "State Government": "गोसाईकुण्ड",
+      "Province": "Bagmati-3",
+      "Worker Name": "पूर्णबहादुर गोले",
+      "Worker Contact": 984326306
+    },
+    {
+      "id": 88,
+      "Faculty Name": "नेपाल रेडक्रस सोसाईटी",
+      "Faculty Phone no.": "",
+      "District": "Rasuwa",
+      "State Government": "गोसाईकुण्ड",
+      "Province": "Bagmati-3",
+      "Worker Name": "बावुलाल तामाङ्ग",
+      "Worker Contact": 9851242999
+    },
+    {
+      "id": 89,
+      "Faculty Name": "ठाडे प्रगतिशिल यूवा क्लव",
+      "Faculty Phone no.": "",
+      "District": "Rasuwa",
+      "State Government": "गोसाईकुण्ड",
+      "Province": "Bagmati-3",
+      "Worker Name": "प्रेम बहादुर तमाङ",
+      "Worker Contact": 9869551214
+    },
+    {
+      "id": 90,
+      "Faculty Name": "चिलिमे जलबिद्युत उपभोक्ता सरोकार समिति",
+      "Faculty Phone no.": "",
+      "District": "Rasuwa",
+      "State Government": "गोसाईकुण्ड",
+      "Province": "Bagmati-3",
+      "Worker Name": "डुप्पा तामाङ्क",
+      "Worker Contact": 9861583133
+    },
+    {
+      "id": 91,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Nuwakot",
+      "State Government": "पन्चकन्या गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "रमेश श्रष्ठ",
+      "Worker Contact": 9860881675
+    },
+    {
+      "id": 92,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Nuwakot",
+      "State Government": "तादी गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "शैलेस उप्रेती",
+      "Worker Contact": 9863835945
+    },
+    {
+      "id": 93,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Nuwakot",
+      "State Government": "किस्पाङ गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "बिजय लामीछाने",
+      "Worker Contact": 9851147651
+    },
+    {
+      "id": 94,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Nuwakot",
+      "State Government": "मेघाङ गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "जीवन तामाङ",
+      "Worker Contact": 9843615891
+    },
+    {
+      "id": 95,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Nuwakot",
+      "State Government": "मेघाङ गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "सोम ब.तामाङ",
+      "Worker Contact": 9741236386
+    },
+    {
+      "id": 96,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Nuwakot",
+      "State Government": "लिखु गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "बिनोद कुवर",
+      "Worker Contact": 9860486074
+    },
+    {
+      "id": 97,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Nuwakot",
+      "State Government": "लिखु गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "रमेश न्यौपाने",
+      "Worker Contact": 9843564946
+    },
+    {
+      "id": 98,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Nuwakot",
+      "State Government": "लिखु गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "रामराजा प्याकुरेल",
+      "Worker Contact": 9841087462
+    },
+    {
+      "id": 99,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Nuwakot",
+      "State Government": "लिखु गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "पप्पु थापा",
+      "Worker Contact": 9849820701
+    },
+    {
+      "id": 100,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Nuwakot",
+      "State Government": "दुप्चेश्वर गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "रमेश डगोल",
+      "Worker Contact": 9861050916
+    },
+    {
+      "id": 101,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Nuwakot",
+      "State Government": "सुर्यगढी गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "नवराज भण्डारी",
+      "Worker Contact": 9851080248
+    },
+    {
+      "id": 102,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Nuwakot",
+      "State Government": "शिवपुरी गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "राजु खाति",
+      "Worker Contact": 9813543694
+    },
+    {
+      "id": 103,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Nuwakot",
+      "State Government": "ककनी गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुमन गौतम",
+      "Worker Contact": 9851099145
+    },
+    {
+      "id": 104,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Nuwakot",
+      "State Government": "तारकेश्वर  गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "श्याम लामा",
+      "Worker Contact": 9860047128
+    },
+    {
+      "id": 105,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Nuwakot",
+      "State Government": "बेल्कोटगढी  न.पा",
+      "Province": "Bagmati-3",
+      "Worker Name": "ठाकुर ढुगांना",
+      "Worker Contact": 9861119729
+    },
+    {
+      "id": 106,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Nuwakot",
+      "State Government": "बेल्कोटगढी  न.पा",
+      "Province": "Bagmati-3",
+      "Worker Name": "पूर्ण बहादुर भण्डारी",
+      "Worker Contact": 9841899267
+    },
+    {
+      "id": 107,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Nuwakot",
+      "State Government": "बिदुर नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "दिपक भुजेल",
+      "Worker Contact": 9841823600
+    },
+    {
+      "id": 108,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Nuwakot",
+      "State Government": "बिदुर नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "सिताराम वली",
+      "Worker Contact": 9856073310
+    },
+    {
+      "id": 109,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Nuwakot",
+      "State Government": "बिदुर नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "निकेश कुमार भटराई",
+      "Worker Contact": 9841877464
+    },
+    {
+      "id": 110,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Nuwakot",
+      "State Government": "बिदुर नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "श्याम लामा",
+      "Worker Contact": 9860047128
+    },
+    {
+      "id": 111,
+      "Faculty Name": "गुम्दी स्वास्थ्य चौकी",
+      "Faculty Phone no.": "",
+      "District": "Dhading",
+      "State Government": "गंगाजमुना गा.पा",
+      "Province": "Bagmati-3",
+      "Worker Name": "सन्तोष श्रेष्ठ",
+      "Worker Contact": 9860730039
+    },
+    {
+      "id": 112,
+      "Faculty Name": "सामुदायिक स्वास्थ्य केन्द्र",
+      "Faculty Phone no.": "",
+      "District": "Dhading",
+      "State Government": "गजुरी गा.पा",
+      "Province": "Bagmati-3",
+      "Worker Name": "टिका बहादुर मगर",
+      "Worker Contact": 9864534202
+    },
+    {
+      "id": 113,
+      "Faculty Name": "पीडा स्वास्थ्य चौकी",
+      "Faculty Phone no.": "",
+      "District": "Dhading",
+      "State Government": "गजुरी गा.पा",
+      "Province": "Bagmati-3",
+      "Worker Name": "सरण सुबेदी",
+      "Worker Contact": 9861834063
+    },
+    {
+      "id": 114,
+      "Faculty Name": "किराञ्चोक स्वस्थ्य चौकी",
+      "Faculty Phone no.": "",
+      "District": "Dhading",
+      "State Government": "गजुरी गा.पा",
+      "Province": "Bagmati-3",
+      "Worker Name": "नारायण बस्नेत",
+      "Worker Contact": 9841951015
+    },
+    {
+      "id": 115,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Dhading",
+      "State Government": "गजुरी गा.पा",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 116,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Dhading",
+      "State Government": "नेत्रावती गा.पा",
+      "Province": "Bagmati-3",
+      "Worker Name": "कुबेर अधिकारी",
+      "Worker Contact": 9843736671
+    },
+    {
+      "id": 117,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Dhading",
+      "State Government": "नेत्रावती गा.पा",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9860057234
+    },
+    {
+      "id": 118,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Dhading",
+      "State Government": "नेत्रावती गा.पा",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9851187537
+    },
+    {
+      "id": 119,
+      "Faculty Name": "निलकष्ठ न.पा",
+      "Faculty Phone no.": "",
+      "District": "Dhading",
+      "State Government": "निलकष्ठ न.पा",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुरज गुरुङ",
+      "Worker Contact": 9869226660
+    },
+    {
+      "id": 120,
+      "Faculty Name": "निलकष्ठ न.पा",
+      "Faculty Phone no.": "",
+      "District": "Dhading",
+      "State Government": "निलकष्ठ न.पा",
+      "Province": "Bagmati-3",
+      "Worker Name": "बिनोद ढकाल",
+      "Worker Contact": 9869525660
+    },
+    {
+      "id": 121,
+      "Faculty Name": "निलकष्ठ न.पा",
+      "Faculty Phone no.": "",
+      "District": "Dhading",
+      "State Government": "निलकष्ठ न.पा",
+      "Province": "Bagmati-3",
+      "Worker Name": "ईश्वर श्रेष्ठ",
+      "Worker Contact": 9860884008
+    },
+    {
+      "id": 122,
+      "Faculty Name": "गल्छी गा.पा",
+      "Faculty Phone no.": "",
+      "District": "Dhading",
+      "State Government": "गल्छी गा.पा",
+      "Province": "Bagmati-3",
+      "Worker Name": "सानुकान्छा तामाङ",
+      "Worker Contact": 9840906010
+    },
+    {
+      "id": 123,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Dhading",
+      "State Government": "धुनिबेशी न.पा",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 124,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Dhading",
+      "State Government": "थाक्रे गा.पा",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 125,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Dhading",
+      "State Government": "बेनिघाट रोराङ गा.पा",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 126,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Dhading",
+      "State Government": "सिद्धलेक गा.पा",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 127,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Dhading",
+      "State Government": "ज्वालामूखि गा.पा",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 128,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Dhading",
+      "State Government": "त्रिपुरा सुन्दरी गा.पा",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 129,
+      "Faculty Name": "कमिन्चुली महिला बचत तथा रिन्द् सहकारी संस्था",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "राप्ती नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9845661051
+    },
+    {
+      "id": 130,
+      "Faculty Name": "गोकुल  नारायण श्रेष्ठ स्मृति संस्था",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "राप्ती नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9845911265
+    },
+    {
+      "id": 131,
+      "Faculty Name": "नेपाल रेडक्रस  सोसाईटी उपशाखा भण्डारा",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "राप्ती नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "विष्णुप्रसाद चौधरी",
+      "Worker Contact": 9845070133
+    },
+    {
+      "id": 132,
+      "Faculty Name": "स्व. मेघनाथ उप्रेती प्रतिष्ठान , लोथर",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "राप्ती नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "चिरन खड्का",
+      "Worker Contact": 9845327133
+    },
+    {
+      "id": 133,
+      "Faculty Name": "नेपाल रेडक्रस  सोसाईटी उपशाखा  पिप्ले",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "राप्ती नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "कृष्ण ब सार्की",
+      "Worker Contact": 9855063532
+    },
+    {
+      "id": 134,
+      "Faculty Name": "युगज्योती युवा क्लब पिप्ले",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "राप्ती नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "लोकराज सिलवाल",
+      "Worker Contact": 9845327666
+    },
+    {
+      "id": 135,
+      "Faculty Name": "वंगलामुखी  कर्णाखर ट्र्ष्ट  पिप्ले ७",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "राप्ती नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "कृष्ण प्र सिलवाल",
+      "Worker Contact": 9845047064
+    },
+    {
+      "id": 136,
+      "Faculty Name": "स्व.चेतननाथ तथा जानुकदेवी पाठक स्मृति प्रतिष्ठान  भण्डारा",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "राप्ती नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "गोपाल बहादुर  तामङ",
+      "Worker Contact": 9845645100
+    },
+    {
+      "id": 137,
+      "Faculty Name": "ग्रामीण सामुदायिक स्वास्थ्य केन्द्र",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "राप्ती नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "आश बहादुर कुमाल",
+      "Worker Contact": 9845591926
+    },
+    {
+      "id": 138,
+      "Faculty Name": "डबलजंग वाइवा स्मृति प्रतिष्ठान कोराक",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "राप्ती नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "कल्याण लामा",
+      "Worker Contact": 9845075133
+    },
+    {
+      "id": 139,
+      "Faculty Name": "वीरेन्द्र उपस्वास्थ्य चौकी",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "राप्ती नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "हरिकृष्ण रुवाली",
+      "Worker Contact": 9845631199
+    },
+    {
+      "id": 140,
+      "Faculty Name": "नेपाल रेडक्रस सोसाईटी उपशाखा गर्दी",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "माडी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "भेजराज भुसाल",
+      "Worker Contact": 9845370685
+    },
+    {
+      "id": 141,
+      "Faculty Name": "नेपाल रेडक्रस सोसाईटी उपशाखा  कल्याणपुर",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "माडी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "कृष्ण जैसी",
+      "Worker Contact": 9865003955
+    },
+    {
+      "id": 142,
+      "Faculty Name": "बघौडा अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "माडी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "खगेश्वर भूषाल",
+      "Worker Contact": 9845175864
+    },
+    {
+      "id": 143,
+      "Faculty Name": "नेपाल रेडक्रस सोसाईटी अयोध्यापुरी उपशाखा",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "माडी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "कृष्ण प्रसाद भण्डारी",
+      "Worker Contact": 984553694
+    },
+    {
+      "id": 144,
+      "Faculty Name": "माडी पुषपाण्जली अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "माडी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "विजय महतो",
+      "Worker Contact": 9867953121
+    },
+    {
+      "id": 145,
+      "Faculty Name": "स्व. प्रेमनाथ स्मृति प्रतिष्ठान",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "ईच्छाकामना गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "नवराज थापा",
+      "Worker Contact": 9845151558
+    },
+    {
+      "id": 146,
+      "Faculty Name": "अक्षेरी स्मृति प्रतिष्ठान  कालिका",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "कालिका नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9855063961
+    },
+    {
+      "id": 147,
+      "Faculty Name": "नेपाल रेडक्रस सोसाईति , उपशाखा जुटपानी",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "कालिका नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "रविन्द्र श्रेष्ठ",
+      "Worker Contact": 9845432135
+    },
+    {
+      "id": 148,
+      "Faculty Name": "नेपाल रेडक्रस सोसाईति , उपशाखा शक्तिखोर",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "कालिका नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुन्दर् सिलवाल",
+      "Worker Contact": 9855087894
+    },
+    {
+      "id": 149,
+      "Faculty Name": "स्व. सहोदर महतो स्मृति प्रतिष्ठान",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "कालिका नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9845063470
+    },
+    {
+      "id": 150,
+      "Faculty Name": "स्व. रामप्रसाद तिमल्सिना स्मृति संस्था",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "कालिका नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9855083945
+    },
+    {
+      "id": 151,
+      "Faculty Name": "बाबुराम स्मृति समाज सेवा",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "कालिका नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9855047643
+    },
+    {
+      "id": 152,
+      "Faculty Name": "थाम बहादुर स्मृति प्रतिष्ठान",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "कालिका नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9855065911
+    },
+    {
+      "id": 153,
+      "Faculty Name": "स्व. जीतमान श्रेष्ठ स्मृति प्रतिष्ठान",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "कालिका नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "प्रेम ब पाख्रीन",
+      "Worker Contact": 9845415221
+    },
+    {
+      "id": 154,
+      "Faculty Name": "समृद्धि श्रेष्ठ सेवा समाज",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "कालिका नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9845366567
+    },
+    {
+      "id": 155,
+      "Faculty Name": "मदानआश्रीत स्मृती स्वास्थ्य केन्द्र, पदमपुर",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "कालिका नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "उमाकान्त तिमिल्सिना",
+      "Worker Contact": 984544854
+    },
+    {
+      "id": 156,
+      "Faculty Name": "स्व. यग प्रसाद सुयाँल स्मृति प्रतिष्ठान",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "कालिका नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "अर्जुन प्रसाद सिलवाल",
+      "Worker Contact": 9845531600
+    },
+    {
+      "id": 157,
+      "Faculty Name": "रत्ननगर नगरपालिका टाँडी",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "रत्ननगर नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 158,
+      "Faculty Name": "ओम साईराम पिलिक्लिनिक टाँडी",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "रत्ननगर नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "सानु श्रेष्ठ",
+      "Worker Contact": 9845174066
+    },
+    {
+      "id": 159,
+      "Faculty Name": "सामुदायिक सेवा केन्द्र बछौली",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "रत्ननगर नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "बाबुराम चौधरी",
+      "Worker Contact": 9845056000
+    },
+    {
+      "id": 160,
+      "Faculty Name": "गुणराज पाठाक स्मृती स. टांडी",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "रत्ननगर नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "शिवप्रसाद बजगाइ",
+      "Worker Contact": 9845432900
+    },
+    {
+      "id": 161,
+      "Faculty Name": "टांडी रत्ननगर पोलिक्लिनिक प्रा.लि.",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "रत्ननगर नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 984556422
+    },
+    {
+      "id": 162,
+      "Faculty Name": "भारतीय भूपू सैनिक संघ पिठुवा",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "रत्ननगर नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "लक्ष्मण खत्री",
+      "Worker Contact": 9845453444
+    },
+    {
+      "id": 163,
+      "Faculty Name": "नेपाल एम्बुलेन्स सेवा , शाखा रत्ननगर",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "रत्ननगर नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "रेसमलाल ताम्राकार",
+      "Worker Contact": 102
+    },
+    {
+      "id": 164,
+      "Faculty Name": "महादेव प्र. विसुराल सामाजिक परिवर्तन समाज  पर्सा",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "खैरहनी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "महादेब प्र विशुराल",
+      "Worker Contact": 9855054272
+    },
+    {
+      "id": 165,
+      "Faculty Name": "नेपाल रेडक्रस सोसाईटी उपशाखा चैनपुर",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "खैरहनी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "दिपेन्द्र कंडेल",
+      "Worker Contact": 9855082100
+    },
+    {
+      "id": 166,
+      "Faculty Name": "सेतीदेवी प्रतिष्ठान",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "खैरहनी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9855066123
+    },
+    {
+      "id": 167,
+      "Faculty Name": "पवन पोलिक्लिनिक  पर्सा",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "खैरहनी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "बिर बहादुर लामा",
+      "Worker Contact": 9855083080
+    },
+    {
+      "id": 168,
+      "Faculty Name": "बुद्धि नारायण विसुराल तथा तिर्थराज सुयल प्रतिष्ठान  पर्सा",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "खैरहनी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "खिल प्रसाद सुयल",
+      "Worker Contact": 9855057172
+    },
+    {
+      "id": 169,
+      "Faculty Name": "स्व. टेक प्रसाद अर्याल स्मृति प्रतिष्ठान  पर्सा",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "खैरहनी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "देव राज अर्याल",
+      "Worker Contact": 9845054423
+    },
+    {
+      "id": 170,
+      "Faculty Name": "शहिद कमल सुयाल  स्मृति प्रतिष्ठान  पर्सा",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "खैरहनी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "लक्ष्मण प्र सुर्याल",
+      "Worker Contact": 9845051386
+    },
+    {
+      "id": 171,
+      "Faculty Name": "झुवानी सामुदायिक पुस्तकालय  झुवानी",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "खैरहनी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "तिलकराम श्रेष्ठ",
+      "Worker Contact": 9845044462
+    },
+    {
+      "id": 172,
+      "Faculty Name": "सुकभवानी  स्मृति प्रतिष्ठान  कुमरोज",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "खैरहनी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "रमेश कुमार जोशी",
+      "Worker Contact": 9845061142
+    },
+    {
+      "id": 173,
+      "Faculty Name": "केयर पोलिक्लिनिक  पर्सा",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "खैरहनी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9855066993
+    },
+    {
+      "id": 174,
+      "Faculty Name": "टोप नारायण ढकाल स्मृति प्रतिष्ठान  पर्सा",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "खैरहनी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9846631795
+    },
+    {
+      "id": 175,
+      "Faculty Name": "नेपाल रेडक्रस सोसाईटी खैरहनी उपशाखा",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "खैरहनी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुजन महतो",
+      "Worker Contact": 9855060345
+    },
+    {
+      "id": 176,
+      "Faculty Name": "समुदायिक स्वास्थ्य सेवा समाज कुमरोज",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "खैरहनी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "कृष्ण वर्तौला",
+      "Worker Contact": 9845068098
+    },
+    {
+      "id": 177,
+      "Faculty Name": "युवा स्वणतारा क्लब खैरहनी पर्सा",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "खैरहनी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "शंकर पाठक",
+      "Worker Contact": 9845531652
+    },
+    {
+      "id": 178,
+      "Faculty Name": "धर्मगोपी कमलीकान्त स्मृति प्रतिष्ठान",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "खैरहनी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "राजु पन्त",
+      "Worker Contact": 9845044089
+    },
+    {
+      "id": 179,
+      "Faculty Name": "चौधरी पोलिक्लिनिक  पर्सा",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "खैरहनी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9865032670
+    },
+    {
+      "id": 180,
+      "Faculty Name": "स्व. कर्ण सुयाँल स्मृति संस्था",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "खैरहनी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9845051386
+    },
+    {
+      "id": 181,
+      "Faculty Name": "स्व. राम प्रसाद गोल्छी  स्मृति सामाज",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9845151558
+    },
+    {
+      "id": 182,
+      "Faculty Name": "नेपाल रेडक्रस सोसाईति , उपशाखा पार्वतीपुर",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "वीरबहादुर गुरुङ",
+      "Worker Contact": 9845050545
+    },
+    {
+      "id": 183,
+      "Faculty Name": "नन्दराम पाठक स्मृति शव वाहन",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9845248549
+    },
+    {
+      "id": 184,
+      "Faculty Name": "क्यान्सर सेवा समाज शव वाहन",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9845198321
+    },
+    {
+      "id": 185,
+      "Faculty Name": "प्रेम लामा स्मृति प्रतिष्ठान शव वाहन",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9855081223
+    },
+    {
+      "id": 186,
+      "Faculty Name": "स्व.चेतनाथ तथा जानुकदेवी स्मृती प्रतिष्ठान",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9845054476
+    },
+    {
+      "id": 187,
+      "Faculty Name": "नन्दराम पाठक स्मृती प्रतिष्ठान",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9845448549
+    },
+    {
+      "id": 188,
+      "Faculty Name": "स्व. प्रेम लामा स्मृती प्रतिष्ठान",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "गोपाल ब लामा",
+      "Worker Contact": 9845731448
+    },
+    {
+      "id": 189,
+      "Faculty Name": "सप्तगण्डकी अस्पताल प्रा.लि.",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9845110741
+    },
+    {
+      "id": 190,
+      "Faculty Name": "मौलकालिका प्रा.लि.",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुनिल श्रेष्ठ",
+      "Worker Contact": 9745021999
+    },
+    {
+      "id": 191,
+      "Faculty Name": "नेपाल परिवार निवोजन संघ",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9845064906
+    },
+    {
+      "id": 192,
+      "Faculty Name": "स्व. हरी बहादुर थापा स्मृती संस्था",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "दिपक थापा",
+      "Worker Contact": 9845056906
+    },
+    {
+      "id": 193,
+      "Faculty Name": "शिवपरमात्मा सेवा समिति",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "देवेन्द्र शर्मा",
+      "Worker Contact": 9845032546
+    },
+    {
+      "id": 194,
+      "Faculty Name": "नारायणी समुदायिक अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "मन्दीप श्रेष्ठ",
+      "Worker Contact": 9845066143
+    },
+    {
+      "id": 195,
+      "Faculty Name": "स्व. हर्क नारायण तथा  नन्दकुमारी स्मृती प्रतिष्ठान",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "मौजेलाल सहणी",
+      "Worker Contact": 9845210197
+    },
+    {
+      "id": 196,
+      "Faculty Name": "नमुना कल्याणकारी आश्रम",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "निलराज महतो",
+      "Worker Contact": 9855042022
+    },
+    {
+      "id": 197,
+      "Faculty Name": "गुणराज पाठक स्मृती प्रतिष्ठान",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 198,
+      "Faculty Name": "भरतपुर नगर तामाङ",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुक बहादुर घले",
+      "Worker Contact": 9806806686
+    },
+    {
+      "id": 199,
+      "Faculty Name": "पदम नारायण तथा धर्म कुमारी मल्ल प्रतिष्ठान",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9845026064
+    },
+    {
+      "id": 200,
+      "Faculty Name": "छेत्री समाज",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9845671126
+    },
+    {
+      "id": 201,
+      "Faculty Name": "मनकामन अस्पताल प्रा.लि.",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "तेजबहादुर गुरुङ",
+      "Worker Contact": 9845346314
+    },
+    {
+      "id": 202,
+      "Faculty Name": "पुष्पञ्जली अस्पताल प्रा.लि.",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "रामकुमार दराई",
+      "Worker Contact": 9855046480
+    },
+    {
+      "id": 203,
+      "Faculty Name": "चितवन मोडल अस्पताल प्रा.लि.",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9845784533
+    },
+    {
+      "id": 204,
+      "Faculty Name": "तुल्सीलाल  स्मृती प्रतिष्ठान",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9845155163
+    },
+    {
+      "id": 205,
+      "Faculty Name": "नेपाल रेडक्र्स सोसाईटी उपशाखा चनौलि",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "मंगल ब गुरुङ",
+      "Worker Contact": 9845056939
+    },
+    {
+      "id": 206,
+      "Faculty Name": "ल्याण्ड सिंह हेल्थ  केयर",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "अनिल गुरुङ",
+      "Worker Contact": 9807144756
+    },
+    {
+      "id": 207,
+      "Faculty Name": "संजीवनी  अयुर्वेदिक चिकित्सालय",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9855054474
+    },
+    {
+      "id": 208,
+      "Faculty Name": "स्व. ईन्द्र बहादुर थापा स्मृती संस्था",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9845447991
+    },
+    {
+      "id": 209,
+      "Faculty Name": "लिओ लायन्स   क्लब अफ गीतानगर",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "नवराज रिमाल",
+      "Worker Contact": 9845368314
+    },
+    {
+      "id": 210,
+      "Faculty Name": "साहारा नेपाल उपशाखा मंगलपुर",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "ऋषिराम गौतम",
+      "Worker Contact": 9855065513
+    },
+    {
+      "id": 211,
+      "Faculty Name": "नेपाल रेडक्र्स सोसाईटी उपशाखा गीतानगर",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "विकराम महतो",
+      "Worker Contact": 9845923459
+    },
+    {
+      "id": 212,
+      "Faculty Name": "नेपाल रेडक्र्स सोसाईटी दिब्यनगर",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "राजेन्द्र महतो",
+      "Worker Contact": 9855058474
+    },
+    {
+      "id": 213,
+      "Faculty Name": "भू.पू. सैनिक संघ, यज्ञपुर",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "गणेशबहादुर गुरुङ",
+      "Worker Contact": 9845396180
+    },
+    {
+      "id": 214,
+      "Faculty Name": "नेपाल रेडक्र्स सोसाईटी उपशाखा महेन्द्रचोक",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "पतीराम महतो",
+      "Worker Contact": 98451122284
+    },
+    {
+      "id": 215,
+      "Faculty Name": "नेपाल रेडक्र्स सोसाईटी उपशाखाक जगतपुर",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "कमल कु कालाखेती",
+      "Worker Contact": 9845595947
+    },
+    {
+      "id": 216,
+      "Faculty Name": "नेपाल रेडक्र्स सोसाईटी उपशाखा पटीहनी",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "हरि चौधरी",
+      "Worker Contact": 9845794444
+    },
+    {
+      "id": 217,
+      "Faculty Name": "मिलन युवा क्लब",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "पतिराम महतो",
+      "Worker Contact": 9861914850
+    },
+    {
+      "id": 218,
+      "Faculty Name": "स्व. भानु गोमादेवी कंडेल स्मृती प्रतिष्ठान",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुनिल श्रेष्ठ",
+      "Worker Contact": 9845332755
+    },
+    {
+      "id": 219,
+      "Faculty Name": "नेपाल रेडक्र्स सोसाईटी उपशाखा लंकु",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "बल राम घिमिरे",
+      "Worker Contact": 9865181900
+    },
+    {
+      "id": 220,
+      "Faculty Name": "नेपाल रेडक्र्स सोसाईटी उपशाखा लक्ष्मी मा.वि.",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "गणेश गुरुङ",
+      "Worker Contact": 9845082277
+    },
+    {
+      "id": 221,
+      "Faculty Name": "गितानगर स्वास्थ्य चौकी",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9845710516
+    },
+    {
+      "id": 222,
+      "Faculty Name": "सम्पर्क नेपाल उपशाखा भरतपुर",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "दूर्गा ब ब्लोन",
+      "Worker Contact": 9845054476
+    },
+    {
+      "id": 223,
+      "Faculty Name": "समुदायिक स्वास्थ्य केन्द्र",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9845415221
+    },
+    {
+      "id": 224,
+      "Faculty Name": "एडभान्स अस्पताल प्रा लि",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9845415221
+    },
+    {
+      "id": 225,
+      "Faculty Name": "क्षयरोग निवारण संस्था नारायणगढ",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "प्रदिप लामा",
+      "Worker Contact": 9855050947
+    },
+    {
+      "id": 226,
+      "Faculty Name": "कृष्ण प्रसाद गौतम स्मृती प्रतिष्ठान",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "सन्तोष श्रेष्ठ",
+      "Worker Contact": 9845048536
+    },
+    {
+      "id": 227,
+      "Faculty Name": "देवी प्रसाद ओस्ती प्रतिष्ठान",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "दिपक लामा",
+      "Worker Contact": 9855065507
+    },
+    {
+      "id": 228,
+      "Faculty Name": "सेन्ट्रल् हस्पिटल प्रा.लि.",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9855046099
+    },
+    {
+      "id": 229,
+      "Faculty Name": "दिगो ग्रामीण स्वास्थ्य सेवा समाज नेपाल",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "गोकर्ण कु श्रेष्ठ",
+      "Worker Contact": 9845108796
+    },
+    {
+      "id": 230,
+      "Faculty Name": "नेपाल रेडक्र्स सोसाईटी उपशाखा सारदानगर",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "लिला गुरुङ",
+      "Worker Contact": 9845056637
+    },
+    {
+      "id": 231,
+      "Faculty Name": "नेपाल रेडक्र्स सोसाईटी मेघौली उपशाखा",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "ताराबहादुर कार्की",
+      "Worker Contact": 9845407944
+    },
+    {
+      "id": 232,
+      "Faculty Name": "नेपाल रेडक्र्स सोसाईटी शुक्रनगर  उपशाखा",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "कृष्णप्रसाद घिमिरे",
+      "Worker Contact": 9855065936
+    },
+    {
+      "id": 233,
+      "Faculty Name": "नेपाल रेडक्र्स सोसाईटी  चितवन शाखा",
+      "Faculty Phone no.": 56520133,
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "मोहन गुरुङ",
+      "Worker Contact": ""
+    },
+    {
+      "id": 234,
+      "Faculty Name": "रक्त्त संकलन भ्यान",
+      "Faculty Phone no.": 56520880,
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "चन्द्रवीर प्रजापति",
+      "Worker Contact": ""
+    },
+    {
+      "id": 235,
+      "Faculty Name": "नेशनल सिटी हस्पीटल भरतपुर",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "लोकबाहादुर  प्रजा",
+      "Worker Contact": 9845275929
+    },
+    {
+      "id": 236,
+      "Faculty Name": "क्लिनिकल नेपाल मेघौली",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "टेकबहादुर गुरुङ",
+      "Worker Contact": 9845519794
+    },
+    {
+      "id": 237,
+      "Faculty Name": "चितवन अस्पताल प्रा.लि.",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "आश ब कुमाल",
+      "Worker Contact": 9845591926
+    },
+    {
+      "id": 238,
+      "Faculty Name": "जयबृद्ध अस्पताल प्रा.लि.",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "छविलाल देवकोटा",
+      "Worker Contact": 9845117016
+    },
+    {
+      "id": 239,
+      "Faculty Name": "चितवन ओम अस्पताल प्रा.लि.",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "दिलबहादुर लामा",
+      "Worker Contact": 9845050500
+    },
+    {
+      "id": 240,
+      "Faculty Name": "शान्ति अस्पताल प्रा.लि.",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "डम्बरबहादुर गुरुङ",
+      "Worker Contact": 9745021999
+    },
+    {
+      "id": 241,
+      "Faculty Name": "वी.पि.को.मे.क्यान्सर अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "बेनु",
+      "Worker Contact": 9845052350
+    },
+    {
+      "id": 242,
+      "Faculty Name": "होटल व्यवसायी संघ चितवन",
+      "Faculty Phone no.": 564144180,
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "कालाखेती",
+      "Worker Contact": ""
+    },
+    {
+      "id": 243,
+      "Faculty Name": "बालकुमारी ग्रमिण स्वास्थ्य प्रा.लि.",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "रामाशरण रिमाल",
+      "Worker Contact": 9845319900
+    },
+    {
+      "id": 244,
+      "Faculty Name": "गुन्जनगर स्वास्थ्य चौकी",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "चन्द्रकान्त गैरे",
+      "Worker Contact": 9845436353
+    },
+    {
+      "id": 245,
+      "Faculty Name": "सप्तगण्डकी अस्पताल भरतपुर",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "मिलन श्रेष्ठ",
+      "Worker Contact": 9845501011
+    },
+    {
+      "id": 246,
+      "Faculty Name": "आशा अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "गोकर्ण कुमार  श्रेष्ठ",
+      "Worker Contact": 9845108796
+    },
+    {
+      "id": 247,
+      "Faculty Name": "भरतपुर समुदायिक अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "विरबहादुर लामा",
+      "Worker Contact": 9845078543
+    },
+    {
+      "id": 248,
+      "Faculty Name": "पुष्पञ्जली अस्पताल भरतपुर",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "धनबहादुर थापा",
+      "Worker Contact": 9845078543
+    },
+    {
+      "id": 249,
+      "Faculty Name": "रिद्धिजुंग तथा राज्यलक्ष्मी भरतपुर",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "राजकुमार श्रेष्ठ",
+      "Worker Contact": 9845332208
+    },
+    {
+      "id": 250,
+      "Faculty Name": "टेकुमाया मैयांदेवी प्रतिष्ठान",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9845333006
+    },
+    {
+      "id": 251,
+      "Faculty Name": "भरतपुर स्वास्थ्य चौकी,गौरीगञ्जा",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "शम्भु",
+      "Worker Contact": 9845635000
+    },
+    {
+      "id": 252,
+      "Faculty Name": "प्रथामिक स्वास्थ्य केन्द्र शिवनगर",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "चित्रबहादुर थापा",
+      "Worker Contact": 9845177268
+    },
+    {
+      "id": 253,
+      "Faculty Name": "नेपाल नेत्रज्योति संघ  भरतपुर",
+      "Faculty Phone no.": 56520333,
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 254,
+      "Faculty Name": "श्री मतृभुमी, चितवन, देवघाट",
+      "Faculty Phone no.": "",
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "झलक पौडेल",
+      "Worker Contact": 9845208306
+    },
+    {
+      "id": 255,
+      "Faculty Name": "मकवानपुर सहकारी अस्पताल",
+      "Faculty Phone no.": "-",
+      "District": "Makwanpur",
+      "State Government": "हेटौडा उ.म.न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "दिपेन्द्र अधिकारी",
+      "Worker Contact": 9845619194
+    },
+    {
+      "id": 256,
+      "Faculty Name": "पदमपोखरी हेल्थ पोष्ट",
+      "Faculty Phone no.": "-",
+      "District": "Makwanpur",
+      "State Government": "हेटौडा उ.म.न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "अर्जुन मुक्तान",
+      "Worker Contact": 9845186231
+    },
+    {
+      "id": 257,
+      "Faculty Name": "हेटौडा अस्पताल",
+      "Faculty Phone no.": "-",
+      "District": "Makwanpur",
+      "State Government": "हेटौडा उ.म.न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "विनोद श्रेष्ठ",
+      "Worker Contact": 9845031177
+    },
+    {
+      "id": 258,
+      "Faculty Name": "हेटौडा अस्पताल",
+      "Faculty Phone no.": "-",
+      "District": "Makwanpur",
+      "State Government": "हेटौडा उ.म.न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुवाष अधिकारी",
+      "Worker Contact": 9842599951
+    },
+    {
+      "id": 259,
+      "Faculty Name": "ने.रे.सो.मकवानपुर शाखा",
+      "Faculty Phone no.": "-",
+      "District": "Makwanpur",
+      "State Government": "हेटौडा उ.म.न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "डवल महर्जन",
+      "Worker Contact": 984527511
+    },
+    {
+      "id": 260,
+      "Faculty Name": "ने.रे.सो.मकवानपुर शाखा",
+      "Faculty Phone no.": "-",
+      "District": "Makwanpur",
+      "State Government": "हेटौडा उ.म.न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "चन्द्रमान महर्जन",
+      "Worker Contact": 9845148511
+    },
+    {
+      "id": 261,
+      "Faculty Name": "ने.रे.सो.मकवानपुर शाखा",
+      "Faculty Phone no.": "-",
+      "District": "Makwanpur",
+      "State Government": "हेटौडा उ.म.न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "नारायण प्र. गौतम",
+      "Worker Contact": 9845027542
+    },
+    {
+      "id": 262,
+      "Faculty Name": "ने.रे.सो.मकवानपुर शाखा",
+      "Faculty Phone no.": "-",
+      "District": "Makwanpur",
+      "State Government": "हेटौडा उ.म.न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "जनार्दन नेपाल",
+      "Worker Contact": 9845028952
+    },
+    {
+      "id": 263,
+      "Faculty Name": "न.प.नि.संघ मकवानपुर",
+      "Faculty Phone no.": "-",
+      "District": "Makwanpur",
+      "State Government": "हेटौडा उ.म.न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "शिवलाल थापा",
+      "Worker Contact": 9845104500
+    },
+    {
+      "id": 264,
+      "Faculty Name": "हेटौडा सिमेन्ट उ.",
+      "Faculty Phone no.": "-",
+      "District": "Makwanpur",
+      "State Government": "हेटौडा उ.म.न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "मदन कर्मचार्य",
+      "Worker Contact": 9845105338
+    },
+    {
+      "id": 265,
+      "Faculty Name": "युनिलिभर वसामाडी",
+      "Faculty Phone no.": "-",
+      "District": "Makwanpur",
+      "State Government": "हेटौडा उ.म.न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 266,
+      "Faculty Name": "ना.या.व्य.संघ",
+      "Faculty Phone no.": "-",
+      "District": "Makwanpur",
+      "State Government": "हेटौडा उ.म.न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "मीन बहादुर गौतम",
+      "Worker Contact": 9855071063
+    },
+    {
+      "id": 267,
+      "Faculty Name": "समाजसेवि युवा परिषद",
+      "Faculty Phone no.": "-",
+      "District": "Makwanpur",
+      "State Government": "हेटौडा उ.म.न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 268,
+      "Faculty Name": "वसामाडी स्वा.चौ.",
+      "Faculty Phone no.": "-",
+      "District": "Makwanpur",
+      "State Government": "हेटौडा उ.म.न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "जीत कुमार मुक्तान",
+      "Worker Contact": 9845297579
+    },
+    {
+      "id": 269,
+      "Faculty Name": "चुरियामाई उपसमिति",
+      "Faculty Phone no.": "-",
+      "District": "Makwanpur",
+      "State Government": "हेटौडा उ.म.न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "राजु मुक्तान",
+      "Worker Contact": 9845370310
+    },
+    {
+      "id": 270,
+      "Faculty Name": "ने.रे.सो.पालुङ उपशाखा",
+      "Faculty Phone no.": "-",
+      "District": "Makwanpur",
+      "State Government": "थाहा न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "शरण कार्की",
+      "Worker Contact": 981420741
+    },
+    {
+      "id": 271,
+      "Faculty Name": "ने.रे.सो.बज्रवराही उपशाखा",
+      "Faculty Phone no.": "-",
+      "District": "Makwanpur",
+      "State Government": "थाहा न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "-",
+      "Worker Contact": "-"
+    },
+    {
+      "id": 272,
+      "Faculty Name": "पालुङ प्रा.स्वा.के.",
+      "Faculty Phone no.": "-",
+      "District": "Makwanpur",
+      "State Government": "थाहा न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "शरण कार्की",
+      "Worker Contact": 9814207401
+    },
+    {
+      "id": 273,
+      "Faculty Name": "बज्रबराही नेवा पुच",
+      "Faculty Phone no.": "-",
+      "District": "Makwanpur",
+      "State Government": "थाहा न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "दिलिप भट्ट",
+      "Worker Contact": 9845072043
+    },
+    {
+      "id": 274,
+      "Faculty Name": "टिष्टुङ स्वा.चौ.",
+      "Faculty Phone no.": "-",
+      "District": "Makwanpur",
+      "State Government": "थाहा न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "जेठा दोङ",
+      "Worker Contact": 9845666389
+    },
+    {
+      "id": 275,
+      "Faculty Name": "ने.रे.सो.भिमफेदी उपशाखा",
+      "Faculty Phone no.": "-",
+      "District": "Makwanpur",
+      "State Government": "भिमफेदी गा.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "शुशिल लामा",
+      "Worker Contact": 9845704252
+    },
+    {
+      "id": 276,
+      "Faculty Name": "ने.रे.सो.छतिवन उपशाखा",
+      "Faculty Phone no.": "-",
+      "District": "Makwanpur",
+      "State Government": "बकैया गा.पा",
+      "Province": "Bagmati-3",
+      "Worker Name": "होमनाथ फुयाल",
+      "Worker Contact": 9845382676
+    },
+    {
+      "id": 277,
+      "Faculty Name": "ने.रे.सो.मनहरी उपशाखा",
+      "Faculty Phone no.": "-",
+      "District": "Makwanpur",
+      "State Government": "मनहरी गा.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुरज लामा",
+      "Worker Contact": 9845105821
+    },
+    {
+      "id": 278,
+      "Faculty Name": "मनहरी प्रा.स्वा.के.",
+      "Faculty Phone no.": "-",
+      "District": "Makwanpur",
+      "State Government": "मनहरी गा.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "अजय मुक्तान",
+      "Worker Contact": 9845504055
+    },
+    {
+      "id": 279,
+      "Faculty Name": "फापरवारी स्वा.चौ.",
+      "Faculty Phone no.": "-",
+      "District": "Makwanpur",
+      "State Government": "बागमती गा.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "विनय थोकर",
+      "Worker Contact": 9845540078
+    },
+    {
+      "id": 280,
+      "Faculty Name": "नेपाल रेडक्रस सोसाईटी भक्तपुर जिल्ला शाखा",
+      "Faculty Phone no.": "",
+      "District": "Bhaktapur",
+      "State Government": "भक्तपुर नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "मिलन पुरी",
+      "Worker Contact": 9849857332
+    },
+    {
+      "id": 281,
+      "Faculty Name": "जिल्ला समन्वय समिति",
+      "Faculty Phone no.": "",
+      "District": "Bhaktapur",
+      "State Government": "भक्तपुर नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "केशवराज थापामगर",
+      "Worker Contact": 9841257892
+    },
+    {
+      "id": 282,
+      "Faculty Name": "भक्तपुर क्यान्सर अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Bhaktapur",
+      "State Government": "भक्तपुर नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "भिमसेन गेलाल",
+      "Worker Contact": 9860171552
+    },
+    {
+      "id": 283,
+      "Faculty Name": "डा. ईवामुरा अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Bhaktapur",
+      "State Government": "भक्तपुर नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "लक्ष्मण श्रेष्ठ",
+      "Worker Contact": 9860025333
+    },
+    {
+      "id": 284,
+      "Faculty Name": "मानव अंग प्रत्यारोपण केन्द्र",
+      "Faculty Phone no.": "",
+      "District": "Bhaktapur",
+      "State Government": "भक्तपुर नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "रकि दुवाल/रमेश कुस्मा",
+      "Worker Contact": ""
+    },
+    {
+      "id": 285,
+      "Faculty Name": "भक्तपुर नगरपालिका",
+      "Faculty Phone no.": "",
+      "District": "Bhaktapur",
+      "State Government": "भक्तपुर नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "पुण्य खत्री/राजन बासुकला",
+      "Worker Contact": 9851082799
+    },
+    {
+      "id": 286,
+      "Faculty Name": "भक्तपुर अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Bhaktapur",
+      "State Government": "भक्तपुर नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "कृष्ण राम कोजु",
+      "Worker Contact": 9840256350
+    },
+    {
+      "id": 287,
+      "Faculty Name": "अरुण सैंजु (निजी)",
+      "Faculty Phone no.": "",
+      "District": "Bhaktapur",
+      "State Government": "भक्तपुर नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "अरुण सैंजु",
+      "Worker Contact": 9851071139
+    },
+    {
+      "id": 288,
+      "Faculty Name": "नेपाल कोरिया मैत्री अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Bhaktapur",
+      "State Government": "मध्यपुर थिमी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "कृष्ण चन्द्र श्रेष्ठ",
+      "Worker Contact": 9841257048
+    },
+    {
+      "id": 289,
+      "Faculty Name": "मध्यपुर अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Bhaktapur",
+      "State Government": "मध्यपुर थिमी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "नविन परियार/सानुकाजी श्रेष्ठ",
+      "Worker Contact": 9851133613
+    },
+    {
+      "id": 290,
+      "Faculty Name": "नागरिक सामुदायिक अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Bhaktapur",
+      "State Government": "मध्यपुर थिमी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "दिपक घजु",
+      "Worker Contact": 9851133797
+    },
+    {
+      "id": 291,
+      "Faculty Name": "मध्यपुर ठिमी नगरपालिका",
+      "Faculty Phone no.": "",
+      "District": "Bhaktapur",
+      "State Government": "मध्यपुर ठिमी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "बुद्ध कृष्ण बाग",
+      "Worker Contact": 9841257048
+    },
+    {
+      "id": 292,
+      "Faculty Name": "नेपाल रेडक्रस सोसाइटी ननिलन्चोक शाखा",
+      "Faculty Phone no.": "",
+      "District": "Bhaktapur",
+      "State Government": "सूर्यविनायक नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "लक्ष्मी भक्त ह्याङ्गजु",
+      "Worker Contact": 9843559090
+    },
+    {
+      "id": 293,
+      "Faculty Name": "सुडाल ब्रह्मायणी विकाश केन्द्र",
+      "Faculty Phone no.": "",
+      "District": "Bhaktapur",
+      "State Government": "सूर्यविनायक नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "भिमबहादुर खत्री",
+      "Worker Contact": 9843633744
+    },
+    {
+      "id": 294,
+      "Faculty Name": "अखण्ड सेवा समिति",
+      "Faculty Phone no.": "",
+      "District": "Bhaktapur",
+      "State Government": "सूर्यविनायक नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "राकेश राजथला",
+      "Worker Contact": 9741323296
+    },
+    {
+      "id": 295,
+      "Faculty Name": "ग्रामिण विकाश पुर्वाधार केन्द्र",
+      "Faculty Phone no.": "",
+      "District": "Bhaktapur",
+      "State Government": "सूर्यविनायक नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "श्रीकृष्ण खड्का",
+      "Worker Contact": 9841477794
+    },
+    {
+      "id": 296,
+      "Faculty Name": "सूर्यविनायक नगरपालिका",
+      "Faculty Phone no.": "",
+      "District": "Bhaktapur",
+      "State Government": "सूर्यविनायक नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "केशवराज थापा",
+      "Worker Contact": 9841395199
+    },
+    {
+      "id": 297,
+      "Faculty Name": "नेपाल रेडक्रस सोसाईटी नगरकोट शाखा",
+      "Faculty Phone no.": "",
+      "District": "Bhaktapur",
+      "State Government": "चाँगुनारायण नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "विवेक लामिछाने",
+      "Worker Contact": 9841233600
+    },
+    {
+      "id": 298,
+      "Faculty Name": "नेपाल रेडक्रस ताथली शाखा",
+      "Faculty Phone no.": "",
+      "District": "Bhaktapur",
+      "State Government": "चाँगुनारायण नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "दिपक थापा",
+      "Worker Contact": 9741233815
+    },
+    {
+      "id": 299,
+      "Faculty Name": "चाँगुनारायण प्राथमिक स्वास्थ्य केन्द्र",
+      "Faculty Phone no.": "",
+      "District": "Bhaktapur",
+      "State Government": "चाँगुनारायण नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "उत्सव के.सी.",
+      "Worker Contact": 9849424813
+    },
+    {
+      "id": 300,
+      "Faculty Name": "काठमाडौं क्यान्सर सेन्टर",
+      "Faculty Phone no.": "",
+      "District": "Bhaktapur",
+      "State Government": "चाँगुनारायण नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "प्रकाश गजुरेल",
+      "Worker Contact": 9841466550
+    },
+    {
+      "id": 301,
+      "Faculty Name": "हरिणाम संक्रिटन सेवा समिति",
+      "Faculty Phone no.": "",
+      "District": "Bhaktapur",
+      "State Government": "चाँगुनारायण नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "लक्ष्मण भुट्ट",
+      "Worker Contact": 9860335944
+    },
+    {
+      "id": 302,
+      "Faculty Name": "चाँगुनारायण नगरपालिका",
+      "Faculty Phone no.": "",
+      "District": "Bhaktapur",
+      "State Government": "चाँगुनारायण नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "शिवहरी अधिकारी",
+      "Worker Contact": 9851214809
+    },
+    {
+      "id": 303,
+      "Faculty Name": "नेपाल रे.क्र.सो.,लपु साखा\nमेयर ललितपुर म.न.प.",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "हरिकृष्ण महर्जन",
+      "Worker Contact": 9841701793
+    },
+    {
+      "id": 304,
+      "Faculty Name": "सातदोबाटो एम्बुलेंस समिति",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "इश्वरी बस्नेत",
+      "Worker Contact": "९८५१२ ३४२०९"
+    },
+    {
+      "id": 305,
+      "Faculty Name": "मगर सेवा समाज, रानिबु",
+      "Faculty Phone no.": "९८०३०८१३९०",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "रबि धिमाल / दिल बहादुर धिमाल",
+      "Worker Contact": "९८४१४७१३८६"
+    },
+    {
+      "id": 306,
+      "Faculty Name": "सुमेरु अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "किरण खड्का\nभोला गौतम",
+      "Worker Contact": 9751044551
+    },
+    {
+      "id": 307,
+      "Faculty Name": "महापा: समाज सेवा समिति",
+      "Faculty Phone no.": "५५२७००३",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "बिकाश कुमार",
+      "Worker Contact": "९८५५ ४८०००० \n."
+    },
+    {
+      "id": 308,
+      "Faculty Name": "स्वास्थ्य तथा एम्बुलेन्स\n सेवा (केयर ए. फियर ), नख्खु",
+      "Faculty Phone no.": "९८१३०१५०११",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "कृष्ण तामांग /केसब मगर",
+      "Worker Contact": "९८४१३०४०७३, \n९८०३९७१९५७"
+    },
+    {
+      "id": 309,
+      "Faculty Name": "समाबेसी टोल सुधार समिति धापाखेल",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "दीपक गिरि",
+      "Worker Contact": 9851245509
+    },
+    {
+      "id": 310,
+      "Faculty Name": "हखा टोल सुधार समिति , सातदोबाटो",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "सरन खड्का",
+      "Worker Contact": 9841408786
+    },
+    {
+      "id": 311,
+      "Faculty Name": "सुमेरु अस्पताल, धापाखेल",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुमन  थापा",
+      "Worker Contact": ""
+    },
+    {
+      "id": 312,
+      "Faculty Name": "सुमेरु अस्पताल, धापाखेल",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "मंगल महर्जन",
+      "Worker Contact": 9841925656
+    },
+    {
+      "id": 313,
+      "Faculty Name": "सुभेकता सेवासमाज ,खोकना",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "गोपाल लामा",
+      "Worker Contact": 9803593123
+    },
+    {
+      "id": 314,
+      "Faculty Name": "फ्रेन्ड्स क्लब, कुपण्डोल",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुरेश महर्जन \nरोशनराज कर्णिकार",
+      "Worker Contact": "९८४१५९२५८"
+    },
+    {
+      "id": 315,
+      "Faculty Name": "बि.एंड बि. अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "सानु बाबु तामांग",
+      "Worker Contact": "९८४११९० ६१८"
+    },
+    {
+      "id": 316,
+      "Faculty Name": "बि.एंड बि. अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "सानु बाबु तामांग",
+      "Worker Contact": "९८४११९० ६१८"
+    },
+    {
+      "id": 317,
+      "Faculty Name": "ग्लोबल अस्पताल, सातदोबाटो भ्यान",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "कान्छालगेजु",
+      "Worker Contact": 9841590340
+    },
+    {
+      "id": 318,
+      "Faculty Name": "अल्का अस्पताल, ज्वालाखेल",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "श्याम रिमाल",
+      "Worker Contact": 9841518932
+    },
+    {
+      "id": 319,
+      "Faculty Name": "गणेशमान अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "मनोज भण्डारी",
+      "Worker Contact": 9869623365
+    },
+    {
+      "id": 320,
+      "Faculty Name": "निदान अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "श्याम गिरी",
+      "Worker Contact": ""
+    },
+    {
+      "id": 321,
+      "Faculty Name": "नेपाल क्यान्सर अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "दशराम  महर्जन",
+      "Worker Contact": ""
+    },
+    {
+      "id": 322,
+      "Faculty Name": "नेपाल क्यान्सर अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "इन्द्र बेन्जनकर",
+      "Worker Contact": ""
+    },
+    {
+      "id": 323,
+      "Faculty Name": "केर एंड फेर",
+      "Faculty Phone no.": "९८१३०१५०११",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "कृष्ण तामांग /केसब मगर",
+      "Worker Contact": "९८४१३०४०७३, \n९८०३९७१९५७"
+    },
+    {
+      "id": 324,
+      "Faculty Name": "किरात राई यायोखा",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "दान बहादुर राई",
+      "Worker Contact": 9849288691
+    },
+    {
+      "id": 325,
+      "Faculty Name": "सुनाकोठी अम्बुलेंस बया.समिति",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "इन्द्र बहादुर महर्जन",
+      "Worker Contact": 974113540
+    },
+    {
+      "id": 326,
+      "Faculty Name": "लालिगुरास सस्था",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "बाबुसी जिम्बा",
+      "Worker Contact": 9862219947
+    },
+    {
+      "id": 327,
+      "Faculty Name": "राई याखोबा",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुधन कुमार न्यौपाने",
+      "Worker Contact": 9860777471
+    },
+    {
+      "id": 328,
+      "Faculty Name": "पाटन अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "प्रेम बहादुर लामा",
+      "Worker Contact": 9841494819
+    },
+    {
+      "id": 329,
+      "Faculty Name": "नेपाल मेडीसिटी अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9801233598
+    },
+    {
+      "id": 330,
+      "Faculty Name": "एन्फा",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुजित महर्जन",
+      "Worker Contact": 9841359738
+    },
+    {
+      "id": 331,
+      "Faculty Name": "स्टार अस्पातल",
+      "Faculty Phone no.": "५५५०१९७",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "काशिराम लावती",
+      "Worker Contact": "९८४१६७८३३७"
+    },
+    {
+      "id": 332,
+      "Faculty Name": "स्वास्थ्य समिति हरिसिद्धि",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "कृष्ण गोपाल महर्जन",
+      "Worker Contact": 9841469675
+    },
+    {
+      "id": 333,
+      "Faculty Name": "कुसुन्ती भू. पु सैनिक",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "सबिन राना",
+      "Worker Contact": "९८६१ ८१५९४६"
+    },
+    {
+      "id": 334,
+      "Faculty Name": "ठेचो गा.बि.स समिति गो.न.पा.१२",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "गोदावरी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "सोमनाथ माली",
+      "Worker Contact": 9841815507
+    },
+    {
+      "id": 335,
+      "Faculty Name": "गोदावरी एम्बुलेन्स सेवा समिति",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "गोदावरी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "सनुकानछा तामांग",
+      "Worker Contact": 9863191666
+    },
+    {
+      "id": 336,
+      "Faculty Name": "चम्पेस्वरी समाजसेवा समिति लेले",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "गोदावरी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "बच्चुराम थापा",
+      "Worker Contact": 9844251851
+    },
+    {
+      "id": 337,
+      "Faculty Name": "बज्रबाराही चापागाऊ अस्पताल",
+      "Faculty Phone no.": "०१५५७०५२४",
+      "District": "Lalitpur",
+      "State Government": "गोदावरी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "कृष्ण कुमार के.सी.",
+      "Worker Contact": "९८४०६३३३३६"
+    },
+    {
+      "id": 338,
+      "Faculty Name": "आनन्दबन अस्पताल",
+      "Faculty Phone no.": "९८४१७८५३१३",
+      "District": "Lalitpur",
+      "State Government": "गोदावरी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "ओक राज बोगटी /केदार कठेत",
+      "Worker Contact": "९८६०८३७५०७"
+    },
+    {
+      "id": 339,
+      "Faculty Name": "डुकुछाप  एम्बुलेन्स सेवा",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "गोदावरी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "सानुबबुलामा",
+      "Worker Contact": 9849496032
+    },
+    {
+      "id": 340,
+      "Faculty Name": "गोदामचौर-बिसंखुनारायण एकीकृत विकास समाज/लोटरी क्लब",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "गोदावरी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "बालकृष्ण खड्का",
+      "Worker Contact": "९७४१२८२९२९,\n९८५१०६४७६६"
+    },
+    {
+      "id": 341,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "महालक्ष्मी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "खडानन्द तिमिल्सिना",
+      "Worker Contact": "९८४१३२३८१५,\n९८१८३१६७००"
+    },
+    {
+      "id": 342,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "महालक्ष्मी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "नरेस श्रेष्ठ",
+      "Worker Contact": "९७४११९७३७०,\n९८५१०३१५१०"
+    },
+    {
+      "id": 343,
+      "Faculty Name": "सा.जी.बि केन्द्र",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "महालक्ष्मी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "शुसिल श्रेष्ठ \nसंचालक बिनोद",
+      "Worker Contact": "९८६१९७३३५०,\n९८५१२३७०००"
+    },
+    {
+      "id": 344,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "महालक्ष्मी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "बिनय परियार",
+      "Worker Contact": 9803181390
+    },
+    {
+      "id": 345,
+      "Faculty Name": "सा.जी.बि केन्द्र",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "महालक्ष्मी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "बिनोद कुमार श्रेष्ठ",
+      "Worker Contact": 9851237000
+    },
+    {
+      "id": 346,
+      "Faculty Name": "महालक्ष्मी न. पा",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "महालक्ष्मी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "प्रेम नाथ श्रेष्ठ",
+      "Worker Contact": 9841505022
+    },
+    {
+      "id": 347,
+      "Faculty Name": "किस्ट मेडिकल कलेज",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "महालक्ष्मी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "देव बहादुर श्रेष्ठ",
+      "Worker Contact": 9841034713
+    },
+    {
+      "id": 348,
+      "Faculty Name": "महालक्ष्मी न. पा",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "महालक्ष्मी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "रबिकुमार महर्जन",
+      "Worker Contact": 9840000555
+    },
+    {
+      "id": 349,
+      "Faculty Name": "महालक्ष्मी न. पा",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "महालक्ष्मी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "प्रलाहद नेपाली",
+      "Worker Contact": 9849495014
+    },
+    {
+      "id": 350,
+      "Faculty Name": "युवा समाज ईमाडोल",
+      "Faculty Phone no.": "९८४१६ १०६४२",
+      "District": "Lalitpur",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "विक्रान्त के .सी. / राजु सुबेदी",
+      "Worker Contact": "९८४१५०१७१७"
+    },
+    {
+      "id": 351,
+      "Faculty Name": "को.गा.पा",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "कोंज्योसोम गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "राजकुमार के.सी.",
+      "Worker Contact": "९८४३ ०५७९४६"
+    },
+    {
+      "id": 352,
+      "Faculty Name": "म.गा.पा",
+      "Faculty Phone no.": "९८६००१३५०७",
+      "District": "Lalitpur",
+      "State Government": "महांकाल गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "डिल्ली प्र.दाहाल",
+      "Worker Contact": "९८६७८०६३३२,९८५१२२७८०५"
+    },
+    {
+      "id": 353,
+      "Faculty Name": "बा.गा.पा",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "बाग्मती गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "बिर  बहादुर स्याँग्तान",
+      "Worker Contact": "९८५१२ ५५३७६"
+    },
+    {
+      "id": 354,
+      "Faculty Name": "दमकल",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "राजेश शाक्य",
+      "Worker Contact": 9851137629
+    },
+    {
+      "id": 355,
+      "Faculty Name": "दमकल",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर महानगर\nपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "राजेश शाक्य",
+      "Worker Contact": ""
+    },
+    {
+      "id": 356,
+      "Faculty Name": "आमा बा  अस्पताल गो नं. पा-६",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "गोरखा नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 357,
+      "Faculty Name": "मनासलु बचत तथा ऋण सहकारी संस्था, गो. न.पा. -६",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "खिल बहादुर सुनार",
+      "Worker Contact": 9846704388
+    },
+    {
+      "id": 358,
+      "Faculty Name": "नेपाल रेडक्रस सोसाइटी गो. न.पा. -६",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "शिवलाल नेपाली",
+      "Worker Contact": 9856043104
+    },
+    {
+      "id": 359,
+      "Faculty Name": "गोरखा उद्यमशिल बचत तथा सहकारी संस्था लिमिटेड",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "अवदुल कदार",
+      "Worker Contact": 9856040830
+    },
+    {
+      "id": 360,
+      "Faculty Name": "जिल्ला अस्पताल  गोरखा, गो. न.पा. ६",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "हरिशरण गोदार",
+      "Worker Contact": 9856040150
+    },
+    {
+      "id": 361,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "कमल बसेल",
+      "Worker Contact": 9846056221
+    },
+    {
+      "id": 362,
+      "Faculty Name": "कोमल  ब स्मृति  प्रतिष्ठान, गो. न.पा. -८",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 363,
+      "Faculty Name": "गोरखा उद्योग बाणिज्य संघ, गोरखा",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "देवहरी गोदार",
+      "Worker Contact": 9801321156
+    },
+    {
+      "id": 364,
+      "Faculty Name": "सुर्योदय युवा क्लव छेपेटार, गो.न.पा-१०",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "जंग बहादुर लामा",
+      "Worker Contact": 9846254491
+    },
+    {
+      "id": 365,
+      "Faculty Name": "भारतिय भू.पू. सैनिक  कल्याणकारी संघ, गो.न.पा.-६",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुरेन्द्र पाठक",
+      "Worker Contact": 9801043926
+    },
+    {
+      "id": 366,
+      "Faculty Name": "जलविरे महिला बन उपभोक्ता समुह ३ किलो, गो. न.पा-१३",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "तेज बहादुर थापा",
+      "Worker Contact": 9840440793
+    },
+    {
+      "id": 367,
+      "Faculty Name": "तारानगर  स्वास्थ्य चौकी, गोरखा न.पा. -१२",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "चेत बहादुर थापा",
+      "Worker Contact": 9806720880
+    },
+    {
+      "id": 368,
+      "Faculty Name": "उद्योग  वाणिज्य  संघ, गोरखा",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 369,
+      "Faculty Name": "एपोलो हस्पिटल प्रा.लि. गो. न.पा-६",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "रविन कुमार थापा",
+      "Worker Contact": 9851284693
+    },
+    {
+      "id": 370,
+      "Faculty Name": "मिलिजुली महिला  समूह गो. न.पा.  -११ गोरखा",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "विष्णु श्रेष्ठ",
+      "Worker Contact": 9846252625
+    },
+    {
+      "id": 371,
+      "Faculty Name": "मान ब. नित्य  कुमारी  स्मृति  प्रतिष्ठान फिनाम, गो.न.पा-४",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "विष्णु नेपाली",
+      "Worker Contact": 9805874530
+    },
+    {
+      "id": 372,
+      "Faculty Name": "मंगलेश्वर  सांस्कृतिक  मञ्च च्याङ्ली , पा.न.पा.-७",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "पालुङटार नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "दयाराम न्यौपाने",
+      "Worker Contact": 9849145372
+    },
+    {
+      "id": 373,
+      "Faculty Name": "आपँपिल  अस्पताल, पा.न.पा. -३",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "कृष्ण गुरुङ",
+      "Worker Contact": 9846208710
+    },
+    {
+      "id": 374,
+      "Faculty Name": "श्री सिद्धि गोरखा  भारतिय भु.पू. समूह,",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "चित्र बहादुर थापा",
+      "Worker Contact": 9842275500
+    },
+    {
+      "id": 375,
+      "Faculty Name": "श्री धुवाकोट स्वास्थ्य चौकी, पा.न.पा.-८",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "एक बहादुर थापा",
+      "Worker Contact": 9846125832
+    },
+    {
+      "id": 376,
+      "Faculty Name": "श्री खोप्लाङ स्वास्थ्य चौकी, पा.न.पा. -५",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "नितेस नगरकोटी",
+      "Worker Contact": 9806555492
+    },
+    {
+      "id": 377,
+      "Faculty Name": "लिगलिग बडडाडा स्वास्थ्य चौकी, पा.न.पा. ५",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "शन्तमान श्रेष्ठ",
+      "Worker Contact": 9804152773
+    },
+    {
+      "id": 378,
+      "Faculty Name": "उद्योग बाणिज्य संघ  मनकामना, शहिद लखन गा.पा. -३",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुरेश कंडेल",
+      "Worker Contact": 9811886100
+    },
+    {
+      "id": 379,
+      "Faculty Name": "मकैसिंङ प्रा.स्वा. के. , गण्डकी गा.पा-१",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "गण्डकी गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "भोज नारायण श्रेष्ठ",
+      "Worker Contact": 9818405269
+    },
+    {
+      "id": 380,
+      "Faculty Name": "काजीमान स्मृति प्रतिष्ठान फुजेल",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 381,
+      "Faculty Name": "नाम्जुङ  स्वास्थ्य चौकी, शहिदलखन-९ गोरखा",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "शहिदलखन गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "नारायण लामिछाने",
+      "Worker Contact": 9843246545
+    },
+    {
+      "id": 382,
+      "Faculty Name": "नाम्जुङ सेवा समाज",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "बुद्धि रोका",
+      "Worker Contact": 9856044300
+    },
+    {
+      "id": 383,
+      "Faculty Name": "बुंकोट स्वास्थ्य चौकी, शहिदलखन गा.पा. -७",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुरेन्द्र पाठक",
+      "Worker Contact": 9846070090
+    },
+    {
+      "id": 384,
+      "Faculty Name": "बोर्लाङ स्वास्थ्य चौकी",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "भिमसेनथापा गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "राम बहादुर श्रेष्ठ",
+      "Worker Contact": 984192997
+    },
+    {
+      "id": 385,
+      "Faculty Name": "खाञ्चोक  स्वास्थ्य चौकी, भिमसेनथापा गा.पा. -०१",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 386,
+      "Faculty Name": "आरुघाट यूवा क्लव, आरुघाट गा.पा. -०९",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "आरुघाट गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 387,
+      "Faculty Name": "आरुचनौटे  प्रा.स्वा. केन्द्र,  आरुघाट गा.पा.-०९",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "हिरा ब दराई",
+      "Worker Contact": 9741174062
+    },
+    {
+      "id": 388,
+      "Faculty Name": "आरुघाट  हस्पिटल प्रा.लि.  आरुघाट गा.पा.-०९",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "चित्र बहादुर थापा",
+      "Worker Contact": 9840161946
+    },
+    {
+      "id": 389,
+      "Faculty Name": "केरौजा स्वास्थ्य चौकी, मान्वु, आरुघाट गा.पा. -२",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "सूर्यमान श्रेष्ठ",
+      "Worker Contact": 986284813
+    },
+    {
+      "id": 390,
+      "Faculty Name": "थालाजुङ  सामुदायिक विकास केन्द्र, सिरानचोक-२",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "सिरानचोक गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "दूर्गाराज गुरुङ",
+      "Worker Contact": ""
+    },
+    {
+      "id": 391,
+      "Faculty Name": "शहिद भिमसेन स्मृति प्रतिष्ठान छोप्राक",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 392,
+      "Faculty Name": "जौवारी प्रा.स्वा.के.",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "वीर बहादुर वि.क.",
+      "Worker Contact": 9846727786
+    },
+    {
+      "id": 393,
+      "Faculty Name": "सिम्जुङ  स्वास्थ्य चौकी",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "अजिरकोट गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "जंग बहादुर वसेल",
+      "Worker Contact": 9803247394
+    },
+    {
+      "id": 394,
+      "Faculty Name": "भच्चेक स्वास्थ्य चौकी",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "विक्रम  गुरुङ",
+      "Worker Contact": 9829130035
+    },
+    {
+      "id": 395,
+      "Faculty Name": "वारपाकी पूर्व विद्यार्थी समाज",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "वारपाक सुलिकोट गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "प्रदिप  गुरुङ",
+      "Worker Contact": 9809230819
+    },
+    {
+      "id": 396,
+      "Faculty Name": "बारपाक भु.पु. सैनिक कल्याणकारी समिति",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "टेक बहादुर घले",
+      "Worker Contact": ""
+    },
+    {
+      "id": 397,
+      "Faculty Name": "सौरपानी स्वास्थ्य चौकी, वारपाक सुलिकोट गा.पा.-३",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "ठाकुर प्रसाद वगाले",
+      "Worker Contact": 9841359092
+    },
+    {
+      "id": 398,
+      "Faculty Name": "पाँचखुवा देउराली स्वास्थ्य चौकी",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "शम्भु रोका",
+      "Worker Contact": 9819100924
+    },
+    {
+      "id": 399,
+      "Faculty Name": "गोरखा भारतीय भू.पू. सैनिक संगठन नेपाल( कल्याणकारी) वारपाक  सुलिकोट-६",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुरेश अच्छामी सार्की",
+      "Worker Contact": 9806660640
+    },
+    {
+      "id": 400,
+      "Faculty Name": "धर्मसिं मानव सेवा केन्द्र, गुम्दा, धार्चे गा.पा. -८",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "धार्चे गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "कमल गुरुङ",
+      "Worker Contact": 9846189623
+    },
+    {
+      "id": 401,
+      "Faculty Name": "हिमालय यात्रा काठमाडौँ ।",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "धन बहादुर  गुरुङ",
+      "Worker Contact": 9864480345
+    },
+    {
+      "id": 402,
+      "Faculty Name": "हालसम्म एम्वुलेन्स नभएको",
+      "Faculty Phone no.": "",
+      "District": "Gorkha",
+      "State Government": "चुमुनुब्री गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 403,
+      "Faculty Name": "ग्रामिण विकास सामुदायिक सेवा तथा वातावरण संरक्षण केन्द्र",
+      "Faculty Phone no.": "",
+      "District": "Lamjung",
+      "State Government": "वेसिशहर",
+      "Province": "Bagmati-3",
+      "Worker Name": "शंकर भण्डारी",
+      "Worker Contact": 9846995290
+    },
+    {
+      "id": 404,
+      "Faculty Name": "मोडेल अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Lamjung",
+      "State Government": "वेसिशहर",
+      "Province": "Bagmati-3",
+      "Worker Name": "सन्तोष परियार",
+      "Worker Contact": 9866020444
+    },
+    {
+      "id": 405,
+      "Faculty Name": "पन्त स्मृती",
+      "Faculty Phone no.": "",
+      "District": "Lamjung",
+      "State Government": "वेसिशहर",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9807162913
+    },
+    {
+      "id": 406,
+      "Faculty Name": "चिति स्वास्थ्य चौकी",
+      "Faculty Phone no.": "",
+      "District": "Lamjung",
+      "State Government": "वेसिशहर",
+      "Province": "Bagmati-3",
+      "Worker Name": "नारायण श्रेष्ठ",
+      "Worker Contact": 9856045409
+    },
+    {
+      "id": 407,
+      "Faculty Name": "शिवजी तिवारी स्मृती",
+      "Faculty Phone no.": "",
+      "District": "Lamjung",
+      "State Government": "वेसिशहर",
+      "Province": "Bagmati-3",
+      "Worker Name": "राज कुमार श्रेष्ठ",
+      "Worker Contact": 9856045409
+    },
+    {
+      "id": 408,
+      "Faculty Name": "सामुदायिक एम्बुलेन्स सेवा",
+      "Faculty Phone no.": "",
+      "District": "Lamjung",
+      "State Government": "सुन्दरबजार",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 409,
+      "Faculty Name": "पुतली क्षेत्री स्मृती",
+      "Faculty Phone no.": "",
+      "District": "Lamjung",
+      "State Government": "सुन्दरबजार",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 410,
+      "Faculty Name": "चन्द्रेश्वर स्वास्थ्य चौकी",
+      "Faculty Phone no.": "",
+      "District": "Lamjung",
+      "State Government": "सुन्दरबजार",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 411,
+      "Faculty Name": "कर्मदा अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Lamjung",
+      "State Government": "सुन्दरबजार",
+      "Province": "Bagmati-3",
+      "Worker Name": "समुन्द्र आचार्य",
+      "Worker Contact": 9856046338
+    },
+    {
+      "id": 412,
+      "Faculty Name": "नमूना अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Lamjung",
+      "State Government": "सुन्दरबजार",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुनिल भुजेल",
+      "Worker Contact": 9856046124
+    },
+    {
+      "id": 413,
+      "Faculty Name": "गौडा स्वास्थ्य चौकी",
+      "Faculty Phone no.": "",
+      "District": "Lamjung",
+      "State Government": "दुधपोखरी",
+      "Province": "Bagmati-3",
+      "Worker Name": "केश वहादुर गुरुङ",
+      "Worker Contact": 9815252286
+    },
+    {
+      "id": 414,
+      "Faculty Name": "नुर निधि स्मृती",
+      "Faculty Phone no.": "",
+      "District": "Lamjung",
+      "State Government": "दोर्दी",
+      "Province": "Bagmati-3",
+      "Worker Name": "लक्की गुरुङ",
+      "Worker Contact": 9866087391
+    },
+    {
+      "id": 415,
+      "Faculty Name": "अर्चलवोट स्वास्थ्य चौकी",
+      "Faculty Phone no.": "",
+      "District": "Lamjung",
+      "State Government": "दोर्दी",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 416,
+      "Faculty Name": "चक्रतिर्थ सेवा समाज",
+      "Faculty Phone no.": "",
+      "District": "Lamjung",
+      "State Government": "राईनास",
+      "Province": "Bagmati-3",
+      "Worker Name": "वावुराम नेपाली",
+      "Worker Contact": 9866026030
+    },
+    {
+      "id": 417,
+      "Faculty Name": "सहोदर अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Lamjung",
+      "State Government": "राईनास",
+      "Province": "Bagmati-3",
+      "Worker Name": "प्रकाश नेपाली",
+      "Worker Contact": 9856164714
+    },
+    {
+      "id": 418,
+      "Faculty Name": "नेपाल रेडक्रस सोसाईटी धमिलिकुवा शाखा",
+      "Faculty Phone no.": "",
+      "District": "Lamjung",
+      "State Government": "राईनास",
+      "Province": "Bagmati-3",
+      "Worker Name": "तिर्थ तमाङ",
+      "Worker Contact": 9846461483
+    },
+    {
+      "id": 419,
+      "Faculty Name": "गोपीनाथ दुर्गा कुमारी कडरीया स्मृती",
+      "Faculty Phone no.": "",
+      "District": "Lamjung",
+      "State Government": "राईनास",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9846493640
+    },
+    {
+      "id": 420,
+      "Faculty Name": "ईलमपोखरी सेवा समाज",
+      "Faculty Phone no.": "",
+      "District": "Lamjung",
+      "State Government": "राईनास",
+      "Province": "Bagmati-3",
+      "Worker Name": "अनिस गुरुङ",
+      "Worker Contact": 9866099200
+    },
+    {
+      "id": 421,
+      "Faculty Name": "बाघेता",
+      "Faculty Phone no.": "",
+      "District": "Lamjung",
+      "State Government": "मर्स्याङ्दी",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9846193983
+    },
+    {
+      "id": 422,
+      "Faculty Name": "खुदि स्वास्थ्य चौकी",
+      "Faculty Phone no.": "",
+      "District": "Lamjung",
+      "State Government": "मर्स्याङ्दी",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9846389266
+    },
+    {
+      "id": 423,
+      "Faculty Name": "भुपु सैनिक",
+      "Faculty Phone no.": "",
+      "District": "Lamjung",
+      "State Government": "मध्यनेपाल",
+      "Province": "Bagmati-3",
+      "Worker Name": "कृष्ण व ठकुरी",
+      "Worker Contact": 9846346257
+    },
+    {
+      "id": 424,
+      "Faculty Name": "भुपु सैनिक",
+      "Faculty Phone no.": "",
+      "District": "Lamjung",
+      "State Government": "मध्यनेपाल",
+      "Province": "Bagmati-3",
+      "Worker Name": "नारायण श्रेष्ठ",
+      "Worker Contact": 9846593161
+    },
+    {
+      "id": 425,
+      "Faculty Name": "राधाकृष्ण आमा समूह",
+      "Faculty Phone no.": "",
+      "District": "Lamjung",
+      "State Government": "मध्यनेपाल",
+      "Province": "Bagmati-3",
+      "Worker Name": "महेश श्रेष्ठ",
+      "Worker Contact": 9806747123
+    },
+    {
+      "id": 426,
+      "Faculty Name": "नेपाल रेडक्रस सोसाईटी  शाखा",
+      "Faculty Phone no.": "",
+      "District": "Lamjung",
+      "State Government": "मध्यनेपाल",
+      "Province": "Bagmati-3",
+      "Worker Name": "प्रेम थापा",
+      "Worker Contact": 9826126569
+    },
+    {
+      "id": 427,
+      "Faculty Name": "पसगाउ स्वास्थ्य चौकी",
+      "Faculty Phone no.": "",
+      "District": "Lamjung",
+      "State Government": "क्व्होलासोथार",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 428,
+      "Faculty Name": "ब्यास नगर अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Tanahu",
+      "State Government": "ब्यास नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुरज वि.क",
+      "Worker Contact": 9846131026
+    },
+    {
+      "id": 429,
+      "Faculty Name": "लोकप्रिय स्वास्थ्य क्किनकिन",
+      "Faculty Phone no.": "",
+      "District": "Tanahu",
+      "State Government": "ब्यास नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "आइत राम वि.क",
+      "Worker Contact": 9826168633
+    },
+    {
+      "id": 430,
+      "Faculty Name": "एपोलो अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Tanahu",
+      "State Government": "ब्यास नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "घमन सिंह मर्साङ्दी",
+      "Worker Contact": 9846435611
+    },
+    {
+      "id": 431,
+      "Faculty Name": "रत्नहरी अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Tanahu",
+      "State Government": "ब्यास नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "बल बहादुर आले",
+      "Worker Contact": 9846615257
+    },
+    {
+      "id": 432,
+      "Faculty Name": "नेपाल भु.पु सैनिक",
+      "Faculty Phone no.": "",
+      "District": "Tanahu",
+      "State Government": "ब्यास नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "देवानन्द चौधरी",
+      "Worker Contact": 9846840655
+    },
+    {
+      "id": 433,
+      "Faculty Name": "उजेली कुमाल आमा समुह",
+      "Faculty Phone no.": "",
+      "District": "Tanahu",
+      "State Government": "म्याग्दे गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "टक बहादुर कुमाल",
+      "Worker Contact": 9840557660
+    },
+    {
+      "id": 434,
+      "Faculty Name": "किहुँ अरुणोदय परोपकार संस्था",
+      "Faculty Phone no.": "",
+      "District": "Tanahu",
+      "State Government": "भिमाद नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "राम प्रसाद सिग्देल",
+      "Worker Contact": 9806762197
+    },
+    {
+      "id": 435,
+      "Faculty Name": "युवा क्लव भिमाद",
+      "Faculty Phone no.": "",
+      "District": "Tanahu",
+      "State Government": "भिमाद नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "होम बहादुर थापा",
+      "Worker Contact": 9816118100
+    },
+    {
+      "id": 436,
+      "Faculty Name": "कर्मदा स्वास्थ्य सहकारी संस्था",
+      "Faculty Phone no.": "",
+      "District": "Tanahu",
+      "State Government": "भानु नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "अम्बर वि.क",
+      "Worker Contact": 9846995190
+    },
+    {
+      "id": 437,
+      "Faculty Name": "पुर्कोट सेवा समाज",
+      "Faculty Phone no.": "",
+      "District": "Tanahu",
+      "State Government": "भानु नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "प्रेम बहादुर श्रेष्ठ",
+      "Worker Contact": 9846610898
+    },
+    {
+      "id": 438,
+      "Faculty Name": "चिसापानी टोल सुधार समिति",
+      "Faculty Phone no.": "",
+      "District": "Tanahu",
+      "State Government": "आँबुखैरेनी गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "राजन सिलवाल",
+      "Worker Contact": 9806666063
+    },
+    {
+      "id": 439,
+      "Faculty Name": "आँबुखैरेनी गोरखा भारतीय बु.पु.कोष",
+      "Faculty Phone no.": "",
+      "District": "Tanahu",
+      "State Government": "आँबुखैरेनी गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "दिपक गुरुङ",
+      "Worker Contact": 9813706491
+    },
+    {
+      "id": 440,
+      "Faculty Name": "हेल्थ टु हेल्थ नेपाल",
+      "Faculty Phone no.": "",
+      "District": "Tanahu",
+      "State Government": "आँबुखैरेनी गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "दुर्गा बहादुर गुरुङ",
+      "Worker Contact": 9823322070
+    },
+    {
+      "id": 441,
+      "Faculty Name": "तनहुँ सेवा अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Tanahu",
+      "State Government": "शुक्लागण्डकी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "लेख  बहादुर कार्की",
+      "Worker Contact": 9805807437
+    },
+    {
+      "id": 442,
+      "Faculty Name": "फुलबारी सेवा केन्द्र",
+      "Faculty Phone no.": "",
+      "District": "Tanahu",
+      "State Government": "शुक्लागण्डकी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "युध्ध बहादुर भुजेल",
+      "Worker Contact": 9816667672
+    },
+    {
+      "id": 443,
+      "Faculty Name": "स्वतन्त्र भु.पु. सैनिक समुह",
+      "Faculty Phone no.": "",
+      "District": "Tanahu",
+      "State Government": "शुक्लागण्डकी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "कृष्ण प्रसाद पौडेल",
+      "Worker Contact": 9846085726
+    },
+    {
+      "id": 444,
+      "Faculty Name": "जी.पी कोईराला श्वासप्रश्वास",
+      "Faculty Phone no.": "",
+      "District": "Tanahu",
+      "State Government": "शुक्लागण्डकी नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "नारायण श्रेष्ठ",
+      "Worker Contact": 9806772405
+    },
+    {
+      "id": 445,
+      "Faculty Name": "नेपाल रेडक्रस सोसाईटी ऋषिङ शाखा",
+      "Faculty Phone no.": "",
+      "District": "Tanahu",
+      "State Government": "ऋषिङ्ग गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "तुला राम थापा",
+      "Worker Contact": 9803308011
+    },
+    {
+      "id": 446,
+      "Faculty Name": "नेपाल रेडक्रस सोसाईटी देवघाट शाखा",
+      "Faculty Phone no.": "",
+      "District": "Tanahu",
+      "State Government": "देवघाट गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुर्य बहादुर कुमाल",
+      "Worker Contact": 9845448549
+    },
+    {
+      "id": 447,
+      "Faculty Name": "घिरिङ गजरकोट भु.पु. सैनिक कोष",
+      "Faculty Phone no.": "",
+      "District": "Tanahu",
+      "State Government": "घिरिङ गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "पुर्ण बहादुर थापा",
+      "Worker Contact": 9846116648
+    },
+    {
+      "id": 448,
+      "Faculty Name": "पुरनडिहि प्रा.सवा केन्द्र",
+      "Faculty Phone no.": "",
+      "District": "Tanahu",
+      "State Government": "भानु नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "अर्जुन थापा",
+      "Worker Contact": 9846116648
+    },
+    {
+      "id": 449,
+      "Faculty Name": "जनजोती ग्राम सेवा समिति",
+      "Faculty Phone no.": "",
+      "District": "Tanahu",
+      "State Government": "भानु नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": 9849385891
+    },
+    {
+      "id": 450,
+      "Faculty Name": "जिल्ला रेडक्रस",
+      "Faculty Phone no.": "",
+      "District": "Manang",
+      "State Government": "चामे",
+      "Province": "Bagmati-3",
+      "Worker Name": "मान वहादुर राना",
+      "Worker Contact": 9846805135
+    },
+    {
+      "id": 451,
+      "Faculty Name": "गाउँपालिका",
+      "Faculty Phone no.": "",
+      "District": "Manang",
+      "State Government": "मनाङ ङिस्याङ",
+      "Province": "Bagmati-3",
+      "Worker Name": "विजय घले",
+      "Worker Contact": 9866022310
+    },
+    {
+      "id": 452,
+      "Faculty Name": "पश्चिमाञ्चल स्वास्थ्य विज्ञान प्रतिष्ठान",
+      "Faculty Phone no.": "०६१ ५३३८२२, ०६१ ५३३८२३, ९८०१०२०४४४",
+      "District": "Kaski",
+      "State Government": "पोखरा-१० रामघाट",
+      "Province": "Bagmati-3",
+      "Worker Name": "टिकाराम कार्की",
+      "Worker Contact": 9862050962
+    },
+    {
+      "id": 453,
+      "Faculty Name": "आर्मी हस्पिटल",
+      "Faculty Phone no.": 9862383124,
+      "District": "Kaski",
+      "State Government": "पोखरा ११ फुलबारी",
+      "Province": "Bagmati-3",
+      "Worker Name": "रोशन गुरुङ्ग",
+      "Worker Contact": 9862383124
+    },
+    {
+      "id": 454,
+      "Faculty Name": "हरियोखर्क हस्पिटल आई.एन.एफ पोखरा",
+      "Faculty Phone no.": "०६१ ५३२७७९, ९८४१४७६८९६",
+      "District": "Kaski",
+      "State Government": "पोखरा -१५ नयाँ गाँउ",
+      "Province": "Bagmati-3",
+      "Worker Name": "जनार्धन शर्मा, अनिल क्षेत्री",
+      "Worker Contact": "९८४१४७६८९६, ९८६७६८३५८४"
+    },
+    {
+      "id": 455,
+      "Faculty Name": "चरक मेमोरियल हस्पिटल",
+      "Faculty Phone no.": "०६१–५३२६८५",
+      "District": "Kaski",
+      "State Government": "पोखरा ८ नयाँबजार",
+      "Province": "Bagmati-3",
+      "Worker Name": "चित्र बहादुर परियार",
+      "Worker Contact": 9807015324
+    },
+    {
+      "id": 456,
+      "Faculty Name": "फेवासिटी हस्पिटल",
+      "Faculty Phone no.": "०६१–५३४५६६",
+      "District": "Kaski",
+      "State Government": "पोखरा ८ नागढुंगा",
+      "Province": "Bagmati-3",
+      "Worker Name": "मिनकुमार खड्का",
+      "Worker Contact": 9846026966
+    },
+    {
+      "id": 457,
+      "Faculty Name": "ओम हस्पिटल",
+      "Faculty Phone no.": "०६१–५२७५५३",
+      "District": "Kaski",
+      "State Government": "पोखरा ९ बस्तोलाथर",
+      "Province": "Bagmati-3",
+      "Worker Name": "कुल  गुरुङ्ग",
+      "Worker Contact": 9804113256
+    },
+    {
+      "id": 458,
+      "Faculty Name": "फिस्टेल हस्पिटल",
+      "Faculty Phone no.": "",
+      "District": "Kaski",
+      "State Government": "पोखरा ४ गैह्रापाटन",
+      "Province": "Bagmati-3",
+      "Worker Name": "ध्रुव भुजेल",
+      "Worker Contact": 9866063383
+    },
+    {
+      "id": 459,
+      "Faculty Name": "मातृशिशु मितेरी अस्पताल",
+      "Faculty Phone no.": "०६१–५२८९९९",
+      "District": "Kaski",
+      "State Government": "पोखरा १६, बाटुलेचौर.",
+      "Province": "Bagmati-3",
+      "Worker Name": "कुल वहादुर गुरुङ्ग",
+      "Worker Contact": 9842278465
+    },
+    {
+      "id": 460,
+      "Faculty Name": "कास्की मोडेल हस्पिटल",
+      "Faculty Phone no.": "०६१–४४०१४४",
+      "District": "Kaski",
+      "State Government": "पोखरा–८, न्युरोड",
+      "Province": "Bagmati-3",
+      "Worker Name": "झपट बहादुर सिके",
+      "Worker Contact": 9846464579
+    },
+    {
+      "id": 461,
+      "Faculty Name": "सिवेक हस्पिटल",
+      "Faculty Phone no.": "",
+      "District": "Kaski",
+      "State Government": "पोखरा–६ लेकसाइड",
+      "Province": "Bagmati-3",
+      "Worker Name": "शिव बहादुर कार्की",
+      "Worker Contact": 9824141613
+    },
+    {
+      "id": 462,
+      "Faculty Name": "मेट्रोसिटी हस्पिटल",
+      "Faculty Phone no.": "०६१–५२७५४२",
+      "District": "Kaski",
+      "State Government": "पोखरा–८, सृजनाचोक",
+      "Province": "Bagmati-3",
+      "Worker Name": "रामचन्द्र पहारी",
+      "Worker Contact": 9856038804
+    },
+    {
+      "id": 463,
+      "Faculty Name": "बिजि हस्पिटल",
+      "Faculty Phone no.": "०६१–४६०३०८२",
+      "District": "Kaski",
+      "State Government": "पोखरा–१२, माटेपानी",
+      "Province": "Bagmati-3",
+      "Worker Name": "बुद्ध अधिकारी",
+      "Worker Contact": 9826121708
+    },
+    {
+      "id": 464,
+      "Faculty Name": "पद्य नर्सिङ होम",
+      "Faculty Phone no.": "०६१–५२६५३१",
+      "District": "Kaski",
+      "State Government": "न्युरोड",
+      "Province": "Bagmati-3",
+      "Worker Name": "रामबहादुर नेपाली, डिल बहादुर गुरुङ",
+      "Worker Contact": "९८१८५८९२५९, ९८४६४२०१८८"
+    },
+    {
+      "id": 465,
+      "Faculty Name": "शिशुवा अस्पताल",
+      "Faculty Phone no.": "०६१–५२११११",
+      "District": "Kaski",
+      "State Government": "पोखरा–३०, शिशुवा",
+      "Province": "Bagmati-3",
+      "Worker Name": "शिशिर नेपाली",
+      "Worker Contact": 9866005567
+    },
+    {
+      "id": 466,
+      "Faculty Name": "नमस्ते हस्पिटल",
+      "Faculty Phone no.": "०६१–३३४८५",
+      "District": "Kaski",
+      "State Government": "विरौटा",
+      "Province": "Bagmati-3",
+      "Worker Name": "होमनाथ पौडेल",
+      "Worker Contact": 9856015944
+    },
+    {
+      "id": 467,
+      "Faculty Name": "ए.एण.बि इन्टरनेस्नल हस्पिटल",
+      "Faculty Phone no.": "०६१–५६०००४",
+      "District": "Kaski",
+      "State Government": "पोखरा–२",
+      "Province": "Bagmati-3",
+      "Worker Name": "प्रेमनाथ मरसिनी",
+      "Worker Contact": 9846511648
+    },
+    {
+      "id": 468,
+      "Faculty Name": "मणिपाल हस्पिटल",
+      "Faculty Phone no.": "०६१–४६६४३८",
+      "District": "Kaski",
+      "State Government": "पोखरा–११, फुलबारी",
+      "Province": "Bagmati-3",
+      "Worker Name": "गणेश गुरुङ्ग",
+      "Worker Contact": 9826127369
+    },
+    {
+      "id": 469,
+      "Faculty Name": "साहारा हस्पिटल",
+      "Faculty Phone no.": "०६१–१४२२३०",
+      "District": "Kaski",
+      "State Government": "पोखरा–२, नयाँ बसपार्क",
+      "Province": "Bagmati-3",
+      "Worker Name": "लेस बहादुर गुरुङ्ग",
+      "Worker Contact": 9867802708
+    },
+    {
+      "id": 470,
+      "Faculty Name": "कास्की सेवा हस्पिटल",
+      "Faculty Phone no.": "०६१–५२६४१६",
+      "District": "Kaski",
+      "State Government": "पोखरा–११, हस्पिटलचोक",
+      "Province": "Bagmati-3",
+      "Worker Name": "दधिराम तिवारी, भरत थापा",
+      "Worker Contact": "९८४६१५६८२६, ९८५६०२४२९६"
+    },
+    {
+      "id": 471,
+      "Faculty Name": "रिजनल हस्पिटल",
+      "Faculty Phone no.": "०६१–५३९८५८",
+      "District": "Kaski",
+      "State Government": "पोखरा-५ जिरो",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुर्य बहादुर आले",
+      "Worker Contact": 9866408147
+    },
+    {
+      "id": 472,
+      "Faculty Name": "लेखनाथ सामुदायिक लायन्स हस्पिटल",
+      "Faculty Phone no.": "०६१–५२८१६१ / ६२",
+      "District": "Kaski",
+      "State Government": "पोखरा–३०, मोहरिया",
+      "Province": "Bagmati-3",
+      "Worker Name": "बिमल थापा",
+      "Worker Contact": 9805844418
+    },
+    {
+      "id": 473,
+      "Faculty Name": "लेकसीटी हस्पिटल",
+      "Faculty Phone no.": "०६१-५३३२३१",
+      "District": "Kaski",
+      "State Government": "पोखरा–४, बगालेटोल",
+      "Province": "Bagmati-3",
+      "Worker Name": "दिपेन्द्र कोइराला",
+      "Worker Contact": ""
+    },
+    {
+      "id": 474,
+      "Faculty Name": "नेपाल रेडक्रस सोसाइटी, जिल्ला शाखा",
+      "Faculty Phone no.": "०६१–५२१०९१",
+      "District": "Kaski",
+      "State Government": "पोखरा ८ सिर्जनाचोक",
+      "Province": "Bagmati-3",
+      "Worker Name": "ईन्द्र बहादुर थापा, रामचन्द्र अधिकारी",
+      "Worker Contact": "९८४६१३९२०३, ९८२६१३४७८५"
+    },
+    {
+      "id": 475,
+      "Faculty Name": "पोखरा १०,नेरेसो उपशाखा",
+      "Faculty Phone no.": "९८५६०३६१२",
+      "District": "Kaski",
+      "State Government": "पोखरा १० रामबजार    १",
+      "Province": "Bagmati-3",
+      "Worker Name": "नलु गुरुङ्ग",
+      "Worker Contact": 9804198350
+    },
+    {
+      "id": 476,
+      "Faculty Name": "नेरेसो रुपा–४, देउराली उपाशाखा",
+      "Faculty Phone no.": 9805879911,
+      "District": "Kaski",
+      "State Government": "रुपा–४, देउराली",
+      "Province": "Bagmati-3",
+      "Worker Name": "मन्दीप नेपाली, राजु जोशी",
+      "Worker Contact": 9806525507
+    },
+    {
+      "id": 477,
+      "Faculty Name": "विन्ध्यवासिनी मन्दिर एम्बुलेन्स",
+      "Faculty Phone no.": "९८५६०२७५८२, ०६१–५३२८५५",
+      "District": "Kaski",
+      "State Government": "पोखरा २, विन्ध्यवासिनी",
+      "Province": "Bagmati-3",
+      "Worker Name": "हिरा बहादुर गुरुङ्ग, कुलबहादुर गुरुङ्ग",
+      "Worker Contact": "9860882041\n9860800000"
+    },
+    {
+      "id": 478,
+      "Faculty Name": "मियाँपाटन समाज",
+      "Faculty Phone no.": 9856031779,
+      "District": "Kaski",
+      "State Government": "पोखरा १३, मियाँपाटन",
+      "Province": "Bagmati-3",
+      "Worker Name": "अमिज मियाँ",
+      "Worker Contact": 9869081786
+    },
+    {
+      "id": 479,
+      "Faculty Name": "सेवा र विकासका  लागि युवा",
+      "Faculty Phone no.": "०६१–४१९५८७",
+      "District": "Kaski",
+      "State Government": "पोखरा–५, पस्र्याङ मालेपाटन.",
+      "Province": "Bagmati-3",
+      "Worker Name": "बलराम बि.क",
+      "Worker Contact": 9845513477
+    },
+    {
+      "id": 480,
+      "Faculty Name": "मानव मिलन केन्द्र",
+      "Faculty Phone no.": "८५६०३०११३,०६१–४६२९५५",
+      "District": "Kaski",
+      "State Government": "पोखरा–७, एयरपोर्ट",
+      "Province": "Bagmati-3",
+      "Worker Name": "चित्र बहादुर थापा",
+      "Worker Contact": 9846922706
+    },
+    {
+      "id": 481,
+      "Faculty Name": "सिद्दार्थ क्लब",
+      "Faculty Phone no.": "०६१–५३०२००,९८४६७७७४१८ , ९८५६००७२७२",
+      "District": "Kaski",
+      "State Government": "पोखरा ८ बगालेटोल",
+      "Province": "Bagmati-3",
+      "Worker Name": "डिल्लीराम पौडेल  इश्वर श्रेष्ठ  कुशल कुँवर",
+      "Worker Contact": 9846514442
+    },
+    {
+      "id": 482,
+      "Faculty Name": "रुपा पोखरा सम्पर्क समाज",
+      "Faculty Phone no.": "९८५६०३९९२५",
+      "District": "Kaski",
+      "State Government": "अमरसिंहचोक",
+      "Province": "Bagmati-3",
+      "Worker Name": "बुद्धि पन्त",
+      "Worker Contact": 9823096476
+    },
+    {
+      "id": 483,
+      "Faculty Name": "लायन्स क्लब",
+      "Faculty Phone no.": "९८५६०२८७९७",
+      "District": "Kaski",
+      "State Government": "पोखरा–६",
+      "Province": "Bagmati-3",
+      "Worker Name": "प्रकाश शिलवाल गोपी रम्तेल",
+      "Worker Contact": "९८५६०८१५१९, ९८१०३३८८०"
+    },
+    {
+      "id": 484,
+      "Faculty Name": "साईअर्चना हस्पिटल",
+      "Faculty Phone no.": "",
+      "District": "Kaski",
+      "State Government": "पोखरा ११ रानीपौवा",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 485,
+      "Faculty Name": "अन्नपुर्ण बाल हस्पिटल",
+      "Faculty Phone no.": "०६१–५४१५८७",
+      "District": "Kaski",
+      "State Government": "पोखरा–१०, शिवचोक",
+      "Province": "Bagmati-3",
+      "Worker Name": "धुर्व बहादुर बराल",
+      "Worker Contact": 9823156618
+    },
+    {
+      "id": 486,
+      "Faculty Name": "पोखरा हस्पिटल एण्ड रिसर्च सेन्टर",
+      "Faculty Phone no.": "९८५६०१९१८५",
+      "District": "Kaski",
+      "State Government": "इन्द्रचोक, पोखरा",
+      "Province": "Bagmati-3",
+      "Worker Name": "लोकबहादुर बुढा मगर",
+      "Worker Contact": 9806710789
+    },
+    {
+      "id": 487,
+      "Faculty Name": "गण्डकी मेडीकल कलेज",
+      "Faculty Phone no.": "०६१–५२८२४३",
+      "District": "Kaski",
+      "State Government": "पोखरा ९, नयाँबजार",
+      "Province": "Bagmati-3",
+      "Worker Name": "रामजी प्रसाद तिमिल्सिना",
+      "Worker Contact": 9824159552
+    },
+    {
+      "id": 488,
+      "Faculty Name": "बेगनास स्वास्थ्य चौकी",
+      "Faculty Phone no.": "०६१–५३८५९५",
+      "District": "Kaski",
+      "State Government": "बेगनास",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 489,
+      "Faculty Name": "आशा हेल्थ क्लिनिक",
+      "Faculty Phone no.": "९८५६०१३४६७,9815163548",
+      "District": "Kaski",
+      "State Government": "पोखरा १५, नयाँगाँऊ",
+      "Province": "Bagmati-3",
+      "Worker Name": "देवराज सापकोटा",
+      "Worker Contact": 9806529464
+    },
+    {
+      "id": 490,
+      "Faculty Name": "नेपाल एम्बुलेस सर्भिस",
+      "Faculty Phone no.": "१०२ डिल्लिबजार",
+      "District": "Kaski",
+      "State Government": "कालिका पेट्रोल पम्प",
+      "Province": "Bagmati-3",
+      "Worker Name": "सि.इ.ओ.,अमित जोसी",
+      "Worker Contact": 9841234205
+    },
+    {
+      "id": 491,
+      "Faculty Name": "वडा नंम्बर २४",
+      "Faculty Phone no.": 9856003024,
+      "District": "Kaski",
+      "State Government": "पोखरा २४,पामे",
+      "Province": "Bagmati-3",
+      "Worker Name": "हविद मियाँ",
+      "Worker Contact": ""
+    },
+    {
+      "id": 492,
+      "Faculty Name": "नव आदर्श युवा समाज, लामाचौर",
+      "Faculty Phone no.": "०६१–४४११००,९८०४१९८३५०",
+      "District": "Kaski",
+      "State Government": "पोखरा १९, लामाचौर",
+      "Province": "Bagmati-3",
+      "Worker Name": "इन्द्र बहादुर गुरुङ्ग   बुद्ध पुन",
+      "Worker Contact": "९८५६०५२२४८, ९८५६०५२१४०"
+    },
+    {
+      "id": 493,
+      "Faculty Name": "ङ्योय तमु समाज, भण्डारढिक, पोखरा",
+      "Faculty Phone no.": "९८४६०६४२९२",
+      "District": "Kaski",
+      "State Government": "सहारा हस्पिटल नजिक",
+      "Province": "Bagmati-3",
+      "Worker Name": "धन बहादुर गुरुङ्ग",
+      "Worker Contact": 9815152307
+    },
+    {
+      "id": 494,
+      "Faculty Name": "भंवरकोट तमु समाज",
+      "Faculty Phone no.": "९८१९१३५९०४",
+      "District": "Kaski",
+      "State Government": "अमरसिंहचोक, मिलन टोल",
+      "Province": "Bagmati-3",
+      "Worker Name": "सन्तोष श्रेष्ठ",
+      "Worker Contact": 9846621032
+    },
+    {
+      "id": 495,
+      "Faculty Name": "सिक्लेस तमु समाज",
+      "Faculty Phone no.": 9856054702,
+      "District": "Kaski",
+      "State Government": "पोखरा–११, चापापानी",
+      "Province": "Bagmati-3",
+      "Worker Name": "शिव बहादुर कुमाल",
+      "Worker Contact": 9846100307
+    },
+    {
+      "id": 496,
+      "Faculty Name": "इन्द्रनाथ स्मृति",
+      "Faculty Phone no.": 9844932024,
+      "District": "Kaski",
+      "State Government": "पोखरा–६",
+      "Province": "Bagmati-3",
+      "Worker Name": "आयुश",
+      "Worker Contact": 9810222958
+    },
+    {
+      "id": 497,
+      "Faculty Name": "सत्यम शिवम् सुन्दरम",
+      "Faculty Phone no.": 9846155889,
+      "District": "Kaski",
+      "State Government": "पोखरा १३, आर्वा",
+      "Province": "Bagmati-3",
+      "Worker Name": "धनबहादुर वि.क",
+      "Worker Contact": 9815123797
+    },
+    {
+      "id": 498,
+      "Faculty Name": "आमा मिलन केन्द्र",
+      "Faculty Phone no.": 9856033790,
+      "District": "Kaski",
+      "State Government": "पोखरा–८, नागढुंगा",
+      "Province": "Bagmati-3",
+      "Worker Name": "मोहन गुरुङ्ग",
+      "Worker Contact": 9803067082
+    },
+    {
+      "id": 499,
+      "Faculty Name": "भु.पु. पुलिस र आर्मी",
+      "Faculty Phone no.": "",
+      "District": "Kaski",
+      "State Government": "माछापुच्छे",
+      "Province": "Bagmati-3",
+      "Worker Name": "तिलक परियार",
+      "Worker Contact": 9804180772
+    },
+    {
+      "id": 500,
+      "Faculty Name": "लेते प्राथमिक स्वा.के.",
+      "Faculty Phone no.": "-",
+      "District": "Mustang",
+      "State Government": "थासाङ",
+      "Province": "Bagmati-3",
+      "Worker Name": "नभएको",
+      "Worker Contact": "नभएको"
+    },
+    {
+      "id": 501,
+      "Faculty Name": "जिल्ला अस्पताल मुस्ताङ",
+      "Faculty Phone no.": 69440291,
+      "District": "Mustang",
+      "State Government": "घरपझोङ",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुरेश परियार",
+      "Worker Contact": 9857642198
+    },
+    {
+      "id": 502,
+      "Faculty Name": "नेपाल रेडक्रस सोसाइटी",
+      "Faculty Phone no.": "",
+      "District": "Mustang",
+      "State Government": "",
+      "Province": "Bagmati-3",
+      "Worker Name": "चालक नभएको",
+      "Worker Contact": "-"
+    },
+    {
+      "id": 503,
+      "Faculty Name": "बेनी अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Myagdi",
+      "State Government": "बेनी न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "गोपि गौतम",
+      "Worker Contact": 9867706703
+    },
+    {
+      "id": 504,
+      "Faculty Name": "रेडक्रस",
+      "Faculty Phone no.": "",
+      "District": "Myagdi",
+      "State Government": "बेनी न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "केशर शेरपुञ्जा",
+      "Worker Contact": 9847624169
+    },
+    {
+      "id": 505,
+      "Faculty Name": "रेडक्रस उपशाखा दरवाङ",
+      "Faculty Phone no.": "",
+      "District": "Myagdi",
+      "State Government": "मालिका गा.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "मेक बहादुर पुन",
+      "Worker Contact": 9847751793
+    },
+    {
+      "id": 506,
+      "Faculty Name": "रेडक्रस उपशाखा भुरुङतातोपानी",
+      "Faculty Phone no.": "",
+      "District": "Myagdi",
+      "State Government": "अन्नपुर्ण गा.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 507,
+      "Faculty Name": "अन्नपुर्ण गाउपालिका",
+      "Faculty Phone no.": "",
+      "District": "Myagdi",
+      "State Government": "अन्नपुर्ण गा.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "धनराज गुरुङ",
+      "Worker Contact": 9865532048
+    },
+    {
+      "id": 508,
+      "Faculty Name": "पर्वत जिल्ला अस्पताल",
+      "Faculty Phone no.": 9857621119,
+      "District": "Parbat",
+      "State Government": "कुश्मा नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "दिलिप कुमार चुनार",
+      "Worker Contact": 9805241150
+    },
+    {
+      "id": 509,
+      "Faculty Name": "रोटरी क्लव पर्वत",
+      "Faculty Phone no.": 9857630027,
+      "District": "Parbat",
+      "State Government": "कुश्मा नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "राजु परियार",
+      "Worker Contact": 9847620480
+    },
+    {
+      "id": 510,
+      "Faculty Name": "ठूलीपोखरी प्रा.स्वा.के.",
+      "Faculty Phone no.": 9857647852,
+      "District": "Parbat",
+      "State Government": "कुश्मा नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "भिम बहादुर वि.क.",
+      "Worker Contact": 9867638896
+    },
+    {
+      "id": 511,
+      "Faculty Name": "मन बहादुर पुन",
+      "Faculty Phone no.": 9847620234,
+      "District": "Parbat",
+      "State Government": "कुश्मा नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "पुन युवा क्लव",
+      "Worker Contact": 9847635361
+    },
+    {
+      "id": 512,
+      "Faculty Name": "नेपाल रेडक्रस सोसाइटी जिल्ला शाखा पर्वत",
+      "Faculty Phone no.": 9857622718,
+      "District": "Parbat",
+      "State Government": "कुश्मा नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "तिलक परियार",
+      "Worker Contact": 9861446688
+    },
+    {
+      "id": 513,
+      "Faculty Name": "पाङराङ स्वास्थ्य चौकी",
+      "Faculty Phone no.": 9847623881,
+      "District": "Parbat",
+      "State Government": "फलेवास नगरपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "किशोर रेग्मी",
+      "Worker Contact": 9857631088
+    },
+    {
+      "id": 514,
+      "Faculty Name": "माँझफाँट स्वास्थ्य चौकी",
+      "Faculty Phone no.": 9847646156,
+      "District": "Parbat",
+      "State Government": "जलजला गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "याम बहादुर भण्डारी",
+      "Worker Contact": 9847752150
+    },
+    {
+      "id": 515,
+      "Faculty Name": "रानीपानी स्वास्थ्य चौकी",
+      "Faculty Phone no.": 9867103694,
+      "District": "Parbat",
+      "State Government": "विहादी गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुरेश ढकाल",
+      "Worker Contact": 9840500281
+    },
+    {
+      "id": 516,
+      "Faculty Name": "लुखुं प्रा.स्वा.चौकी",
+      "Faculty Phone no.": 9857644111,
+      "District": "Parbat",
+      "State Government": "महाशिला गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "भक्त बहादुर हमाल",
+      "Worker Contact": 9803797336
+    },
+    {
+      "id": 517,
+      "Faculty Name": "हुवास स्वास्थ्य चौकी",
+      "Faculty Phone no.": 9856032872,
+      "District": "Parbat",
+      "State Government": "पैयुँ गाउँपालिका",
+      "Province": "Bagmati-3",
+      "Worker Name": "बालकृष्ण न्यौपाने",
+      "Worker Contact": 9867266266
+    },
+    {
+      "id": 518,
+      "Faculty Name": "धौलागिरी अञ्‍चल अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Parbat",
+      "State Government": "बागलुङ न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "प्रेम श्रेष्ठ",
+      "Worker Contact": 9847634586
+    },
+    {
+      "id": 519,
+      "Faculty Name": "नेपाल रेडक्रस सोसाइटी अमलाचौर उप-शाखा",
+      "Faculty Phone no.": "",
+      "District": "Parbat",
+      "State Government": "बागलुङ न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "चन्द्र बहादुर थापा",
+      "Worker Contact": 9863347306
+    },
+    {
+      "id": 520,
+      "Faculty Name": "नेपाल रेडक्रस सोसाइटी शाखा",
+      "Faculty Phone no.": "",
+      "District": "Parbat",
+      "State Government": "बागलुङ न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "-",
+      "Worker Contact": 9847628896
+    },
+    {
+      "id": 521,
+      "Faculty Name": "पैयुँपाटा स्वा.चौकी",
+      "Faculty Phone no.": "",
+      "District": "Parbat",
+      "State Government": "बागलुङ न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "किशोर पाठक",
+      "Worker Contact": 9866423500
+    },
+    {
+      "id": 522,
+      "Faculty Name": "नेपाल रेडक्रस सोसाइटी बिहुँ उप-शाखा",
+      "Faculty Phone no.": "",
+      "District": "Parbat",
+      "State Government": "काठेखोला गा.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "-",
+      "Worker Contact": ""
+    },
+    {
+      "id": 523,
+      "Faculty Name": "ग्वालीचौर समाज बडिगाड",
+      "Faculty Phone no.": "",
+      "District": "Baglung",
+      "State Government": "बडिगाड गा.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "शेर बहादुर घर्ती",
+      "Worker Contact": 9861364631
+    },
+    {
+      "id": 524,
+      "Faculty Name": "भिमगिठे स्वा.चौकी बडिगाड",
+      "Faculty Phone no.": "",
+      "District": "Baglung",
+      "State Government": "बडिगाड गा.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "अनोज के.सी.",
+      "Worker Contact": 9861364631
+    },
+    {
+      "id": 525,
+      "Faculty Name": "आरोग्य अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Baglung",
+      "State Government": "गल्कोट न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "शोम बहादुर",
+      "Worker Contact": 9845629765
+    },
+    {
+      "id": 526,
+      "Faculty Name": "गल्कोट स्वास्थ्य केन्द्र",
+      "Faculty Phone no.": "",
+      "District": "Baglung",
+      "State Government": "गल्कोट न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "पुर्ण बहादुर",
+      "Worker Contact": 9842764094
+    },
+    {
+      "id": 527,
+      "Faculty Name": "विहानी सहकारी संस्था",
+      "Faculty Phone no.": "",
+      "District": "Baglung",
+      "State Government": "बरेङ गा.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "-",
+      "Worker Contact": ""
+    },
+    {
+      "id": 528,
+      "Faculty Name": "कुश्मिसेरा प्रा.स्वा.केन्द्र",
+      "Faculty Phone no.": "",
+      "District": "Baglung",
+      "State Government": "जैमिनी न.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "जगत बहादुर थापा",
+      "Worker Contact": 9847710240
+    },
+    {
+      "id": 529,
+      "Faculty Name": "ताराखोला गा.पा.",
+      "Faculty Phone no.": "",
+      "District": "Baglung",
+      "State Government": "ताराखोला गा.पा.",
+      "Province": "Bagmati-3",
+      "Worker Name": "रमेश के.सी.",
+      "Worker Contact": 9860525530
+    },
+    {
+      "id": 530,
+      "Faculty Name": "सरकारी",
+      "Faculty Phone no.": "",
+      "District": "Nawalparasi Purbi",
+      "State Government": "गैडाकोट",
+      "Province": "Bagmati-3",
+      "Worker Name": "राम कुमार श्रेष्ठ",
+      "Worker Contact": 9847271234
+    },
+    {
+      "id": 531,
+      "Faculty Name": "सरकारी",
+      "Faculty Phone no.": "",
+      "District": "Nawalparasi Purbi",
+      "State Government": "गैडाकोट",
+      "Province": "Bagmati-3",
+      "Worker Name": "भिम वहादुर राना",
+      "Worker Contact": "९८५५०६४३८८"
+    },
+    {
+      "id": 532,
+      "Faculty Name": "सरकारी",
+      "Faculty Phone no.": "",
+      "District": "Nawalparasi Purbi",
+      "State Government": "गैडाकोट",
+      "Province": "Bagmati-3",
+      "Worker Name": "सन्तोष थापा",
+      "Worker Contact": "९८५५०५६५५९"
+    },
+    {
+      "id": 533,
+      "Faculty Name": "सरकारी",
+      "Faculty Phone no.": "",
+      "District": "Nawalparasi Purbi",
+      "State Government": "गैडाकोट",
+      "Province": "Bagmati-3",
+      "Worker Name": "लक्षमण काराखेती",
+      "Worker Contact": "९८४५०६२७७८"
+    },
+    {
+      "id": 534,
+      "Faculty Name": "सरकारी",
+      "Faculty Phone no.": "",
+      "District": "Nawalparasi Purbi",
+      "State Government": "कावासोती",
+      "Province": "Bagmati-3",
+      "Worker Name": "गोपीराम ब्लोन",
+      "Worker Contact": 9847145266
+    },
+    {
+      "id": 535,
+      "Faculty Name": "सरकारी",
+      "Faculty Phone no.": "९८६७२२४१६९",
+      "District": "Nawalparasi Purbi",
+      "State Government": "कावासोती",
+      "Province": "Bagmati-3",
+      "Worker Name": "कमल चापागाई",
+      "Worker Contact": "९८४७४३५३६९"
+    },
+    {
+      "id": 536,
+      "Faculty Name": "सरकारी",
+      "Faculty Phone no.": "९८००७४१७३६",
+      "District": "Nawalparasi Purbi",
+      "State Government": "कावासोती",
+      "Province": "Bagmati-3",
+      "Worker Name": "भिम वहादुर थापा",
+      "Worker Contact": "९८४७४१०२४२"
+    },
+    {
+      "id": 537,
+      "Faculty Name": "सरकारी",
+      "Faculty Phone no.": "",
+      "District": "Nawalparasi Purbi",
+      "State Government": "कावासोती",
+      "Province": "Bagmati-3",
+      "Worker Name": "मान वहादुर गुरौ",
+      "Worker Contact": "९८४७०५३२५०"
+    },
+    {
+      "id": 538,
+      "Faculty Name": "सरकारी",
+      "Faculty Phone no.": "९८१५४२२९४५",
+      "District": "Nawalparasi Purbi",
+      "State Government": "कावासोती",
+      "Province": "Bagmati-3",
+      "Worker Name": "वावुराम वस्नेत",
+      "Worker Contact": "९८४७०१४५६४"
+    },
+    {
+      "id": 539,
+      "Faculty Name": "सरकारी",
+      "Faculty Phone no.": "९८०७५७८१७१",
+      "District": "Nawalparasi Purbi",
+      "State Government": "कावासोती",
+      "Province": "Bagmati-3",
+      "Worker Name": "शेर वहादुर महतो",
+      "Worker Contact": "९८४७०७४६३४"
+    },
+    {
+      "id": 540,
+      "Faculty Name": "सरकारी",
+      "Faculty Phone no.": "",
+      "District": "Nawalparasi Purbi",
+      "State Government": "कावासोती",
+      "Province": "Bagmati-3",
+      "Worker Name": "तिलक वहादुर कुमाल",
+      "Worker Contact": "९८४०९७२३१०"
+    },
+    {
+      "id": 541,
+      "Faculty Name": "सरकारी",
+      "Faculty Phone no.": "",
+      "District": "Nawalparasi Purbi",
+      "State Government": "देवचुली",
+      "Province": "Bagmati-3",
+      "Worker Name": "हरी प्रसाद खनाल",
+      "Worker Contact": 9857040644
+    },
+    {
+      "id": 542,
+      "Faculty Name": "सरकारी",
+      "Faculty Phone no.": "",
+      "District": "Nawalparasi Purbi",
+      "State Government": "देवचुली",
+      "Province": "Bagmati-3",
+      "Worker Name": "नवराज श्रेष्ठ",
+      "Worker Contact": 9857041743
+    },
+    {
+      "id": 543,
+      "Faculty Name": "सरकारी",
+      "Faculty Phone no.": "",
+      "District": "Nawalparasi Purbi",
+      "State Government": "देवचुली",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुमन गोले",
+      "Worker Contact": "९८४४७६५०८८"
+    },
+    {
+      "id": 544,
+      "Faculty Name": "सरकारी",
+      "Faculty Phone no.": "९८२१५५४४६९",
+      "District": "Nawalparasi Purbi",
+      "State Government": "देवचुली",
+      "Province": "Bagmati-3",
+      "Worker Name": "किरण न्यौपाने",
+      "Worker Contact": "९८५७०४१३७६"
+    },
+    {
+      "id": 545,
+      "Faculty Name": "सरकारी",
+      "Faculty Phone no.": "९८२१५१०२१४",
+      "District": "Nawalparasi Purbi",
+      "State Government": "देवचुली",
+      "Province": "Bagmati-3",
+      "Worker Name": "सुरज सिंह अधिकारी",
+      "Worker Contact": "९८४७०७४०९९"
+    },
+    {
+      "id": 546,
+      "Faculty Name": "सरकारी",
+      "Faculty Phone no.": "",
+      "District": "Nawalparasi Purbi",
+      "State Government": "देवचुली",
+      "Province": "Bagmati-3",
+      "Worker Name": "केश व.श्रेष्ट",
+      "Worker Contact": "९८४५०६९५२७"
+    },
+    {
+      "id": 547,
+      "Faculty Name": "सरकारी",
+      "Faculty Phone no.": "",
+      "District": "Nawalparasi Purbi",
+      "State Government": "देवचुली",
+      "Province": "Bagmati-3",
+      "Worker Name": "मिन वहादुर लामा",
+      "Worker Contact": 9826264232
+    },
+    {
+      "id": 548,
+      "Faculty Name": "कागेश्‍वरी मनोहरा नगरपालिका",
+      "Faculty Phone no.": 9741246070,
+      "District": "Kathmandu",
+      "State Government": "कागेश्‍वरी मनोहरा नगरपालिका",
+      "Province": "",
+      "Worker Name": "चिरण कटुवाल",
+      "Worker Contact": 98655621
+    },
+    {
+      "id": 549,
+      "Faculty Name": "कागेश्‍वरी मनोहरा नगरपालिका",
+      "Faculty Phone no.": 9841389381,
+      "District": "Kathmandu",
+      "State Government": "कागेश्‍वरी मनोहरा नगरपालिका",
+      "Province": "",
+      "Worker Name": "विनोद परियार",
+      "Worker Contact": 9860437777
+    },
+    {
+      "id": 550,
+      "Faculty Name": "कागेश्‍वरी मनोहरा नगरपालिका",
+      "Faculty Phone no.": "छैन",
+      "District": "Kathmandu",
+      "State Government": "कागेश्‍वरी मनोहरा नगरपालिका",
+      "Province": "",
+      "Worker Name": "कृष्ण नेपाली",
+      "Worker Contact": 9861669306
+    },
+    {
+      "id": 551,
+      "Faculty Name": "कीर्तिपुर नगरपालिका",
+      "Faculty Phone no.": "",
+      "District": "Kathmandu",
+      "State Government": "कीर्तिपुर नगरपालिका",
+      "Province": "",
+      "Worker Name": "श्याम ब. दोङ",
+      "Worker Contact": 9841624386
+    },
+    {
+      "id": 552,
+      "Faculty Name": "टोखा नगरपालिका",
+      "Faculty Phone no.": 9851243861,
+      "District": "Kathmandu",
+      "State Government": "टोखा नगरपालिका",
+      "Province": "",
+      "Worker Name": "अविनाश खड्का",
+      "Worker Contact": 9866296288
+    },
+    {
+      "id": 553,
+      "Faculty Name": "भलाकुशा साकोस, सतंगुल",
+      "Faculty Phone no.": 16224000,
+      "District": "Kathmandu",
+      "State Government": "चन्द्रागिरि नगरपालिका",
+      "Province": "",
+      "Worker Name": "नारायण प्रसाद भट्ट नन्द कुमार महर्जन",
+      "Worker Contact": "9841482707,\n 9863330555"
+    },
+    {
+      "id": 554,
+      "Faculty Name": "दहचोक एम्बुलेन्स",
+      "Faculty Phone no.": "",
+      "District": "Kathmandu",
+      "State Government": "चन्द्रागिरि नगरपालिका",
+      "Province": "",
+      "Worker Name": "लक्ष्मण सिग्देल  श्याम गिरी",
+      "Worker Contact": 9843053128
+    },
+    {
+      "id": 555,
+      "Faculty Name": "थानकोट हसपिस सेन्टर",
+      "Faculty Phone no.": "",
+      "District": "Kathmandu",
+      "State Government": "चन्द्रागिरि नगरपालिका",
+      "Province": "",
+      "Worker Name": "भुत्रु प्रसाद दराई  प्रेम दराई",
+      "Worker Contact": "9849639624,\n 9841535402"
+    },
+    {
+      "id": 556,
+      "Faculty Name": "चन्द्रागिरि साकोस, चेकपोष्ट",
+      "Faculty Phone no.": "",
+      "District": "Kathmandu",
+      "State Government": "चन्द्रागिरि नगरपालिका",
+      "Province": "",
+      "Worker Name": "सविन गोपाली  कृष्ण प्रसाद अधिकारी  राम श्रेष्ठ",
+      "Worker Contact": "9810198440,\n9818661496, \n 9841263773"
+    },
+    {
+      "id": 557,
+      "Faculty Name": "मातातीर्थ बैकुण्ठ नाथ दिव्यधाम",
+      "Faculty Phone no.": "9813017488,\n 01416568",
+      "District": "Kathmandu",
+      "State Government": "चन्द्रागिरि नगरपालिका",
+      "Province": "",
+      "Worker Name": "हरि प्रसाद सेडाई",
+      "Worker Contact": 9849920920
+    },
+    {
+      "id": 558,
+      "Faculty Name": "ओम समाज अस्पताल, सतुंगल",
+      "Faculty Phone no.": "014311062,\n 014316325",
+      "District": "Kathmandu",
+      "State Government": "चन्द्रागिरि नगरपालिका",
+      "Province": "",
+      "Worker Name": "निश्‍चल तामाङ",
+      "Worker Contact": 9810205266
+    },
+    {
+      "id": 559,
+      "Faculty Name": "प्रतापसिंह स्मृती प्रतिष्ठान",
+      "Faculty Phone no.": "",
+      "District": "Kathmandu",
+      "State Government": "चन्द्रागिरि नगरपालिका",
+      "Province": "",
+      "Worker Name": "अनिल तामाङ",
+      "Worker Contact": 9803661899
+    },
+    {
+      "id": 560,
+      "Faculty Name": "शंखरापुर नगरपालिका",
+      "Faculty Phone no.": "",
+      "District": "Kathmandu",
+      "State Government": "शंखरापुर नगरपालिका",
+      "Province": "",
+      "Worker Name": "उत्तम सिं डंगोल",
+      "Worker Contact": 9841360926
+    },
+    {
+      "id": 561,
+      "Faculty Name": "शंखरापुर नगरपालिका",
+      "Faculty Phone no.": "",
+      "District": "Kathmandu",
+      "State Government": "शंखरापुर नगरपालिका",
+      "Province": "",
+      "Worker Name": "सविन श्रेष्ठ",
+      "Worker Contact": 9840377272
+    },
+    {
+      "id": 562,
+      "Faculty Name": "सुषमा कोइराला मेमोरियल अस्पताल",
+      "Faculty Phone no.": "",
+      "District": "Kathmandu",
+      "State Government": "शंखरापुर नगरपालिका",
+      "Province": "",
+      "Worker Name": "सानोभाई कार्की",
+      "Worker Contact": 9841827101
+    },
+    {
+      "id": 563,
+      "Faculty Name": "बूढानीलकण्ठ नगरपालिका",
+      "Faculty Phone no.": 14372725,
+      "District": "Kathmandu",
+      "State Government": "बूढानीलकण्ठ नगरपालिका",
+      "Province": "",
+      "Worker Name": "किरण श्रेष्ठ",
+      "Worker Contact": 9841634795
+    },
+    {
+      "id": 564,
+      "Faculty Name": "प्राथमिक स्वास्थ्य केन्द्र, चाल्नाखेल",
+      "Faculty Phone no.": "",
+      "District": "Kathmandu",
+      "State Government": "दक्षिणकाली नगरपालिका",
+      "Province": "",
+      "Worker Name": "काल सिंह लामा",
+      "Worker Contact": 9841364033
+    },
+    {
+      "id": 565,
+      "Faculty Name": "मनमोहन स्मृति सामुदायिक अस्पताल, दक्षिणकाली",
+      "Faculty Phone no.": "",
+      "District": "Kathmandu",
+      "State Government": "दक्षिणकाली नगरपालिका",
+      "Province": "",
+      "Worker Name": "माईला श्रेष्ठ",
+      "Worker Contact": 14710033
+    },
+    {
+      "id": 566,
+      "Faculty Name": "मनमोहन स्मृति सामुदायिक अस्पताल, दक्षिणकाली",
+      "Faculty Phone no.": "",
+      "District": "Kathmandu",
+      "State Government": "दक्षिणकाली नगरपालिका",
+      "Province": "",
+      "Worker Name": "राम बहादुर महत",
+      "Worker Contact": 14710033
+    },
+    {
+      "id": 567,
+      "Faculty Name": "मनमोहन स्मृति सामुदायिक अस्पताल, दक्षिणकाली",
+      "Faculty Phone no.": "",
+      "District": "Kathmandu",
+      "State Government": "दक्षिणकाली नगरपालिका",
+      "Province": "",
+      "Worker Name": "प्रह्‍लाद कार्की",
+      "Worker Contact": 14710033
+    },
+    {
+      "id": 568,
+      "Faculty Name": "नेपाल रेडक्रस सोसाईटी, फर्पिङ्ग",
+      "Faculty Phone no.": "",
+      "District": "Kathmandu",
+      "State Government": "दक्षिणकाली नगरपालिका",
+      "Province": "",
+      "Worker Name": "बालकृष्ण श्रेष्ठ",
+      "Worker Contact": 9813547700
+    },
+    {
+      "id": 569,
+      "Faculty Name": "क्षेत्रपाल भैरव युवा क्लब, दक्षिणकाली",
+      "Faculty Phone no.": "",
+      "District": "Kathmandu",
+      "State Government": "दक्षिणकाली नगरपालिका",
+      "Province": "",
+      "Worker Name": "सरोज के.सी.",
+      "Worker Contact": 960563415
+    },
+    {
+      "id": 570,
+      "Faculty Name": "भीमनेश्वर नगरपालिका",
+      "Faculty Phone no.": "",
+      "District": "Dolakha",
+      "State Government": "भीमेश्वर नगरपालिका",
+      "Province": "",
+      "Worker Name": "शंकर ब. खत्री",
+      "Worker Contact": 9841946397
+    },
+    {
+      "id": 571,
+      "Faculty Name": "जिरी नगरपालिका",
+      "Faculty Phone no.": "",
+      "District": "Dolakha",
+      "State Government": "जिरी नगरपालिका",
+      "Province": "",
+      "Worker Name": "कुमार जिरेल",
+      "Worker Contact": 9849771557
+    },
+    {
+      "id": 572,
+      "Faculty Name": "",
+      "Faculty Phone no.": 9854048111,
+      "District": "Ramechhap",
+      "State Government": "मन्थली नगरपालिका",
+      "Province": "",
+      "Worker Name": "",
+      "Worker Contact": 9840179495
+    },
+    {
+      "id": 573,
+      "Faculty Name": "दुधौली नगरपालिका",
+      "Faculty Phone no.": "",
+      "District": "Sindhuli",
+      "State Government": "दुधौली",
+      "Province": "",
+      "Worker Name": "टिकाराम खत्री",
+      "Worker Contact": 9812151818
+    },
+    {
+      "id": 574,
+      "Faculty Name": "कमलामाइ नगरपालिका",
+      "Faculty Phone no.": "",
+      "District": "Sindhuli",
+      "State Government": "कमलामाइ न.पा.",
+      "Province": "",
+      "Worker Name": "विनोद भण्डारी",
+      "Worker Contact": 9854040156
+    },
+    {
+      "id": 575,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Sindhuli",
+      "State Government": "",
+      "Province": "",
+      "Worker Name": "नवराज देवकोटा",
+      "Worker Contact": 9844523421
+    },
+    {
+      "id": 576,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Sindhuli",
+      "State Government": "",
+      "Province": "",
+      "Worker Name": "उदय बहादुर मगर (फायर मेन)",
+      "Worker Contact": 9812155272
+    },
+    {
+      "id": 577,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Sindhuli",
+      "State Government": "",
+      "Province": "",
+      "Worker Name": "हेम बहादुर रोका (फायर मेन)",
+      "Worker Contact": 9819881329
+    },
+    {
+      "id": 578,
+      "Faculty Name": "नगरपालिका",
+      "Faculty Phone no.": "",
+      "District": "Kavrepalanchok",
+      "State Government": "धुलिखेल न.पा.",
+      "Province": "",
+      "Worker Name": "हरिबहादुर भुजेल",
+      "Worker Contact": 9851066310
+    },
+    {
+      "id": 579,
+      "Faculty Name": "नगरपालिका",
+      "Faculty Phone no.": "",
+      "District": "Kavrepalanchok",
+      "State Government": "धुलिखेल न.पा.",
+      "Province": "",
+      "Worker Name": "हरिबहादुर भुजेल",
+      "Worker Contact": 9851066310
+    },
+    {
+      "id": 580,
+      "Faculty Name": "नगरपालिका",
+      "Faculty Phone no.": "",
+      "District": "Kavrepalanchok",
+      "State Government": "नमोबुद्ध न.पा.",
+      "Province": "",
+      "Worker Name": "ङेमा लामा",
+      "Worker Contact": 9823774702
+    },
+    {
+      "id": 581,
+      "Faculty Name": "नगरपालिका",
+      "Faculty Phone no.": "",
+      "District": "Kavrepalanchok",
+      "State Government": "पाँचखाल न.पा.",
+      "Province": "",
+      "Worker Name": "दावा लामा",
+      "Worker Contact": 9810150160
+    },
+    {
+      "id": 582,
+      "Faculty Name": "नगरपालिका",
+      "Faculty Phone no.": "",
+      "District": "Kavrepalanchok",
+      "State Government": "पनोति नगरपालिका",
+      "Province": "",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 583,
+      "Faculty Name": "नगरपालिका",
+      "Faculty Phone no.": "",
+      "District": "Kavrepalanchok",
+      "State Government": "बनेपा नरपालिका",
+      "Province": "",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 584,
+      "Faculty Name": "चौतारा साँगाचोकगढी न.पा",
+      "Faculty Phone no.": "",
+      "District": "Sindhupalchok",
+      "State Government": "चौतारा साँगाचोकगढी न.पा",
+      "Province": "",
+      "Worker Name": "चमार सिं तामाङ",
+      "Worker Contact": 9807956258
+    },
+    {
+      "id": 585,
+      "Faculty Name": "विदुर नगरपालिका",
+      "Faculty Phone no.": "010-560063",
+      "District": "Nuwakot",
+      "State Government": "विदुर नगरपालिका",
+      "Province": "",
+      "Worker Name": "रमेश कुमार थापा",
+      "Worker Contact": 9813768255
+    },
+    {
+      "id": 586,
+      "Faculty Name": "भरतपुर महानगर पालिका",
+      "Faculty Phone no.": 56521083,
+      "District": "Chitwan",
+      "State Government": "भरतपुर महानगर पालिका",
+      "Province": "",
+      "Worker Name": "मिन बहादुर श्रेष्ठ",
+      "Worker Contact": 9845155984
+    },
+    {
+      "id": 587,
+      "Faculty Name": "",
+      "Faculty Phone no.": 56521083,
+      "District": "Chitwan",
+      "State Government": "",
+      "Province": "",
+      "Worker Name": "रमेश परियार",
+      "Worker Contact": 9845581321
+    },
+    {
+      "id": 588,
+      "Faculty Name": "खैरहनी नगर पालिका",
+      "Faculty Phone no.": 56582555,
+      "District": "Chitwan",
+      "State Government": "खैरहनी नगर पालिका",
+      "Province": "",
+      "Worker Name": "श्रीराम चौधरी",
+      "Worker Contact": 9865377105
+    },
+    {
+      "id": 589,
+      "Faculty Name": "",
+      "Faculty Phone no.": 56582555,
+      "District": "Chitwan",
+      "State Government": "",
+      "Province": "",
+      "Worker Name": "खेम श्रेष्ठ",
+      "Worker Contact": 9855082650
+    },
+    {
+      "id": 590,
+      "Faculty Name": "माडी नगर पालिका",
+      "Faculty Phone no.": 9840419675,
+      "District": "Chitwan",
+      "State Government": "माडी नगर पालिका",
+      "Province": "",
+      "Worker Name": "संजय थापा",
+      "Worker Contact": 9811112486
+    },
+    {
+      "id": 591,
+      "Faculty Name": "नेपाल नागरिक उड्डयन प्रधिकरण",
+      "Faculty Phone no.": 9851147877,
+      "District": "Chitwan",
+      "State Government": "भरतपुर एयरपोर्ट",
+      "Province": "",
+      "Worker Name": "रबिन परियार",
+      "Worker Contact": 9841650368
+    },
+    {
+      "id": 592,
+      "Faculty Name": "हेटौडा उ.म.न.पा.",
+      "Faculty Phone no.": "057-520677",
+      "District": "Makwanpur",
+      "State Government": "हेटौडा उ.म.न.पा.",
+      "Province": "",
+      "Worker Name": "विनोद राई",
+      "Worker Contact": 9845030708
+    },
+    {
+      "id": 593,
+      "Faculty Name": "हेटौडा उ.म.न.पा.",
+      "Faculty Phone no.": "057-520677",
+      "District": "Makwanpur",
+      "State Government": "हेटौडा उ.म.न.पा.",
+      "Province": "",
+      "Worker Name": "रवी बजगाई",
+      "Worker Contact": 9845123864
+    },
+    {
+      "id": 594,
+      "Faculty Name": "थाहा न.पा.",
+      "Faculty Phone no.": 9845235341,
+      "District": "Makwanpur",
+      "State Government": "थाहा न.पा.",
+      "Province": "",
+      "Worker Name": "राम गोपाली",
+      "Worker Contact": 9855089318
+    },
+    {
+      "id": 595,
+      "Faculty Name": "गृह मन्त्रालय",
+      "Faculty Phone no.": "",
+      "District": "Bhaktapur",
+      "State Government": "भ .न. पा.",
+      "Province": "",
+      "Worker Name": "विकास त्वयना लगायत ४ जना",
+      "Worker Contact": 9851150913
+    },
+    {
+      "id": 596,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर म.न.पा",
+      "Province": "",
+      "Worker Name": "राजेश शाक्य",
+      "Worker Contact": 9851137629
+    },
+    {
+      "id": 597,
+      "Faculty Name": "",
+      "Faculty Phone no.": "",
+      "District": "Lalitpur",
+      "State Government": "ललितपुर म.न.पा",
+      "Province": "",
+      "Worker Name": "राजेश शाक्य",
+      "Worker Contact": ""
+    },
+    {
+      "id": 598,
+      "Faculty Name": "बूढानीलकण्ठ नगरपालिका",
+      "Faculty Phone no.": "",
+      "District": "",
+      "State Government": "बूढानीलकण्ठ नगरपालिका",
+      "Province": "",
+      "Worker Name": "",
+      "Worker Contact": ""
+    },
+    {
+      "id": 599,
+      "Faculty Name": "जुद्ध बारुण यन्त्रबाट यस नगरपालिकालाई हस्तान्तरण",
+      "Faculty Phone no.": "",
+      "District": "",
+      "State Government": "दक्षिणकाली नगरपालिका",
+      "Province": "",
+      "Worker Name": "श्याम प्रसाद बलामी",
+      "Worker Contact": 9841504726
+    }
+  ]

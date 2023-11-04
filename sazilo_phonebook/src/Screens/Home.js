@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import {
   View,
   Text,
@@ -8,15 +8,17 @@ import {
   TouchableOpacity,
   Linking,
   StatusBar,
-  FlatList,
+  Platform,
   SafeAreaView,
 } from "react-native";
 import { Icon } from "@rneui/base";
 
-import { Divider, Surface } from "react-native-paper";
+import { Surface } from "react-native-paper";
 import HeaderWidget from "../components/HeaderWidget";
 import SelectionListWidget from "../components/SelectionListWidget";
 import ButtonWidget from "../components/ButtonWidget";
+
+import * as Location from "expo-location";
 
 function Home({ navigation }) {
   function CardItem({ name, department, image, number }) {
@@ -121,63 +123,24 @@ function Home({ navigation }) {
       Linking.openURL(`telprompt:${number}`);
     }
   };
-
-  function CategoryBox({ department, name }) {
-    return (
-      <View style={decoration.category}>
-        <View
-          style={{
-            flexDirection: "row",
-            alignItems: "center",
-          }}
-        >
-          <Icon name="user" type="font-awesome" style={{ marginRight: 5 }} />
-          <Text
-            style={{
-              color: "#01579b",
-              fontSize: 20,
-              fontWeight: "800",
-              marginVertical: 5,
-              textTransform: "capitalize",
-            }}
-          >
-            {name}
-          </Text>
-        </View>
-        <View style={decoration.cardList}>
-          {department.map((card) => (
-            <CardItem
-              name={card.name}
-              image={card.image}
-              department={card.department}
-              key={card.id}
-              number={card.number}
-            />
-          ))}
-        </View>
-
-        <Divider style={{ marginVertical: 10 }} />
-      </View>
-    );
-  }
   const DATA = [
     {
       category: "Health",
       data: [
         {
           id: 0,
-          department: "Hospital",
-          imageUrl: require("../../assets/images/header.jpg"),
+          department: "hospital",
+          imageUrl: require("../../assets/images/hospital.png"),
         },
         {
           id: 1,
-          department: "Ambulance",
-          imageUrl: require("../../assets/images/header.jpg"),
+          department: "ambulance",
+          imageUrl: require("../../assets/images/ambulance.jpg"),
         },
         {
           id: 2,
-          department: "Rescue",
-          imageUrl: require("../../assets/images/header.jpg"),
+          department: "rescue",
+          imageUrl: require("../../assets/images/rescue.jpg"),
         },
       ],
     },
@@ -186,8 +149,8 @@ function Home({ navigation }) {
       data: [
         {
           id: 0,
-          department: "Police",
-          imageUrl: require("../../assets/images/header.jpg"),
+          department: "police",
+          imageUrl: require("../../assets/images/police.png"),
         },
       ],
     },
@@ -196,17 +159,17 @@ function Home({ navigation }) {
       data: [
         {
           id: 0,
-          department: "Central",
+          department: "central",
           imageUrl: require("../../assets/images/header.jpg"),
         },
         {
           id: 1,
-          department: "District",
+          department: "district",
           imageUrl: require("../../assets/images/header.jpg"),
         },
         {
           id: 2,
-          department: "City",
+          department: "city",
           imageUrl: require("../../assets/images/header.jpg"),
         },
       ],
@@ -242,7 +205,7 @@ function Home({ navigation }) {
           backgroundColor: "white",
           borderRadius: 50,
           padding: 20,
-          marginRight: 10,
+          borderWidth: 1,
         }}
         onPress={onPress}
       />
@@ -279,6 +242,32 @@ function Home({ navigation }) {
       </>
     );
   }
+  const [location, setLocation] = useState(null);
+  const [errorMsg, setErrorMsg] = useState(null);
+  useEffect(() => {
+    (async () => {
+      try {
+        let { status } = await Location.requestForegroundPermissionsAsync();
+        if (status !== "granted") {
+          setErrorMsg("Permission to access location was denied");
+          return;
+        }
+
+        let location = await Location.getCurrentPositionAsync({});
+        setLocation(location);
+      } catch (err) {
+        console.log(err);
+      }
+    })();
+  }, []);
+
+  let text = "Waiting..";
+  if (errorMsg) {
+    text = errorMsg;
+  } else if (location) {
+    text = JSON.stringify(location);
+  }
+  console.log(text);
   return (
     <>
       <HeaderWidget navigation={navigation}>
@@ -299,30 +288,30 @@ function Home({ navigation }) {
         />
       </HeaderWidget>
       <View>
-        <ScrollView style={decoration.categoryList}>
-          <ScrollView
+        <SafeAreaView style={decoration.categoryList}>
+          <View
             style={{
-              marginVertical: 10,
-              display: "flex",
               flexDirection: "row",
-              gap: 20,
+              justifyContent: "space-evenly",
+              marginVertical: 10,
             }}
             horizontal={true}
           >
             <IconWidgets />
-          </ScrollView>
+          </View>
           <Text
             style={{
               color: "#01579b",
               fontSize: 18,
               fontWeight: "800",
               marginBottom: 10,
+              // borderWidth: 1,
             }}
           >
             What's your emergency?
           </Text>
-          <SelectionListWidget data={DATA} />
-        </ScrollView>
+          <SelectionListWidget data={DATA} navigation={navigation} />
+        </SafeAreaView>
       </View>
     </>
   );
@@ -361,6 +350,11 @@ const decoration = StyleSheet.create({
   },
   categoryList: {
     marginHorizontal: 10,
+    flexDirection: "column",
+    // borderWidth: 1,
+    // borderColor: "red",
+    height: "90.5%",
+    overflow: "hidden",
   },
 });
 export default Home;

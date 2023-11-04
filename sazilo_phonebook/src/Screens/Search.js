@@ -1,12 +1,20 @@
 import { useState, useEffect } from "react";
-import { View, Text, StyleSheet, ScrollView } from "react-native";
+import {
+  View,
+  Text,
+  StyleSheet,
+  ScrollView,
+  SafeAreaView,
+  Linking,
+} from "react-native";
 import SearchBox from "../components/SearchBox";
+import ContactCard from "../components/ContactCard";
 import { Chip } from "react-native-paper";
 import { Header, Icon } from "@rneui/base";
 
 import HeaderWidget from "../components/HeaderWidget";
 import ButtonWidget from "../components/ButtonWidget";
-
+const numbers = [91203123, 123912039];
 export default function Search({ navigation }) {
   const [selectedDistance, setSelectedDistance] = useState("");
   const [selectedDepartment, setSelectedDepartment] = useState("");
@@ -32,7 +40,7 @@ export default function Search({ navigation }) {
         </Text>
       </HeaderWidget>
       <View style={decoration.searchContainer}>
-        <SearchBox />
+        <SearchBox placeholder="Search By Name" />
         <ButtonWidget
           onPress={() => {
             selectedFilter === 0
@@ -99,56 +107,30 @@ export default function Search({ navigation }) {
         </View>
 
         {/* contactCard display */}
-        <ScrollView>
-          <ContactCard />
-          <ContactCard />
-          <ContactCard />
-          <ContactCard />
-          <ContactCard />
-          <ContactCard />
-          <ContactCard />
-          <ContactCard />
-          <ContactCard />
-          <ContactCard />
-          <ContactCard />
-          <ContactCard />
-          <ContactCard />
-          <ContactCard />
-          <ContactCard />
-        </ScrollView>
+        <SafeAreaView style={{ height: "67%" }}>
+          <ScrollView>
+            <ContactCard numbers={numbers} />
+            <ContactCard numbers={numbers} />
+            <ContactCard numbers={numbers} />
+            <ContactCard numbers={numbers} />
+            <ContactCard numbers={numbers} />
+            <ContactCard numbers={numbers} />
+            <ContactCard numbers={numbers} />
+            <ContactCard numbers={numbers} />
+            <ContactCard numbers={numbers} />
+            <ContactCard numbers={numbers} />
+            <ContactCard numbers={numbers} />
+            <ContactCard numbers={numbers} />
+            <ContactCard numbers={numbers} />
+            <ContactCard numbers={numbers} />
+            <ContactCard numbers={numbers} />
+            <ContactCard numbers={numbers} />
+            <ContactCard numbers={numbers} />
+            <ContactCard numbers={numbers} />
+          </ScrollView>
+        </SafeAreaView>
       </View>
     </>
-  );
-}
-function ContactCard() {
-  return (
-    <View style={decoration.contactCard}>
-      <View style={decoration.details}>
-        <Text
-          style={[
-            decoration.detailsTitle,
-            { fontSize: 24, fontWeight: "400", marginBottom: 2 },
-          ]}
-        >
-          Suryabinayak Hospital
-        </Text>
-        <Text style={decoration.address}>
-          Address: thulobharyang, kathmandu{" "}
-        </Text>
-        <Text style={{ justifyContent: "center" }}>
-          Helpline (1) <Text style={decoration.number}>9860817538</Text>
-        </Text>
-      </View>
-      <View
-        style={{
-          justifyContent: "center",
-          alignItems: "center",
-          width: "30%",
-        }}
-      >
-        <Text style={decoration.distance}>1.0 KM</Text>
-      </View>
-    </View>
   );
 }
 

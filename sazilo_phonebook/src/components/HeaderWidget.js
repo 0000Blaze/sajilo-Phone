@@ -22,9 +22,10 @@ const HeaderWidget = ({ children, navigation }) => {
             flexDirection: "column",
             paddingTop: 10,
             paddingLeft: 20,
+            backgroundColor: "#01216930",
           }}
         >
-          <StatusBar backgroundColor="transparent" />
+          <StatusBar backgroundColor="#01216930" />
           <View
             style={{
               flexDirection: "row",
@@ -36,7 +37,7 @@ const HeaderWidget = ({ children, navigation }) => {
           >
             <Icon
               name="account-circle"
-              color="#012169"
+              color="#fff"
               // style={{ backgroundColor: "skyblue" }}
               onPress={() => {
                 navigation.navigate("Profile");
@@ -44,7 +45,7 @@ const HeaderWidget = ({ children, navigation }) => {
             />
             <Text
               style={{
-                color: "#012169",
+                color: "#fff",
                 marginLeft: 5,
                 fontSize: 18,
                 textAlign: "center",

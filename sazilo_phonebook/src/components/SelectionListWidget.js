@@ -1,98 +1,87 @@
 import React from "react";
-import { View, Text, SectionList, Image, SafeAreaView } from "react-native";
-import ButtonWidget from "./ButtonWidget";
-const SelectionListWidget = ({ data }) => {
+import {
+  View,
+  Text,
+  SectionList,
+  Image,
+  SafeAreaView,
+  TouchableOpacity,
+  FlatList,
+} from "react-native";
+
+const SelectionListWidget = ({ data, navigation }) => {
   const handleSelection = (item) => {
     console.log(item.department);
+    navigation.navigate("ViewMoreScreen");
   };
 
+  const renderGridItem = ({ item }) => (
+    <TouchableOpacity onPress={() => handleSelection(item)}>
+      <View style={styles.gridItemContainer}>
+        <Image source={item.imageUrl} style={styles.gridItemImage} />
+        <Text style={styles.gridItemText}>{item.department}</Text>
+        <Text style={styles.gridItemDescription}>description</Text>
+      </View>
+    </TouchableOpacity>
+  );
+
   return (
-    <SafeAreaView horizontal={false} style={{ flex: 1 }}>
+    <SafeAreaView>
       <SectionList
         sections={data}
-        keyExtractor={(item, index) => index.toString()}
+        keyExtractor={(item) => item.id.toString()}
+        style={{ marginBottom: "30%" }}
         renderSectionHeader={({ section: { category } }) => (
-          <Text style={{ fontSize: 18, fontWeight: "bold" }}>{category}</Text>
-        )}
-        renderItem={({ item }) => (
           <View
             style={{
-              flexDirection: "column",
               borderBottomWidth: 1,
               borderColor: "lightgray",
-              paddingBottom: 10,
+              marginBottom: 10,
             }}
           >
-            <Text>{item.department}</Text>
-            <Image
-              source={item.imageUrl}
-              style={{
-                width: "100%",
-                height: 100,
-                borderTopLeftRadius: 10,
-                borderTopRightRadius: 10,
-                borderColor: "black",
-              }}
+            <Text style={{ fontSize: 18, fontWeight: "bold" }}>{category}</Text>
+          </View>
+        )}
+        renderItem={({ section }) => (
+          <View style={styles.gridContainer}>
+            <FlatList
+              data={section.data}
+              keyExtractor={(item) => item.id.toString()}
+              renderItem={renderGridItem}
+              numColumns={3} // Display three boxes per row
             />
-            <View
-              style={{
-                flex: 1,
-                height: 10,
-                backgroundImage: "linear-gradient(to bottom, #ff0000, #00ff00)",
-              }}
-            ></View>
-
-            <View
-              style={{
-                backgroundColor: "white",
-                borderBottomLeftRadius: 10,
-                borderBottomRightRadius: 10,
-                paddingHorizontal: 15,
-                paddingVertical: 10,
-              }}
-            >
-              <Text style={{ marginBottom: 10 }}>description</Text>
-              <ButtonWidget
-                mode="contained"
-                onPress={() => handleSelection(item)}
-                text="view more"
-              />
-            </View>
           </View>
         )}
       />
     </SafeAreaView>
   );
 };
+
 const styles = {
-  itemContainer: {
-    padding: 16,
-    borderBottomWidth: 1,
-    borderBottomColor: "#ccc",
-  },
-  categoryName: {
-    fontSize: 18,
-    fontWeight: "bold",
-  },
-  departmentsContainer: {
+  gridContainer: {
     flexDirection: "row",
+    justifyContent: "space-between",
     flexWrap: "wrap",
   },
-  department: {
-    marginRight: 5,
-    marginBottom: 5,
-    backgroundColor: "#eee",
-    padding: 5,
-    borderRadius: 5,
+  gridItemContainer: {
+    backgroundColor: "white",
+    borderRadius: 10,
+    margin: 5,
+    width: 100, // 3 boxes in a row, adjust as needed
   },
-  imagesContainer: {
-    flexDirection: "row",
-    flexWrap: "wrap",
-  },
-  image: {
-    width: 100,
+  gridItemImage: {
+    width: "100%",
     height: 100,
-    marginRight: 5,
+    borderTopLeftRadius: 10,
+    borderTopRightRadius: 10,
+  },
+  gridItemText: {
+    paddingHorizontal: 15,
+    paddingVertical: 10,
+  },
+  gridItemDescription: {
+    paddingHorizontal: 15,
+    marginBottom: 10,
   },
 };
 

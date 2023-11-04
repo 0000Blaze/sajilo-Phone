@@ -1,5 +1,6 @@
 import "react-native-gesture-handler";
 import { Icon } from "@rneui/themed";
+import { SafeAreaView, SafeAreaProvider } from "react-native-safe-area-context";
 
 import { NavigationContainer } from "@react-navigation/native";
 import Home from "./src/Screens/Home";
@@ -8,6 +9,7 @@ import Register from "./src/Screens/Registration";
 import Fav from "./src/Screens/Fav";
 import Search from "./src/Screens/Search";
 import Profile from "./src/Screens/Profile";
+import ViewMoreScreen from "./src/Screens/ViewMoreScreen";
 
 import { createMaterialBottomTabNavigator } from "@react-navigation/material-bottom-tabs";
 import { createStackNavigator } from "@react-navigation/stack";
@@ -29,6 +31,11 @@ export default function App() {
           <Stack.Screen name="Register" component={Register} />
           <Stack.Screen name="Profile" component={Profile} />
           <Stack.Screen name="Search" component={Search} />
+          <Stack.Screen
+            name="ViewMoreScreen"
+            component={ViewMoreScreen}
+            options={{ title: "Search By Location" }}
+          />
         </Stack.Navigator>
       </NavigationContainer>
     </>
