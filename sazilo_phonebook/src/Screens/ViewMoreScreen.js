@@ -1,3 +1,4 @@
+import { useLayoutEffect } from "react";
 import {
   View,
   Text,
@@ -10,31 +11,16 @@ import {
 } from "react-native";
 
 import ContactCard from "../components/ContactCard";
-const contacts = [
-  { name: "Tejan Khanal", phone: "+9779841312349", post: "Mayor" },
-  { name: "Kedarbabu Basnet", phone: "+9779862605188", post: "Deputy Mayor" },
-  {
-    name: "Balram Lamshal",
-    phone: "+9779852823111",
-    post: "Chief Executive Officer",
-  },
-  {
-    name: "Sushma Acharya",
-    phone: "+9779852843333",
-    post: "Information Officer",
-  },
-  { name: "Rakesh Maharjan", phone: "+9779849460147", post: "Sajilo Phone" },
-];
 
-export default function ViewMoreScreen({ setPageSecond }) {
-  const makePhoneCall = (phone) => {
-    if (Platform.OS === "android") {
-      Linking.openURL(`tel:${phone}`);
-    } else {
-      Linking.openURL(`telprompt:${phone}`);
-    }
-  };
+export default function ViewMoreScreen({ route, navigation }) {
+  const { department } = route.params;
   const number = [91203123, 98454];
+  useLayoutEffect(() => {
+    // Set the screen title here
+    navigation.setOptions({
+      title: department.toUpperCase(),
+    });
+  }, []);
   return (
     <View style={styles.container}>
       <Text style={styles.location}>

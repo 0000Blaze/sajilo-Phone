@@ -17,6 +17,7 @@ function ContactCard({ numbers }) {
     }
   };
   console.log(numbers);
+
   return (
     <View style={decoration.contactCard}>
       <View style={decoration.details}>

@@ -12,7 +12,10 @@ import {
 const SelectionListWidget = ({ data, navigation }) => {
   const handleSelection = (item) => {
     console.log(item.department);
-    navigation.navigate("ViewMoreScreen");
+    navigation.navigate("ViewMoreScreen", {
+      department: item.department,
+      // You can pass more variables here if needed
+    });
   };
 
   const renderGridItem = ({ item }) => (

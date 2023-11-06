@@ -24,7 +24,7 @@ export default function Search({ navigation }) {
     console.log("Selected Distance:", selectedDistance);
     console.log("Selected Department:", selectedDepartment);
   }, [selectedDistance, selectedDepartment]);
-
+  const data = "asdhj";
   return (
     <>
       <HeaderWidget>
@@ -51,7 +51,7 @@ export default function Search({ navigation }) {
         />
         <View style={decoration.countParent}>
           <Text style={decoration.count}>Results </Text>
-          <Text style={decoration.count}>(97)</Text>
+          <Text style={decoration.count}>(0)</Text>
         </View>
         <View style={{ height: selectedFilter, overflow: "hidden" }}>
           {/* filter */}
@@ -109,24 +109,11 @@ export default function Search({ navigation }) {
         {/* contactCard display */}
         <SafeAreaView style={{ height: "67%" }}>
           <ScrollView>
-            <ContactCard numbers={numbers} />
-            <ContactCard numbers={numbers} />
-            <ContactCard numbers={numbers} />
-            <ContactCard numbers={numbers} />
-            <ContactCard numbers={numbers} />
-            <ContactCard numbers={numbers} />
-            <ContactCard numbers={numbers} />
-            <ContactCard numbers={numbers} />
-            <ContactCard numbers={numbers} />
-            <ContactCard numbers={numbers} />
-            <ContactCard numbers={numbers} />
-            <ContactCard numbers={numbers} />
-            <ContactCard numbers={numbers} />
-            <ContactCard numbers={numbers} />
-            <ContactCard numbers={numbers} />
-            <ContactCard numbers={numbers} />
-            <ContactCard numbers={numbers} />
-            <ContactCard numbers={numbers} />
+            {data !== undefined ? (
+              <ContactCard numbers={numbers} />
+            ) : (
+              <Text>No data</Text>
+            )}
           </ScrollView>
         </SafeAreaView>
       </View>
