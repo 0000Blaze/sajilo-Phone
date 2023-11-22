@@ -5,7 +5,9 @@ import { StatusBar } from "expo-status-bar";
 import { Icon } from "@rneui/base";
 // const MORE_ICON = Platform.OS === "ios" ? "dots-horizontal" : "dots-vertical";
 import image from "../../assets/images/header.jpg";
-const HeaderWidget = ({ children, navigation }) => {
+import { useNavigation } from "@react-navigation/native";
+const HeaderWidget = ({ children }) => {
+  const navigation = useNavigation();
   return (
     <View
       style={{

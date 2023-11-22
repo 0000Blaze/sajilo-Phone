@@ -14,17 +14,21 @@ import { Header, Icon } from "@rneui/base";
 
 import HeaderWidget from "../components/HeaderWidget";
 import ButtonWidget from "../components/ButtonWidget";
+
+import { useApiData } from "../context/DataContext";
+
 const numbers = [91203123, 123912039];
 export default function Search({ navigation }) {
   const [selectedDistance, setSelectedDistance] = useState("");
   const [selectedDepartment, setSelectedDepartment] = useState("");
+  const { apiData } = useApiData();
 
   const [selectedFilter, setSelectedFilter] = useState(0);
   useEffect(() => {
     console.log("Selected Distance:", selectedDistance);
     console.log("Selected Department:", selectedDepartment);
   }, [selectedDistance, selectedDepartment]);
-  const data = "asdhj";
+  const data = apiData;
   return (
     <>
       <HeaderWidget>

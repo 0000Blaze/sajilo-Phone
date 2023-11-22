@@ -13,109 +13,16 @@ import {
 } from "react-native";
 import { Icon } from "@rneui/base";
 
-import { Surface } from "react-native-paper";
 import HeaderWidget from "../components/HeaderWidget";
 import SelectionListWidget from "../components/SelectionListWidget";
 import ButtonWidget from "../components/ButtonWidget";
 
+import { useApiData } from "../context/DataContext";
+
 import * as Location from "expo-location";
 
 function Home({ navigation }) {
-  function CardItem({ name, department, image, number }) {
-    return (
-      <Surface
-        style={{
-          width: "100%",
-          borderRadius: 10,
-          backgroundColor: "#fff",
-        }}
-      >
-        <TouchableOpacity
-          style={{
-            flexDirection: "row",
-            height: 80,
-            width: "100%",
-            overflow: "hidden",
-            borderRadius: 10,
-          }}
-          onPress={() => makePhoneCall(number)}
-        >
-          <Image
-            source={image}
-            style={{
-              height: "100%",
-              width: 80,
-              borderWidth: 1,
-              borderRadius: 10,
-            }}
-          />
-          <View
-            style={{
-              borderColor: "black",
-              width: "100%",
-              paddingHorizontal: 15,
-            }}
-          >
-            <Text
-              style={{
-                textTransform: "capitalize",
-                fontWeight: 800,
-                fontSize: 20,
-                color: "green",
-                overflow: "scroll",
-              }}
-            >
-              name
-            </Text>
-            <View
-              style={{ flexDirection: "row", alignItems: "center", gap: 4 }}
-            >
-              <Icon
-                name="suitcase"
-                type="font-awesome"
-                size={12}
-                color="grey"
-              />
-              <Text
-                style={{
-                  textTransform: "capitalize",
-                  fontWeight: 800,
-                  fontSize: 12,
-                  color: "grey",
-                }}
-              >
-                {name}
-              </Text>
-            </View>
-            <View
-              style={{
-                flexDirection: "row",
-                alignItems: "center",
-                gap: 4,
-              }}
-            >
-              <Icon
-                name="map-marker"
-                type="font-awesome"
-                size={12}
-                color="grey"
-              />
-              <Text
-                style={{
-                  textTransform: "capitalize",
-                  fontWeight: 800,
-                  fontSize: 12,
-                  color: "grey",
-                }}
-              >
-                State 1, kathmandu, swoyambhu
-              </Text>
-            </View>
-          </View>
-        </TouchableOpacity>
-      </Surface>
-    );
-  }
+  const data = [];
   const makePhoneCall = (number) => {
     if (Platform.OS === "android") {
       Linking.openURL(`tel:${number}`);
@@ -244,8 +151,9 @@ function Home({ navigation }) {
   }
   const [location, setLocation] = useState(null);
   const [errorMsg, setErrorMsg] = useState(null);
+  const { apiData, setApiDataValue } = useApiData();
   useEffect(() => {
-    (async () => {
+    const getLocation = async () => {
       try {
         let { status } = await Location.requestForegroundPermissionsAsync();
         if (status !== "granted") {
@@ -258,7 +166,26 @@ function Home({ navigation }) {
       } catch (err) {
         console.log(err);
       }
-    })();
+    };
+    const fetchData = async () => {
+      try {
+        const response = await fetch(
+          "https://sijen.github.io/sajilophonedb/db.json"
+        );
+
+        if (!response.ok) {
+          throw new Error("Network request failed");
+        }
+
+        const data = await response.json();
+        setApiDataValue(data);
+      } catch (error) {
+        console.error("Error fetching data:", error);
+      }
+    };
+
+    fetchData();
+    getLocation();
   }, []);
 
   let text = "Waiting..";
@@ -310,7 +237,11 @@ function Home({ navigation }) {
           >
             What's your emergency?
           </Text>
-          <SelectionListWidget data={DATA} navigation={navigation} />
+          <SelectionListWidget
+            data={DATA}
+            navigation={navigation}
+            datas={data}
+          />
         </SafeAreaView>
       </View>
     </>

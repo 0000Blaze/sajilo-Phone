@@ -2,18 +2,19 @@ import React from "react";
 import {
   View,
   Text,
-  SectionList,
+  ScrollView,
   Image,
   SafeAreaView,
   TouchableOpacity,
   FlatList,
 } from "react-native";
 
-const SelectionListWidget = ({ data, navigation }) => {
+const SelectionListWidget = ({ data, navigation, datas }) => {
   const handleSelection = (item) => {
     console.log(item.department);
     navigation.navigate("ViewMoreScreen", {
       department: item.department,
+      datas: datas,
       // You can pass more variables here if needed
     });
   };
@@ -23,18 +24,19 @@ const SelectionListWidget = ({ data, navigation }) => {
       <View style={styles.gridItemContainer}>
         <Image source={item.imageUrl} style={styles.gridItemImage} />
         <Text style={styles.gridItemText}>{item.department}</Text>
-        <Text style={styles.gridItemDescription}>description</Text>
+        {/* <Text style={styles.gridItemDescription}>description</Text> */}
       </View>
     </TouchableOpacity>
   );
 
   return (
     <SafeAreaView>
-      <SectionList
-        sections={data}
-        keyExtractor={(item) => item.id.toString()}
+      
+      <FlatList
         style={{ marginBottom: "30%" }}
-        renderSectionHeader={({ section: { category } }) => (
+        data={data}
+        keyExtractor={(item) => item.category}
+        renderItem={({ item }) => (
           <View
             style={{
               borderBottomWidth: 1,
@@ -42,16 +44,14 @@ const SelectionListWidget = ({ data, navigation }) => {
               marginBottom: 10,
             }}
           >
-            <Text style={{ fontSize: 18, fontWeight: "bold" }}>{category}</Text>
-          </View>
-        )}
-        renderItem={({ section }) => (
-          <View style={styles.gridContainer}>
+            <Text style={{ fontSize: 18, fontWeight: "bold" }}>
+              {item.category}
+            </Text>
             <FlatList
-              data={section.data}
+              data={item.data}
               keyExtractor={(item) => item.id.toString()}
               renderItem={renderGridItem}
-              numColumns={3} // Display three boxes per row
+              numColumns={3}
             />
           </View>
         )}
@@ -81,6 +81,9 @@ const styles = {
   gridItemText: {
     paddingHorizontal: 15,
     paddingVertical: 10,
+    textAlign: "center",
+    textTransform: "uppercase",
+    fontWeight: 900,
   },
   gridItemDescription: {
     paddingHorizontal: 15,

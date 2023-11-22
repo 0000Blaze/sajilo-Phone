@@ -1,6 +1,6 @@
 import "react-native-gesture-handler";
 import { Icon } from "@rneui/themed";
-import { SafeAreaView, SafeAreaProvider } from "react-native-safe-area-context";
+// import { SafeAreaView, SafeAreaProvider } from "react-native-safe-area-context";
 
 import { NavigationContainer } from "@react-navigation/native";
 import Home from "./src/Screens/Home";
@@ -11,6 +11,8 @@ import Search from "./src/Screens/Search";
 import Profile from "./src/Screens/Profile";
 import ViewMoreScreen from "./src/Screens/ViewMoreScreen";
 
+import { DataProvider } from "./src/context/DataContext";
+
 import { createMaterialBottomTabNavigator } from "@react-navigation/material-bottom-tabs";
 import { createStackNavigator } from "@react-navigation/stack";
 
@@ -19,7 +21,7 @@ const Tab = createMaterialBottomTabNavigator();
 
 export default function App() {
   return (
-    <>
+    <DataProvider>
       <NavigationContainer>
         <Stack.Navigator>
           <Stack.Screen
@@ -38,7 +40,7 @@ export default function App() {
           />
         </Stack.Navigator>
       </NavigationContainer>
-    </>
+    </DataProvider>
   );
 }
 

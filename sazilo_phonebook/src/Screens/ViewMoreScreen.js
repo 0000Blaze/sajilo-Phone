@@ -1,51 +1,43 @@
-import { useLayoutEffect } from "react";
-import {
-  View,
-  Text,
-  Image,
-  Dimensions,
-  StyleSheet,
-  Platform,
-  Linking,
-  TouchableOpacity,
-} from "react-native";
-
+import React, { useEffect } from "react";
+import { View, Text, Dimensions, StyleSheet, FlatList } from "react-native";
 import ContactCard from "../components/ContactCard";
+import { useApiData } from "../context/DataContext";
 
 export default function ViewMoreScreen({ route, navigation }) {
   const { department } = route.params;
-  const number = [91203123, 98454];
-  useLayoutEffect(() => {
-    // Set the screen title here
+  const { apiData, setApiDataValue } = useApiData();
+
+  useEffect(() => {
     navigation.setOptions({
       title: department.toUpperCase(),
     });
-  }, []);
+  }, [department, navigation]);
+  console.log(apiData["department"]);
+
+  const renderContactCard = ({ item }) => (
+    <ContactCard
+      numbers={[item["Faculty Phone no."], item["Worker Contact"]]}
+      details={item}
+    />
+  );
+
   return (
     <View style={styles.container}>
-      <Text style={styles.location}>
+      {/* <Text style={styles.location}>
         Siddhicharan Municipality , Okhaldhunga
-      </Text>
-      <ContactCard numbers={number} />
-      {/* <View style={styles.contactList}>
-        {contacts.map((contact, index) => (
-          <TouchableOpacity onPress={() => makePhoneCall(contact.phone)}>
-            <View style={styles.contact} key={index}>
-              <Text>
-                {contact.name} | {contact.post}
-              </Text>
-
-              <Image source={require("../../assets/button/phone.png")} />
-            </View>
-          </TouchableOpacity>
-        ))}
-      </View> */}
+      </Text> */}
+      <FlatList
+        data={apiData.filter((contact) => department === "ambulance")}
+        renderItem={renderContactCard}
+        keyExtractor={(item, index) => index.toString()}
+      />
     </View>
   );
 }
 
 const windowWidth = Dimensions.get("window").width;
 const windowHeight = Dimensions.get("window").height;
+
 const styles = StyleSheet.create({
   container: {
     display: "flex",
@@ -53,35 +45,5 @@ const styles = StyleSheet.create({
     width: windowWidth,
     paddingHorizontal: 10,
   },
-  titleBox: {
-    backgroundColor: "#14213D",
-    height: 30,
-    width: 100,
-    fontStyle: "bold",
-    paddingVertical: 5,
-    paddingHorizontal: 10,
-    borderTopLeftRadius: 5,
-    borderBottomLeftRadius: 5,
-  },
   location: { color: "grey" },
-  contactList: {
-    display: "flex",
-    alignItems: "center",
-    borderColor: "black",
-    borderWidth: 1,
-    overflow: "hidden",
-    width: windowWidth - 20,
-  },
-  contact: {
-    backgroundColor: "#fff",
-    width: windowWidth - 0,
-    marginTop: 20,
-    paddingVertical: 5,
-    paddingHorizontal: 20,
-    borderRadius: 5,
-    flexDirection: "row",
-    justifyContent: "space-between",
-    alignItems: "center",
-    color: "black",
-  },
 });

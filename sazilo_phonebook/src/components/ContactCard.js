@@ -1,14 +1,13 @@
+import React from "react";
 import {
   View,
   Text,
   StyleSheet,
-  ScrollView,
-  SafeAreaView,
   Linking,
   TouchableOpacity,
 } from "react-native";
 
-function ContactCard({ numbers }) {
+function ContactCard({ numbers, details }) {
   const makePhoneCall = (phone) => {
     if (Platform.OS === "android") {
       Linking.openURL(`tel:${phone}`);
@@ -16,7 +15,6 @@ function ContactCard({ numbers }) {
       Linking.openURL(`telprompt:${phone}`);
     }
   };
-  console.log(numbers);
 
   return (
     <View style={decoration.contactCard}>
@@ -27,50 +25,40 @@ function ContactCard({ numbers }) {
             { fontSize: 24, fontWeight: "400", marginBottom: 2 },
           ]}
         >
-          Suryabinayak Hospital
+          {details ? details["Faculty Name"] : "Default Title"}
         </Text>
         <Text style={decoration.address}>
-          Address: thulobharyang, kathmandu{" "}
+          {details
+            ? `${details["District"]}, ${details["Province"]}`
+            : "Default Address"}
         </Text>
 
-        {numbers.map((number, index) => {
-          return (
-            <TouchableOpacity
-              onPress={() => {
-                const ph = 9860817530;
-                makePhoneCall(number);
-              }}
-            >
-              <View
-                style={{
-                  button: {
-                    alignItems: "center",
-                    backgroundColor: "#DDDDDD",
-                    padding: 10,
-                  },
-                }}
-              >
-                <Text style={{ justifyContent: "center" }}>
-                  {`Helpline (${index + 1})`}
-                  <Text style={decoration.number}>{number}</Text>
-                </Text>
-              </View>
-            </TouchableOpacity>
-          );
-        })}
+        {numbers.map((number, index) => (
+          <TouchableOpacity
+            key={index}
+            onPress={() => {
+              // const ph = 9860817530; // What is the purpose of this line?
+              makePhoneCall(number);
+            }}
+          >
+            <View style={decoration.button}>
+              <Text style={{ justifyContent: "center" }}>
+                {`Helpline (${index + 1}) `}
+                <Text style={decoration.number}>{number}</Text>
+              </Text>
+            </View>
+          </TouchableOpacity>
+        ))}
       </View>
       <View
-        style={{
-          justifyContent: "center",
-          alignItems: "center",
-          width: "30%",
-        }}
+        style={{ justifyContent: "center", alignItems: "center", width: "30%" }}
       >
         <Text style={decoration.distance}>1.0 KM</Text>
       </View>
     </View>
   );
 }
+
 const decoration = StyleSheet.create({
   contactCard: {
     flexDirection: "row",
@@ -91,7 +79,6 @@ const decoration = StyleSheet.create({
     backgroundColor: "#01216980",
     color: "white",
   },
-
   details: {
     // borderWidth: 1,
     width: "70%",
@@ -107,5 +94,9 @@ const decoration = StyleSheet.create({
     paddingHorizontal: 5,
     marginTop: "7%",
   },
+  button: {
+    paddingVertical: 3,
+  },
 });
+
 export default ContactCard;
