@@ -12,7 +12,8 @@ export default function ViewMoreScreen({ route, navigation }) {
       title: department.toUpperCase(),
     });
   }, [department, navigation]);
-  console.log(apiData["department"]);
+
+  const filteredData = apiData.filter((contact) => department === "ambulance");
 
   const renderContactCard = ({ item }) => (
     <ContactCard
@@ -23,14 +24,15 @@ export default function ViewMoreScreen({ route, navigation }) {
 
   return (
     <View style={styles.container}>
-      {/* <Text style={styles.location}>
-        Siddhicharan Municipality , Okhaldhunga
-      </Text> */}
-      <FlatList
-        data={apiData.filter((contact) => department === "ambulance")}
-        renderItem={renderContactCard}
-        keyExtractor={(item, index) => index.toString()}
-      />
+      {filteredData.length === 0 ? (
+        <Text style={styles.noDataMessage}>No data available for this department</Text>
+      ) : (
+        <FlatList
+          data={filteredData}
+          renderItem={renderContactCard}
+          keyExtractor={(item, index) => index.toString()}
+        />
+      )}
     </View>
   );
 }
@@ -45,5 +47,12 @@ const styles = StyleSheet.create({
     width: windowWidth,
     paddingHorizontal: 10,
   },
-  location: { color: "grey" },
+  location: {
+    color: "grey",
+  },
+  noDataMessage: {
+    fontSize: 18,
+    textAlign: "center",
+    marginTop: 20,
+  },
 });
